@@ -16,7 +16,7 @@ Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.
 
 .. toctree::
    :numbered:
-   :maxdepth: 1
+   :maxdepth: 2
 
    presentacion.rst
    use_of_oai_pmh.rst
