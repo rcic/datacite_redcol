@@ -3,7 +3,7 @@
    :name: img_header
 
 ########################################################################################################################
-Directrices para repositorios institucionales de investigación de la Red Colombiana de Información Científica  - M701M02
+Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica  -RedCol-
 ########################################################################################################################
 
 ..
