@@ -1,7 +1,7 @@
 .. _use_of_oai_pmh:
 
 Alcance 
-=======
+===============
 
 Las instituciones pueden contar con diferentes infraestructuras de recursos para depositar su producción científica:  Sistemas de información de investigación, Repositorios institucionales , Bibliotecas Digitales, y Sistemas de publicación monográficos/seriados (sistemas de acceso abierto para sus libros y revistas). Estas directrices pretenden generar lineamientos para exponer los datos de la producción científica ajustadas a la infraestructura establecida por las instituciones y se fundamentan en estándares internacionales de calidad de datos tales como Directrices Driver,  OpenAIRE Guidelines for Literature Repository Managers (Versiones 3.0 y 4.0), manual de metadatos y políticas de cosecha 2015 de la Red Federada de Repositorios de Acceso Abierto a la Ciencia de Latinoamérica LA Referencia, entre otros. 
 
