@@ -1,6 +1,6 @@
 .. _descGenPer:
 
-Perfil de Aplicación de los metadatos 
+Perfil de Aplicación de los metadatos FRANZ
 ======================================
 
 El perfil de aplicación es una descripción detallada de los campos de metadatos recomendados para su implementación en repositorios institucionales de investigación. Para el caso de este conjunto de directrices se han creado los siguientes campos de elementos con su correspondiente descripción detallada:
