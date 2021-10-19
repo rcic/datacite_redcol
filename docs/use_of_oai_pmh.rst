@@ -1,4 +1,4 @@
-.. _use_of_oai_pmh:
+.. _use_of_oai_pmh.rst:
 
 Alcance 
 ===============
