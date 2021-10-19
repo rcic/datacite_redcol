@@ -20,7 +20,7 @@ Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.
 
    presentacion.rst
    use_of_oai_pmh.rst
-      1. prueba.rst
+   prueba.rst
    normatividadInter.rst
    interoperabilidad.rst
    descGenPer.rst
