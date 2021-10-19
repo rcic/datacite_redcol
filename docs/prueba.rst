@@ -1,14 +1,12 @@
-.. _prueba.rst:
+.. _prueba:
 
-Prueba
-===============
+PRUEBA
+======
 
-dfhetrh
-
-
-THIS IS A TEST
+A continuación, se presentan las PRUEBAS
 
 .. toctree::
    :maxdepth: 1
-
-   prueba1.rst
+   
+   prueba1
+   prueba2
