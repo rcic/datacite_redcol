@@ -1,2 +1,2 @@
-# openaire4
-OpenAire4
+# Datacite_RedCol
+Directrices de metadatos para Repositorios de Datos de Investigación
