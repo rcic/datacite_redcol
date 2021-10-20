@@ -1,0 +1,3 @@
+* Aceptado
+* Disponible
+* Emitido
