@@ -1,2 +1,4 @@
-.. _Version:
+﻿.. _Version:
+
+Version (Versión)(O)
 ===========

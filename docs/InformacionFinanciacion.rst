@@ -1,2 +1,4 @@
-.. _InformacionFinanciacion:
+﻿.. _InformacionFinanciacion:
+
+Información de financiación (funder) y patrocinio (sponsor)
 ===========

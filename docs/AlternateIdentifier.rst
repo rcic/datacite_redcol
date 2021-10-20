@@ -1,2 +1,4 @@
-.. _AlternateIdentifier:
+﻿.. _AlternateIdentifier:
+
+Alternate Identifier (Identificador alternativo)(O)
 ===========

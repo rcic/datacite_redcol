@@ -1,2 +1,4 @@
-.. _Subject:
+﻿.. _Subject:
+
+Subject (Materia)(R)
 ===========

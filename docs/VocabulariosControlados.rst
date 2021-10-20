@@ -1,2 +1,4 @@
-.. _VocabulariosControlados:
+﻿.. _VocabulariosControlados:
+
+Vocabularios controlados
 ===========

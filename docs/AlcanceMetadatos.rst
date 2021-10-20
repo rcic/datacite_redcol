@@ -1,2 +1,4 @@
-.. _AlcanceMetadatos:
+﻿.. _AlcanceMetadatos:
+
+Alcance de las directrices de metadatos
 ===========

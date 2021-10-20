@@ -1,2 +1,4 @@
-.. _InformacionEmbargo:
+﻿.. _InformacionEmbargo:
+
+Información sobre fechas de embargo
 ===========

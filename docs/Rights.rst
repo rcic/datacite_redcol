@@ -1,2 +1,4 @@
-.. _Rights:
+﻿.. _Rights:
+
+Rights (Derechos de acceso) (MA)
 ===========

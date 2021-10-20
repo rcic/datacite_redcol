@@ -1,2 +1,4 @@
-.. _ResourceType:
+﻿.. _ResourceType:
+
+ResourceType (Tipo de datos) (M)
 ===========

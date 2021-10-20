@@ -1,2 +1,4 @@
-.. _Language:
+﻿.. _Language:
+
+Language (Idioma)(R)
 ===========

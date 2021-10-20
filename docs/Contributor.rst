@@ -1,2 +1,4 @@
-.. _Contributor:
+﻿.. _Contributor:
+
+Contributor (Colaborador) (MA / O)
 ===========

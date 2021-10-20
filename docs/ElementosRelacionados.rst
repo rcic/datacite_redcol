@@ -1,2 +1,4 @@
-.. _ElementosRelacionados:
+﻿.. _ElementosRelacionados:
+
+Elementos Relacionados (RelatedItem) (O)
 ===========

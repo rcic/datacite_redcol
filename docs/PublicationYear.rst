@@ -1,2 +1,4 @@
-.. _PublicationYear:
+﻿.. _PublicationYear:
+
+PublicationYear (Año de publicación) (M)
 ===========

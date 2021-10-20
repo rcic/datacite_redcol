@@ -1,2 +1,4 @@
-.. _Geolocation:
+﻿.. _Geolocation:
+
+Geolocation(Ubicación geográfica)(O)
 ===========

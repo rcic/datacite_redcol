@@ -1,2 +1,4 @@
-.. _Publisher:
+﻿.. _Publisher:
+
+Publisher (Editor) (M)
 ===========

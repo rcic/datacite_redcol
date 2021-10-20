@@ -1,2 +1,4 @@
-.. _RelatedIdentifier:
+﻿.. _RelatedIdentifier:
+
+RelatedIdentifier (Identificador relacionado)(MA)
 ===========
