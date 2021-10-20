@@ -11,16 +11,10 @@ Directrices de Metadatos para Repositorios de Datos de Investigación de la Red 
 Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.gov.co/ 
 =====================================================================================
 
-..
-
-
-.. toctree::
-   :numbered:
-   :maxdepth: 2
-
-   presentacion.rst
+presentacion.rst
    use_of_oai_pmh.rst
    prueba.rst
+   
    normatividadInter.rst
    interoperabilidad.rst
    descGenPer.rst
@@ -28,8 +22,18 @@ Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.
    glosario.rst
    anexos.rst
    bibliografia.rst
-   controlcambios.rst   
+   controlcambios.rst  
+
+..
+
+
+.. toctree::
+   :numbered:
+   :maxdepth: 2
+   PresentacionDirectrices.rst 
 
 .. image:: _static/logominciencias.png
    :scale: 60%
    :name: img_footer
+   
+
