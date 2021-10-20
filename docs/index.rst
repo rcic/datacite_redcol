@@ -16,19 +16,14 @@ Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.
 
 .. toctree::
    :numbered:
-   :maxdepth: 2
+   :maxdepth: 1
 
-   presentacion.rst
-   use_of_oai_pmh.rst
-   prueba.rst
-   normatividadInter.rst
-   interoperabilidad.rst
-   descGenPer.rst
-   vocabulario.rst
-   glosario.rst
-   anexos.rst
-   bibliografia.rst
-   controlcambios.rst   
+    PresentacionDirectrices.rst
+    ModeloInvestigacion.rst
+    DescripcionAplicacion.rst
+    Bibliografia.rst
+   
+   
 
 .. image:: _static/logominciencias.png
    :scale: 60%
