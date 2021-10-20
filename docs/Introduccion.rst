@@ -1,4 +1,0 @@
-.. _Introduccion:
-
-Introducci�n
-===========

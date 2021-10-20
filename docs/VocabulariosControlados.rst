@@ -1,5 +1,0 @@
-.. _VocabulariosControlados:
-
-Vocabularios controlados
-
-======
