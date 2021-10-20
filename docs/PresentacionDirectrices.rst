@@ -1,4 +1,4 @@
-.. _PresentacionDirectrices:
+.. _PresentacionDirectrices.rst:
 
 Presentación de las Directrices
 ===========
