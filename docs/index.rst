@@ -18,7 +18,7 @@ Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.
    :numbered:
    :maxdepth: 2
 
-    PresentacionDirectrices.sh
+    PresentacionDirectrices.rst
     ModeloInvestigacion
     DescripcionAplicacion
     Bibliografia
