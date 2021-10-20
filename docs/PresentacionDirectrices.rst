@@ -1,6 +1,4 @@
 .. _PresentacionDirectrices:
 
-Presentación de las Directrices
+Presentaci�n de las Directrices
 ===========
-
-PARRAFO DE Presentación de las Directrices
