@@ -1,4 +1,4 @@
-﻿.. _FormatoInteroperabilidad:
+.. _FormatoInteroperabilidad:
 
 Formato de metadatos para interoperabilidad
 ===========
