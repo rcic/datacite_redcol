@@ -11,9 +11,9 @@ Se contempla el uso del protocolo OAI-PMH para realizar el intercambio de metada
 +-----------------+-------------------------------------------------------------------+
 | Protocolo       | Descripción                                                       |
 +=================+===================================================================+
-| OAI-PMH                      | Protocolo de Iniciativa de Archivos  Abiertos para la Recolección |
-|                               | de Metadatos (OAI-PMH): Protocolo de recolección de registros de  |
-|                     | metadatos entre servicios y repositorios.                         |
+| OAI-PMH         | Protocolo de Iniciativa de Archivos  Abiertos para la Recolección |
+|                 | de Metadatos (OAI-PMH): Protocolo de recolección de registros de  |
+|                 | metadatos entre servicios y repositorios.                         |
 +-----------------+-------------------------------------------------------------------+
 
 
