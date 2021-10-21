@@ -31,11 +31,11 @@ Una sola ocurrencia. No repetible (NR).
         -   **Valores permitidos (vocabularios controlados)**
 
 ..
-
 +-------------------------------------------------------------+
 | Valores de lista controlados (DataCite)                     |
 +=============================================================+
 | DOI (Valor por defecto)                                     |
++-------------------------------------------------------------+
 +-------------------------------------------------------------+
 | Valores de lista controlados (OpenAIRE)                     | 
 +=============================================================+
