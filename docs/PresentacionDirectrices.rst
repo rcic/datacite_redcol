@@ -1,4 +1,4 @@
-﻿.. _PresentacionDirectrices:
+.. _PresentacionDirectrices:
 
 Presentación de las Directrices
 ===========
