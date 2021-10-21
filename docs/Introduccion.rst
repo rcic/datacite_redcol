@@ -1,4 +1,4 @@
-.. _Introduccion:
+.. _Introduccion.rst:
 
 Introducción
 ===========
