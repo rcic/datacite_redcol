@@ -1,4 +1,4 @@
-.. _AlcanceMetadatos:
+.. _AlcanceMetadatos.rst:
 
 Alcance de las directrices de metadatos
 ===========
