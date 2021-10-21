@@ -11,6 +11,6 @@ En este caso, se deben registrar dos fechas relacionadas:
 
 -   Fecha de finalización(Available): fecha \"Disponible\" para indicar el final de un período de embargo.
 
-.. image:: _static/image3.png
+.. image:: _static/imagen3.png
    :scale: 35%
    :name: img_derechos
