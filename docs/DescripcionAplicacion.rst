@@ -1,4 +1,4 @@
-﻿.. _DescripcionAplicacion:
+.. _DescripcionAplicacion:
 
 Descripción general del perfil de la aplicación
 ===========
