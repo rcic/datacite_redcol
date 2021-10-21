@@ -13,8 +13,6 @@ Se recomienda utilizar cómo mínimo los campos de:
 
 -   URI de la Licencia: URL que enlace un documento digital asociado a la licencia descrita anteriormente.
 
-![](_static/image1.png){width="6.270833333333333in"
-height="1.2811482939632546in"}
 
 .. image:: _static/image1.png
    :scale: 35%
