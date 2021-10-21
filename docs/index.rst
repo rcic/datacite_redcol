@@ -19,9 +19,7 @@ Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.
    :maxdepth: 1
    
    PresentacionDirectrices.rst
-   ModeloInvestigacion.rst
-   DescripcionAplicacion.rst
-   Bibliografia.rst   
+      
 
 .. image:: _static/logominciencias.png
    :scale: 60%
