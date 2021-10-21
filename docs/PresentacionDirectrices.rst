@@ -1,4 +1,4 @@
-.. _PresentacionDirectrices:
+.. _PresentacionDirectrices.rst:
 
 Presentación de las Directrices
 ===========
@@ -7,5 +7,5 @@ Presentación de las Directrices
    :numbered:
    :maxdepth: 1
 
-   Introduccion
-   AlcanceMetadatos   
+   Introduccion.rst
+   AlcanceMetadatos.rst  
