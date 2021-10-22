@@ -3,7 +3,7 @@
 Description (Descripción)(MA)
 ===========
 
-## *3.17. Description (Descripción)(MA)*
+*3.17. Description (Descripción)(MA)*
 
 *3.17.1. Nombre según el esquema de metadatos utilizado*
 
