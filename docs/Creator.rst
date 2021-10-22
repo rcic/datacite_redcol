@@ -42,7 +42,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
                 +=============================================================+
                 | Personal                | Autor Personal                    |
                 +-------------------------+-----------------------------------+
-                | Organizational          |                  |
+                | Organizational          |                                   |
                 +-------------------------+-----------------------------------+
                 ..
 
@@ -61,9 +61,9 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
         | (nameIdentifierScheme)  | Vocabulario (schemeURI)               |                                        |
         +=================================================================+========================================+
         |  EMAIL                  | https://schema.org/email              | Dirección principal de correo          |
-        |                         |                                       | electrónico
+        |                         |                                       | electrónico                            |
         +-------------------------+---------------------------------------+----------------------------------------+
-        |  FUNDREF                | http://www.crossref.org/fundref/      | Global Research Identifier Database    ||                         |                                       |                                        |
+        |  FUNDREF                | http://www.crossref.org/fundref/      | Global Research Identifier Database    |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  GRID                   | https://grid.ac/                      | Global Research Identifier Database    |
         +-------------------------+--------------------------------------------------------------------------------+
@@ -72,7 +72,8 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
         |  ISNI                   | http://www.isni.org/                  | International Standard Name Identifier |
         |                         |                                       | (ISO 27729)                            |
         +-------------------------+--------------------------------------------------------------------------------+
-        |  LCNAF                  |  http://id.loc.gov/authorities/names  | Library of Congress authority ID       ||                         |  .html|                               |                                        |
+        |  LCNAF                  |  http://id.loc.gov/authorities/names  | Library of Congress authority ID       |
+        |                         |  .html                                |                                        |
         +-------------------------+--------------------------------------------------------------------------------+
         |  OCLC                   | http://experimental.worldcat.org/fast/| OCLC FAST Authority File               |
         +-------------------------+--------------------------------------------------------------------------------+
