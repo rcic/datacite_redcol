@@ -3,7 +3,7 @@
 RelatedIdentifier (Identificador relacionado)(MA)
 ===========
 
-## *3.12. RelatedIdentifier (Identificador relacionado)(MA)*
+*3.12. RelatedIdentifier (Identificador relacionado)(MA)*
 
 *3.12.1. Nombre según el esquema de metadatos utilizado*
 
