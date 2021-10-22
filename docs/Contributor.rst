@@ -7,6 +7,4 @@ Contributor (Colaborador) (MA / O)
 
 .. csv-table:: Libro1
    :file: _static/Libro1.csv
-   :header-rows: 1
-   :class: longtable
-   :widths: 1 1
+
