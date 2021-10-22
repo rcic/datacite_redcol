@@ -81,10 +81,6 @@ True   True   True
 
   ScriptWriter                 Guionista                  redcol/lom
 
-  SoftwareDeveloper            Desarrollador -            redcol
-                               Programador-Integrador   
-                               de software -              
-
   Sponsor                      Patrocinador               datacite
 
   SubjectMatterExpert          experto en la materia      redcol/lom
