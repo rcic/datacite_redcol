@@ -7,7 +7,6 @@ Contributor (Colaborador) (MA / O)
 
 +-----------------------------+
 |  Vocabulario                |
-|   Normalizado               |
 +=============================+
 
 
