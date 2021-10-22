@@ -42,6 +42,9 @@ Fechas asociadas al recurso
 .. image:: _static/image29.png
    :scale: 35%
    :name: img_dataverse2
+   
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/8. Date 3.8.6. Propiedades, atributos y especificadores.xlsx>`
+
 **3.8.7. Forma de descripción recomendada**
 
 -   Fecha de publicación completa: Información relacionada con la publicación, impresión, distribución, emisión y puesta en circulación del recurso. Debe ingresarse con las reglas de codificación de la W3C / ISO 8601 para fechas y horas (AAAA-MM-DD) (por ejemplo: 1997-07-16):
