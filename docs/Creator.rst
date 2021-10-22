@@ -73,7 +73,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
         |                         |                                       | (ISO 27729)                            |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  LCNAF                  | http://id.loc.gov/authorities/names   | Library of Congress authority ID       |
-        |                         |.html                                  |                                        |
+        |                         | .html                                 |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  OCLC                   | http://experimental.worldcat.org/fast/| OCLC FAST Authority File               |
         +-------------------------+---------------------------------------+----------------------------------------+
