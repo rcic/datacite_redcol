@@ -44,10 +44,11 @@ Repetible (R) según los distintos contextos de aplicación de la tipología doc
 .. image:: _static/image34.png
    :scale: 35%
    :name: table_tipologiaNat1
-
 .. image:: _static/image35.png
    :scale: 35%
    :name: table_tipologiaNat2
+   
+
 
 -   **Tipología Documental Normalizada COAR para Datos de investigación:** Se debe seleccionar la etiqueta normalizada (término preferido) que corresponda con el tipo de recurso. Así mismo debe estar debidamente relacionado con una URI asociada del tipo PURL. Las tipologías adaptadas para datos de investigación (dataset) son:
 
