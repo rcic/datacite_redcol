@@ -39,6 +39,9 @@ Repetible (R): 0-n veces
    :scale: 35%
    :name: table_identificadoAlt2  
 
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.11.6. Propiedades, atributos y especificadores.xlsx>`
+
+
 **3.11.7. Forma de descripción recomendada**
 
 -   **Identificador Alternativo:** Identificador del recurso, puede ser una cadena alfanumérica que sea única dentro de su dominio o emisión.
