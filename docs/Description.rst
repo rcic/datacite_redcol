@@ -38,7 +38,8 @@ Repetible (R): 0-n
 .. image:: _static/image17_1.png
    :scale: 35%
    :name: table_atributodescrip
-
+   
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.17.6. Propiedades, atributos y especificadores.xlsx>`
 
 *3.17.7. Forma de descripción recomendada*
 
