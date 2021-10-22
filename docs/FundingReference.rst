@@ -41,10 +41,10 @@ Repetible (R): 0-n
    :scale: 35%
    :name: table_atributorela
 
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.19.6. Propiedades, atributos y especificadores.xlsx>`
 
 -   *Atributo URI del Esquema (SchemeURI) (R, 0-1):* El URI del esquema de identificadores de entidades de financiación asociados con el atributo *funderIdentifiertype*
 
-{=html}<!-- -->
 
 -   *SubPropiedad: Número de adjudicación (awardNumber) (O, 1):* Esta propiedad de uso opcional, incluye el número de adjudicación exclusivamente al nombre de la entidad. Esta propiedad está pensada como un complemento aclaratorio a la propiedad *funderName*. Para el caso de proyectos financiados por MinCiencias, este atributo debe contener el número de contrato del proyecto de investigación para proyectos financiados.
 
