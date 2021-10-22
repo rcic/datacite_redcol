@@ -42,7 +42,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
                 +=========================+===================================+
                 | Personal                | Autor Personal                    |
                 +-------------------------+-----------------------------------+
-                | Organizational          |                                   |
+                | Organizational          | Autor Corporativo                 |
                 +-------------------------+-----------------------------------+
                 ..
 
@@ -72,8 +72,8 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
         |  ISNI                   | http://www.isni.org/                  | International Standard Name Identifier |
         |                         |                                       | (ISO 27729)                            |
         +-------------------------+---------------------------------------+----------------------------------------+
-        |  LCNAF                  |  http://id.loc.gov/authorities/names  | Library of Congress authority ID       |
-        |                         |  .html                                |                                        |
+        |  LCNAF                  |  http://id.loc.gov/authorities/names.html  | Library of Congress authority ID       |
+        |                         |                                            |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  OCLC                   | http://experimental.worldcat.org/fast/| OCLC FAST Authority File               |
         +-------------------------+---------------------------------------+----------------------------------------+
