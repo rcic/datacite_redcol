@@ -6,7 +6,7 @@ Contributor (Colaborador) (MA / O)
 **3.7.8. Equivalencias Dublin Core**
 
 +-----------------------------------------------------------------------+
-|  Vocabulario                                                          |
+|  Vocabulario                sdfvwvrevr                                |
 +=======================================================================+
 | .. image:: _static/image16.png                                        |
 |  :scale: 35%                                                          |
