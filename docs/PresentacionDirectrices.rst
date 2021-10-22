@@ -7,5 +7,5 @@ Presentación de las Directrices
    :numbered:
    :maxdepth: 1
 
-   Introduccion.rst
-   AlcanceMetadatos.rst  
+   Introduccion
+   AlcanceMetadatos
