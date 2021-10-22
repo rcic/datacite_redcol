@@ -50,6 +50,8 @@ Repetible (R) 0-n veces
 .. image:: _static/image12_3.png
    :scale: 35%
    :name: table_atributoiden
+   
+   Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - relatedIdentifierType.xlsx>`
 
 -   *Atributo: Tipo de Relación (relationType) (MA, 1 si la propiedad relatedIdentifier es utilizada):* Este atributo permite describir la relación del recurso que se está describiendo (A) con otro recurso relacionado (B). Se debe tener en cuenta los siguientes tipos de relación y su codificación normalizada según el vocabulario controlado propuesto:
 
@@ -69,6 +71,8 @@ Repetible (R) 0-n veces
    :scale: 35%
    :name: table_atributorela
 
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - relationType.xlsx>`
+
 -   *Atributo: Esquema de metadatos relacionado (relatedMetadataScheme) (O, 0-1):* Este atributo permite establecer un esquema de metadatos utilizado para describir la relación del identificador. Este atributo debe ser únicamente utilizado si el atributo anterior *relationType* es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
 -   *Atributo: URI del esquema de metadatos relacionado (schemeURI) (O, 0-1):* Este atributo permite establecer la URI normalizada del esquema de metadatos utilizado para describir la relación del identificador en un formato estándar (XSD,DDT, Turtle). Este atributo debe ser únicamente utilizado si el atributo anterior *relationType* es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
@@ -77,7 +81,7 @@ Repetible (R) 0-n veces
 
 -   *Atributo: Tipo de contenidos en el recurso relacionado (resourceTypeGeneral) (O, 0-1):* Este campo describe el tipo de contenidos que se encuentran en el recurso relacionado. Se debe tener en cuenta los mismos tipos de contenidos de Tipología y Naturaleza del Contenido del Recurso indicados según el vocabulario controlado provisto por DataCite (*resourceTypeGeneral*):
 
-  .. image:: _static/image12_8.png
+.. image:: _static/image12_8.png
    :scale: 35%
    :name: table_atributocont
 
@@ -92,6 +96,8 @@ Repetible (R) 0-n veces
 .. image:: _static/image12_11.png
    :scale: 35%
    :name: table_atributocont
+
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - resourceTypeGeneral.xlsx>`
 
 *3.12.7. Forma de descripción recomendada*
 
