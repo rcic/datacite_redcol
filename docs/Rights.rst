@@ -47,6 +47,8 @@ Repetible (R): 0-n veces
 .. image:: _static/image16_1.png
    :scale: 35%
    :name: table_FormaRecomendada
+   
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.16.7. Forma de descripción recomendada.xlsx>`
 
 -   Como un complemento a la licencia, se recomienda agregar en una ocurrencia de la propiedad **rights,** la información asociada a los niveles de acceso del recurso, los cuales se construyen utilizando el vocabulario controlado de COAR **"Access Rights"**
 
