@@ -13,6 +13,7 @@ Contributor (Colaborador) (MA / O)
   |Advisor                | dc.contributor.advisor                |Director de trabajo de |
   |                       |                                       |grado tesis de         |
   |                       |                                       |maestría/doctorado     |                
+  +-----------------------+---------------------------------------+-----------------------+
   |AudiovisualDesigner    |dc.contributor.audiovisualdesigner     |Diseñador Audiovisual  |
   +-----------------------+---------------------------------------+-----------------------+
 ..
