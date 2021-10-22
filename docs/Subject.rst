@@ -171,7 +171,7 @@ Se recomienda utilizar términos tomados de un esquema de clasificación estánd
 | > **\<subject xml:lang=\"en\"\>Ponhook Lake (N.S.)\</subject>**       |
 |                                                                       |
 | **\</subjects>**                                                      |
-+=======================================================================+
++-----------------------------------------------------------------------+
 | .. image:: _static/image16.png                                        |
 |  :scale: 35%                                                          |
 |  :name: img_termino                                                   |
