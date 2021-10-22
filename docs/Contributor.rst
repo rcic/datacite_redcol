@@ -51,8 +51,7 @@ Repetible (R): 0-n veces. Repita este campo para describir todas las entidades r
 
 ..
         +-------------------------+---------------------------------------+----------------------------------------+
-        | Vocabulario Normalizado | Descripción del                       | Dominio de Vocabulario                 |
-        |                         | Atributo                              |                                        |
+        | Vocabulario Normalizado | Descripción del Atributo              | Dominio de Vocabulario                 |
         +=========================+=======================================+========================================+
         |  Organizational         | Colaboración Corporativo              | datacite                               |
         +-------------------------+---------------------------------------+----------------------------------------+
@@ -111,24 +110,24 @@ Repetible (R): 0-n veces. Repita este campo para describir todas las entidades r
 
 -   **Ejemplo XML**
 
-.. image:: _static/image19.png
+.. image:: _static/image25.png
    :scale: 35%
    :name: img_xml2
 
 -   **Ejemplo XML**
 
-.. image:: _static/image20.png
+.. image:: _static/image26.png
    :scale: 35%
    :name: img_xml3
 
 -   **Ejemplo Dataverse (Productor)**
 
-.. image:: _static/image21.png
+.. image:: _static/image27.png
    :scale: 35%
    :name: img_dataverse1
 
 -   **Ejemplo Dataverse (Distintos Roles de Colaboración- Personas)**
 
-.. image:: _static/image22.png
+.. image:: _static/image28.png
    :scale: 35%
    :name: img_dataverse2
