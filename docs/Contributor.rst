@@ -5,6 +5,6 @@ Contributor (Colaborador) (MA / O)
 
 **3.7.8. Equivalencias Dublin Core**
 
-.. image:: _static/Libro1.csv
+.. csv-table:: _static/Libro1.csv
    :scale: 35%
    :name: img_header
