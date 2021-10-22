@@ -5,8 +5,13 @@ Contributor (Colaborador) (MA / O)
 
 **3.7.8. Equivalencias Dublin Core**
 
-.. csv-table:: _static/Libro1.csv
-   :file: _static/Libro1.csv
-   :header-rows: 1
-   :class: longtable
-   :widths: 1 1 1
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
