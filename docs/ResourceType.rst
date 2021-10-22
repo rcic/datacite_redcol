@@ -53,13 +53,13 @@ Repetible (R) según los distintos contextos de aplicación de la tipología doc
 
 +-----------+-----------+-----------+----------------------------------+
 |           |           | URI       | Descripción                      |
-|  Concepto |  Etiqueta |           |                                  |
-| - Término | en        | (r        |                                  |
-| Pr        | español   | esourceTy |                                  |
-| eferido   |           | peCOAR)   |                                  |
+| Concepto  | Etiqueta  |           |                                  |
+| Término   | en        | (resource |                                  |
+| Preferodo | español   |TypeCOAR)  |                                  |
 |           |           |           |                                  |
-|   (resour |           |           |                                  |
-| ceType)   |           |           |                                  |
+|           |           |           |                                  |
+| (resource |           |           |                                  |
+|Type)      |           |           |                                  |
 +===========+===========+===========+==================================+
 | dataset   | conjunto  | [[h       | Una colección de hechos y datos  |
 |           | de datos  | ttp://pur | relacionados codificados en una  |
