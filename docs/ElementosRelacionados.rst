@@ -68,9 +68,21 @@ Repetible (R) 0-n veces.
 
             -   *Atributo Tipo de Título del recurso relacionado (titleType)(O,0-1):* Especifica el tipo de título del siguiente vocabulario controlado:
 
-.. image:: _static/image20_1.png
-   :scale: 35%
-   :name: table_atributo
+..
+  +----------------------------+------------------------------------------+
+  |Vocabulario Normalizado     |    Descripción                           |
+  +----------------------------+------------------------------------------+
+  |AlternativeTitle            |    Título Alternativo / Variantes del    |
+  |                            |    Título                                |
+  +----------------------------+------------------------------------------+
+  |Subtitle                    |      Subtítulo (Recomendado unificar en  |
+  |                            |      Título: Subtítulo)                  |
+  +----------------------------+------------------------------------------+
+  |TranslatedTitle             |      Título Traducido                    |
+  +----------------------------+------------------------------------------+
+  |Other                       |      Otros Títulos                       |
+  +----------------------------+------------------------------------------+
+..
 
 -   *Subpropiedad Año de publicación (publicationYear)(O,0-1):* Especifica el año de publicación del recurso relacionado
 
@@ -82,9 +94,21 @@ Repetible (R) 0-n veces.
 
     -   *Atributo Tipo del número del ejemplar (numberType) (O,0-1):* Tipo de número del artículo relacionado seleccionado del siguiente vocabulario controlado:
 
-.. image:: _static/image20_2.png
-   :scale: 35%
-   :name: table_atributo
+ ..
+  +----------------------------+
+  |Vocabulario Normalizado     |
+  +----------------------------+
+  |Article                     |
+  |                            |
+  +----------------------------+
+  |Chapter                     |
+  |                            |
+  +----------------------------+
+  |Report                      |
+  +----------------------------+
+  |Other                       |
+  +----------------------------+
+..
 
 -   *SubPropiedad Página inicial (firstPage)(O,0-1):* Indica la página inicial del recurso
 
