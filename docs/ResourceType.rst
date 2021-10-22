@@ -47,7 +47,8 @@ Repetible (R) según los distintos contextos de aplicación de la tipología doc
 .. image:: _static/image35.png
    :scale: 35%
    :name: table_tipologiaNat2
-   
+  
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.10. ResourceType 3.10.7. Forma de descripción recomendada.xlsx>`
 
 
 -   **Tipología Documental Normalizada COAR para Datos de investigación:** Se debe seleccionar la etiqueta normalizada (término preferido) que corresponda con el tipo de recurso. Así mismo debe estar debidamente relacionado con una URI asociada del tipo PURL. Las tipologías adaptadas para datos de investigación (dataset) son:
