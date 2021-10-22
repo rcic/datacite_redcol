@@ -41,7 +41,7 @@ Repetible (R): 0-n veces. Repita este campo para describir todas las entidades r
   :scale: 35%                                                          
   :name: tbl_3 
 
-Descargar tabla: download:`xlsx <_Downloads/table_tipoColaboracion.xlsx>`
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_tipoColaboracion.xlsx>`
 
 -   **SubPropiedad: Nombre Completo del Colaborador (contributorName) (M, 1):** Esta propiedad incluye el texto asociado al colaborador del recurso que debe ser descrito en cualquiera de los formas de descripción propuestas para el campo authorName.
 
@@ -73,7 +73,7 @@ Descargar tabla: download:`xlsx <_Downloads/table_tipoColaboracion.xlsx>`
   :scale: 35%                                                          
   :name: tbl_4 
 
-Descargar tabla: download:`xlsx <_Downloads/table_IdentificadorNombre.xlsx>`
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_IdentificadorNombre.xlsx>`
 
 -   **Atributo Nombre del esquema del identificador (nameIdentifierScheme) (M, 1, si es utilizada la propiedad nameIdentifier):** Este atributo permite especificar el nombre del esquema identificador utilizado para describir al colaborador en el campo de metadatos. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad nameIdentifier.
 
@@ -106,7 +106,7 @@ Descargar tabla: download:`xlsx <_Downloads/table_IdentificadorNombre.xlsx>`
   :scale: 35%                                                          
   :name: tbl_6
   
-Descargar tabla: download:`xlsx <_Downloads/table_equivalenciaDublin.xlsx>`
+Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_equivalenciaDublin.xlsx>`
 
 3.7.9. Ejemplos (XML y DATAVERSE)
 
