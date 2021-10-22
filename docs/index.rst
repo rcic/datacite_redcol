@@ -1,4 +1,4 @@
-.. image:: _static/LogoRedColNaranja.png
+.. image:: _static/RedCol-Logo-Provisional.png
    :scale: 35%
    :name: img_header
 
