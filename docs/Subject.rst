@@ -43,7 +43,8 @@ Repetible (R): 0-n veces
         +=========================+=======================================+========================================+
         |  AGROVOC                | Vocabulario controlado de agricultura | https://agrovoc.fao.org/               |
         +-------------------------+---------------------------------------+----------------------------------------+
-        |  ARMARC                 | Archivo en línea de autoridades       | http://www.armarcenlinea.com/          ||                         | de materia                            |                                        |
+        |  ARMARC                 | Archivo en línea de autoridades       | http://www.armarcenlinea.com/          |
+        |                         | de materia                            |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  CLASSIFICATION         | Esquema de clasificación local        |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
@@ -51,7 +52,8 @@ Repetible (R): 0-n veces
         +-------------------------+---------------------------------------+----------------------------------------+
         |  DECS                   | Descriptores en ciencia de la salud   | http://decs.bvs.br/                    |
         +-------------------------+---------------------------------------+----------------------------------------+
-        |  ECM                    | Catálogo de unión de autoridades de   | http://librunam.dgbiblio.unam.mx       ||                         | materia de México DGB/UNAM            |                                        |
+        |  ECM                    | Catálogo de unión de autoridades de   | http://librunam.dgbiblio.unam.mx       |
+        |                         | materia de México DGB/UNAM            |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  JEL                    | Códigos de clasificación en economía  | http://www.aeaweb.org/econlit/jelCodes.|
         |                         |                                       | php                                    |
@@ -71,7 +73,8 @@ Repetible (R): 0-n veces
         |  MESH                   | Lista de términos en temas            |                                        |
         |                         | médicos                               |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
-        |  OCDE                   | Lista de términos en desarrollo       |                                        ||                         | económico y social                    |                                        |
+        |  OCDE                   | Lista de términos en desarrollo       |                                        |
+        |                         | económico y social                    |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  OTHER                  | Otros Vocabularios                    |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
