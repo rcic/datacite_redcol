@@ -7,7 +7,7 @@ Contributor (Colaborador) (MA / O)
 
 +-----------------------------+
 |  Vocabulario                |
-|                    |
+|              RGER      |
 +-----------------------------+
 
 
