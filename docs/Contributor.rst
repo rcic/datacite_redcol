@@ -6,8 +6,7 @@ Contributor (Colaborador) (MA / O)
 **3.7.8. Equivalencias Dublin Core**
 
 +-----------------------------------------------------------------------+
-|  Vocabulario           Descripción del              Dominio de        |
-|   Normalizado              Atributo                Vocabulario        |                                         |
+|  Vocabulario                                                          |
 +=======================================================================+
 | .. image:: _static/image16.png                                        |
 |  :scale: 35%                                                          |
