@@ -49,7 +49,7 @@ Repetible (R): 0-n veces. Repita este campo para describir todas las entidades r
 
     -   **Atributo: Tipo de Colaborador (nameType) (O, 0-1):** Este atributo permite especificar el tipo de colaborador que se describe en el campo de metadatos. Se debe tener en cuenta los siguientes tipos de colaboradores y su codificación normalizada según el vocabulario controlado propuesto:
 
-..
+        ..
         +-------------------------+---------------------------------------+----------------------------------------+
         | Vocabulario Normalizado | Descripción del Atributo              | Dominio de Vocabulario                 |
         +=========================+=======================================+========================================+
@@ -61,7 +61,7 @@ Repetible (R): 0-n veces. Repita este campo para describir todas las entidades r
         +-------------------------+---------------------------------------+----------------------------------------+
         |  Service                | Servicio                              | redcol                                 |
         +-------------------------+---------------------------------------+----------------------------------------+
-..
+        ..
 
 
 -   **SubPropiedad: Nombres (givenName) (O, 0-1):** Esta propiedad de uso opcional, incluye el texto asociado exclusivamente a los nombres (primer y segundo nombres) del colaborador cuando este se trate de una persona.
