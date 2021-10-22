@@ -10,6 +10,6 @@ Contributor (Colaborador) (MA / O)
    :header-rows: 1
 
 .. csv-table:: Table1
-   :file: _static/Libro1.csv
+   :file: ./_static/Libro1.csv
    :widths: 30, 70
    :header-rows: 1
