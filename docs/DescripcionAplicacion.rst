@@ -1,6 +1,6 @@
 .. _DescripcionAplicacion:
 
-Descripción general del perfil de la aplicación
+Descripción general del perfil de aplicación
 ===========
 
 .. toctree::
