@@ -35,7 +35,7 @@ Repetible (R) según los distintos contextos de aplicación de la tipología doc
 
     -   **Atributo URI del identificador de la tipología COAR (resourceTypeCOAR)(R,1):** Este atributo permite especificar la URI asociada a la tipología documental normalizada según el **vocabulario de tipologías** **COAR versión 3.0,** en especial las tipologías adaptadas para datos de investigación (dataset).
 
-**3.10.7. Forma de descripción recomendada**
+**3.10.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Revise la forma adecuada para seleccionar el tipo de recurso, se recomienda utilizar los vocabularios de tipologías documentales de COAR y de Tipologías de DataCite.
 
