@@ -3,7 +3,7 @@
 Geolocation(Ubicación geográfica)(O)
 ===========
 
-## *3.18. Geolocation(Ubicación geográfica)(O)*
+*3.18. Geolocation(Ubicación geográfica)(O)*
 
 *3.18.1. Nombre según el esquema de metadatos utilizado*
 
@@ -63,7 +63,7 @@ Repetible (R): 0-n veces. Repita el campo si el recurso incluye ubicaciones geog
 
         -   *SubPropiedad: Punto Latitud (pointLatitude) (M, 1):* Dimensión latitudinal del punto.
 
-*3.18.7. Forma de descripción recomendada*
+*3.18.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
 
 -   Cuando describa coordenadas geográficas, se recomienda utilizar las coordenadas codificadas según el modelo WGS 84 (Sistema geodésico mundial). Este modelo usa solo números decimales para las coordenadas. Las longitudes son -180 a 180 (0 es Greenwich, los números negativos son al oeste, los números positivos son al este), las latitudes son -90 a 90 (0 es el ecuador, los números negativos son al sur, los números positivos al norte).
 
