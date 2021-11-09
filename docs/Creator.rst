@@ -73,7 +73,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
         |                         |                                       | (ISO 27729)                            |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  LCNAF                  | http://id.loc.gov/authorities/names   | Library of Congress authority ID       |
-        |                         | .html                                 |                                        |
+        |                         |.html                                  |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  OCLC                   | http://experimental.worldcat.org/fast/| OCLC FAST Authority File               |
         +-------------------------+---------------------------------------+----------------------------------------+
@@ -89,7 +89,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
         |  ROR                    | https://ror.org/                      |Research Organization Registry Community|
         +-------------------------+---------------------------------------+----------------------------------------+
         |  SCOPUS                 | https://www.scopus.com/freelookup/    | Author ID SCOPUS                       |
-        |                         | form/author.uri                       |                                        |
+        |                         |form/author.uri                        |                                        |
         +-------------------------+---------------------------------------+----------------------------------------+
         |  VIAF                   | https://viaf.org/                     | Virtual International Authority File   |
         +-------------------------+---------------------------------------+----------------------------------------+
@@ -108,7 +108,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 
     -   **Atributo URI del esquema del identificador (SchemeURI) (R, 0-1, si es utilizada la propiedad affiliationIdentifierScheme):** Este atributo permite especificar la URI del nombre del esquema identificador utilizado por la afiliación institucional del autor. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad **nameIdentifier** asociado específicamente para organizaciones/instituciones (ISNI, ROR,etc..)
 
-**3.2.7. Forma de descripción recomendada**
+**3.2.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Para nombres personales utilizar el formato invertido de tal forma que la sintaxis sea: "Apellido" + ", " + "Nombre".
 
