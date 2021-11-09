@@ -3,12 +3,12 @@
    :name: img_header
 
 ########################################################################################################################
-Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica  -RedCol-
+Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica
 ########################################################################################################################
 
 ..
 
-Red Colombiana de Información Científica (RedCol) - http://redcol.minciencias.gov.co/ 
+Red Colombiana de Información Científica - http://redcol.minciencias.gov.co/ 
 =====================================================================================
 
 ..
