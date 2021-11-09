@@ -37,58 +37,58 @@ Repetible (R): 0-n veces
 
 ..
                 
-        +-------------------------+---------------------------------------+----------------------------------------+
-        | Vocabulario Normalizado | Descripción del                       | URI del Esquema                        |
-        | (nameIdentifierScheme)  | Atributo                              | (schemeURI)                            |
-        +=========================+=======================================+========================================+
-        |  AGROVOC                | Vocabulario controlado de agricultura | https://agrovoc.fao.org/               |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  ARMARC                 | Archivo en línea de autoridades       | http://www.armarcenlinea.com/          |
-        |                         | de materia                            |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  CLASSIFICATION         | Esquema de clasificación local        |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  DDC                    | Clasificación Decimal Dewey           | http://dewey.info/                     |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  DECS                   | Descriptores en ciencia de la salud   | http://decs.bvs.br/                    |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  ECM                    | Catálogo de unión de autoridades de   | http://librunam.dgbiblio.unam.mx       |
-        |                         | materia de México DGB/UNAM            |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  JEL                    | Códigos de clasificación en economía  | http://www.aeaweb.org/econlit/jelCodes.|
-        |                         |                                       | php                                    |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  LCC                    | Clasificación de la Biblioteca del    | http://www.loc.gov/catdir/cpso/lcco/   |
-        |                         | Congreso de EE.UU                     |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  LCSH                   | Listado de encabezamiento de materias |                                        |
-        |                         | de la Biblioteca del Congreso de EE.UU|                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  LEM                    | Listado de encabezamiento de materias |                                        |
-        |                         | de la Biblioteca Nacional de España   |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  LEMB                   | Listado de encabezamiento de materias |                                        |
-        |                         | para Biblioteca Luis Angel Arango     |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  MESH                   | Lista de términos en temas            |                                        |
-        |                         | médicos                               |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  OCDE                   | Lista de términos en desarrollo       |                                        |
-        |                         | económico y social                    |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  OTHER                  | Otros Vocabularios                    |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  PROPOSAL               | Descriptores Propuestos No            |                                        |
-        |                         | normalizados                          |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  SPINES                 | Tesauro Spines                        |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  TEE                    | Tesauro europeo de Educación          |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  UDC                    | Clasificación Decimal Universal       |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  UNESCO                 | Tesauro multidisciplinario            |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        | Vocabulario Normalizado | Descripción del                       | URI del Esquema                           |
+        | (nameIdentifierScheme)  | Atributo                              | (schemeURI)                               |
+        +=========================+=======================================+===========================================+
+        |  AGROVOC                | Vocabulario controlado de agricultura | https://agrovoc.fao.org/                  |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  ARMARC                 | Archivo en línea de autoridades       | http://www.armarcenlinea.com/             |
+        |                         | de materia                            |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  CLASSIFICATION         | Esquema de clasificación local        |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  DDC                    | Clasificación Decimal Dewey           | http://dewey.info/                        |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  DECS                   | Descriptores en ciencia de la salud   | http://decs.bvs.br/                       |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  ECM                    | Catálogo de unión de autoridades de   | http://librunam.dgbiblio.unam.mx          |
+        |                         | materia de México DGB/UNAM            |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  JEL                    | Códigos de clasificación en economía  | http://www.aeaweb.org/econlit/jelCodes.php|
+        |                         |                                       |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  LCC                    | Clasificación de la Biblioteca del    | http://www.loc.gov/catdir/cpso/lcco/      |
+        |                         | Congreso de EE.UU                     |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  LCSH                   | Listado de encabezamiento de materias |                                           |
+        |                         | de la Biblioteca del Congreso de EE.UU|                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  LEM                    | Listado de encabezamiento de materias |                                           |
+        |                         | de la Biblioteca Nacional de España   |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  LEMB                   | Listado de encabezamiento de materias |                                           |
+        |                         | para Biblioteca Luis Angel Arango     |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  MESH                   | Lista de términos en temas            |                                           |
+        |                         | médicos                               |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  OCDE                   | Lista de términos en desarrollo       |                                           |
+        |                         | económico y social                    |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  OTHER                  | Otros Vocabularios                    |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  PROPOSAL               | Descriptores Propuestos No            |                                           |
+        |                         | normalizados                          |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  SPINES                 | Tesauro Spines                        |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  TEE                    | Tesauro europeo de Educación          |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  UDC                    | Clasificación Decimal Universal       |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
+        |  UNESCO                 | Tesauro multidisciplinario            |                                           |
+        +-------------------------+---------------------------------------+-------------------------------------------+
  
  ..  
   
@@ -99,7 +99,7 @@ Repetible (R): 0-n veces
 
 -   **Atributo Código de clasificación (classificationCode) (O, 0-1):** Este atributo permite almacenar el código de clasificación del término utilizado en el caso que esté disponible y se encuentre construido con una ontología ó utilizando enlaces de Linked Open Data (LOD).
 
-**3.6.7. Forma de descripción recomendada**
+**3.6.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 Se recomienda utilizar términos tomados de un esquema de clasificación estándar. Codifique cada término usando los atributos adicionales de la propiedad del sujeto (Nombre del lenguaje documental, Esquema y URL del Esquema ). Utilice el uso de mayúsculas y puntuación tal cual como aparece en el esquema original.
 
