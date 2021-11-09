@@ -57,42 +57,42 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 ..
                 
         +-------------------------+---------------------------------------+----------------------------------------+
-        | Vocabulario Normalizado | Esquema de Dominio del                | Descripción del Elemento               |
-        | (nameIdentifierScheme)  | Vocabulario (schemeURI)               |                                        |
-        +=========================+=======================================+========================================+
-        |  EMAIL                  | https://schema.org/email              | Dirección principal de correo          |
-        |                         |                                       | electrónico                            |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  FUNDREF                | http://www.crossref.org/fundref/      | Global Research Identifier Database    |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  GRID                   | https://grid.ac/                      | Global Research Identifier Database    |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  IRALISID               | https://www.iralis.org/               | IRA-LIS                                |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  ISNI                   | http://www.isni.org/                  | International Standard Name Identifier |
-        |                         |                                       | (ISO 27729)                            |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  LCNAF                  | http://id.loc.gov/authorities/names.html| Library of Congress authority ID       |
-        |                         |                                         |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  OCLC                   | http://experimental.worldcat.org/fast/| OCLC FAST Authority File               |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  ORCID                  | https://orcid.org                     | Open Researcher and Contributor ID     |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  OTHERS                 |                                       | Incluye: Facebook, Twitter, Mendeley,  |
-        |                         |                                       | LinkedIn, BNE, BNC, ResearchGate.      |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  PUBLONS                | https://publons.com                   | Clarivate Analytics Publons ID         |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  RESEARCHID             | https://www.researcherid.com          | Web of Science ResearcherID            |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  ROR                    | https://ror.org/                      |Research Organization Registry Community|
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  SCOPUS                 | https://www.scopus.com/freelookup/    | Author ID SCOPUS                       |
-        |                         |form/author.uri                        |                                        |
-        +-------------------------+---------------------------------------+----------------------------------------+
-        |  VIAF                   | https://viaf.org/                     | Virtual International Authority File   |
-        +-------------------------+---------------------------------------+----------------------------------------+
+        | Vocabulario Normalizado | Esquema de Dominio del                             | Descripción del Elemento               |
+        | (nameIdentifierScheme)  | Vocabulario (schemeURI)                            |                                        |
+        +=========================+====================================================+========================================+
+        |  EMAIL                  | https://schema.org/email                           | Dirección principal de correo          |
+        |                         |                                                    | electrónico                            |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  FUNDREF                | http://www.crossref.org/fundref/                   | Global Research Identifier Database    |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  GRID                   | https://grid.ac/                                   | Global Research Identifier Database    |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  IRALISID               | https://www.iralis.org/                            | IRA-LIS                                |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  ISNI                   | http://www.isni.org/                               | International Standard Name Identifier |
+        |                         |                                                    | (ISO 27729)                            |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  LCNAF                  | http://id.loc.gov/authorities/names.html           | Library of Congress authority ID       |
+        |                         |                                                    |                                        |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  OCLC                   | http://experimental.worldcat.org/fast/             | OCLC FAST Authority File               |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  ORCID                  | https://orcid.org                                  | Open Researcher and Contributor ID     |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  OTHERS                 |                                                    | Incluye: Facebook, Twitter, Mendeley,  |
+        |                         |                                                    | LinkedIn, BNE, BNC, ResearchGate.      |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  PUBLONS                | https://publons.com                                | Clarivate Analytics Publons ID         |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  RESEARCHID             | https://www.researcherid.com                       | Web of Science ResearcherID            |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  ROR                    | https://ror.org/                                   |Research Organization Registry Community|
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  SCOPUS                 | https://www.scopus.com/freelookup/form/author.uri  | Author ID SCOPUS                       |
+        |                         |                                                    |                                        |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
+        |  VIAF                   | https://viaf.org/                                  | Virtual International Authority File   |
+        +-------------------------+----------------------------------------------------+----------------------------------------+
 ..
 
 -   **Atributo Nombre del esquema del identificador (nameIdentifierScheme) (MA, 1, si es utilizada la propiedad nameIdentifier):** Este atributo permite especificar el nombre del esquema identificador utilizado para describir al autor en el campo de metadatos. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad nameIdentifier.
