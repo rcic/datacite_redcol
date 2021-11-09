@@ -4,7 +4,7 @@ Estándares de metadatos para la descripción de datos de investigación
 ===========
 Para la descripción de los conjuntos de datos y datasets, estas directrices toman como base los campos de metadatos propuestos por el modelo "Directrices de OpenAIRE para archivos de datos V.3.0"<sup>4</sup>, las cuales a su vez han adoptado el esquema de metadatos DataCite como base para describir conjuntos de datos de investigación ó DataSets.
 
-"El esquema de metadatos de DataCite es una lista de propiedades de metadatos centrales elegidas para una identificación precisa y coherente de un recurso para su recuperación y posterior citación, junto con las instrucciones de uso recomendadas"[^5].
+"El esquema de metadatos de DataCite es una lista de propiedades de metadatos centrales elegidas para una identificación precisa y coherente de un recurso para su recuperación y posterior citación, junto con las instrucciones de uso recomendadas"^5.
 
 Estas directrices se basan específicamente en el esquema de metadatos de DataCite v4.4. (Released 30 Mar 2021)[^6]. Adicionalmente se indican las equivalencias y recomendaciones de transformación de los campos de DataCite respecto a los estándares de Metadatos Dublin Core (DC) y Dublin Core Metadata terms (DCTERMS) como mecanismo de interoperabilidad compatibilidad con los repositorios institucionales que actualmente utilizan las Directrices para repositorios institucionales de investigación de la Red Colombiana de Información Científica - M701M02[^7] cuya base son las Directrices de OpenAIRE para repositorios literarios, institucionales y temáticos V.4.0[^8]
 
