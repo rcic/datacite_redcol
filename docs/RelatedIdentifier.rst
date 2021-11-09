@@ -71,7 +71,7 @@ Repetible (R) 0-n veces
    :scale: 35%
    :name: table_atributorela
 
-Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - relationType.xlsx>`
+gktukuktyukrtu
 
 -   *Atributo: Esquema de metadatos relacionado (relatedMetadataScheme) (O, 0-1):* Este atributo permite establecer un esquema de metadatos utilizado para describir la relación del identificador. Este atributo debe ser únicamente utilizado si el atributo anterior *relationType* es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
