@@ -2,7 +2,7 @@
 
 Estándares de metadatos para la descripción de datos de investigación
 ===========
-Para la descripción de los conjuntos de datos y datasets, estas directrices toman como base los campos de metadatos propuestos por el modelo "Directrices de OpenAIRE para archivos de datos V.3.0"<sup>4</sup>, las cuales a su vez han adoptado el esquema de metadatos DataCite como base para describir conjuntos de datos de investigación ó DataSets.
+Para la descripción de los conjuntos de datos y datasets, estas directrices toman como base los campos de metadatos propuestos por el modelo "Directrices de OpenAIRE para archivos de datos V.3.0" $$X^4$$, las cuales a su vez han adoptado el esquema de metadatos DataCite como base para describir conjuntos de datos de investigación ó DataSets.
 
 "El esquema de metadatos de DataCite es una lista de propiedades de metadatos centrales elegidas para una identificación precisa y coherente de un recurso para su recuperación y posterior citación, junto con las instrucciones de uso recomendadas"^5.
 
