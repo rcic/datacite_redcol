@@ -99,7 +99,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
 
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - resourceTypeGeneral.xlsx>`
 
-*3.12.7. Forma de descripción recomendada*
+*3.12.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
 
 *3.12.8. Equivalencias Dublin Core*
 
