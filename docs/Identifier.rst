@@ -58,7 +58,7 @@ Una sola ocurrencia. No repetible (NR).
 ..
   
 
-**3.1.7. Forma de descripción recomendada**
+**3.1.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 Por defecto, el formato debe ser consistente con un identificador del
 tipo DOI: \"10.1234/id\"
