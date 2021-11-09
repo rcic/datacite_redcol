@@ -51,7 +51,7 @@ Repetible (R): 1-n veces.
         ..
   
 
-**3.3.7. Forma de descripción recomendada**
+**3.3.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   **Título:** Ingrese el título del recurso, la primera letra en mayúscula y finaliza con punto. Ej: Acuerdos de paz en Colombia.
 
