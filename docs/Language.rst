@@ -27,7 +27,7 @@ Repetible (R): 0-n veces
 
 -   Propiedad Principal Idioma (language) (R, 0-n): Entidad que identifica cada uno de los idiomas relacionados con el recurso durante su ciclo de vida. Utilice el término controlado para indicar el tipo de fecha asociado al recurso según el vocabulario propuesto (Norma ISO 639-1 ó la norma IETF BCP 47):
 
-**3.9.7. Forma de descripción recomendada**
+**3.9.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Revise la forma adecuada para ingresar los códigos referentes al idioma. Existen múltiples vocabularios para normalizar los idiomas como se muestra a continuación:
 
