@@ -53,197 +53,201 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.10. ResourceType 3.10.7. Form
 
 -   **Tipología Documental Normalizada COAR para Datos de investigación:** Se debe seleccionar la etiqueta normalizada (término preferido) que corresponda con el tipo de recurso. Así mismo debe estar debidamente relacionado con una URI asociada del tipo PURL. Las tipologías adaptadas para datos de investigación (dataset) son:
 
-+-----------+-----------+-----------+----------------------------------+
-|           |           | URI       | Descripción                      |
-| Concepto  | Etiqueta  |           |                                  |
-| Término   | en        | (resource |                                  |
-| Preferodo | español   |TypeCOAR)  |                                  |
-|           |           |           |                                  |
-|           |           |           |                                  |
-| (resource |           |           |                                  |
-|Type)      |           |           |                                  |
-+===========+===========+===========+==================================+
-| dataset   | conjunto  | [[h       | Una colección de hechos y datos  |
-|           | de datos  | ttp://pur | relacionados codificados en una  |
-|           |           | l.org/coa | estructura definida.             |
-|           |           | r/resourc |                                  |
-|           |           | e_type/c_ |                                  |
-|           |           | ddb1]{.ul |                                  |
-|           |           | }](http:/ |                                  |
-|           |           | /purl.org |                                  |
-|           |           | /coar/res |                                  |
-|           |           | ource_typ |                                  |
-|           |           | e/c_ddb1) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| a         | datos     | [[http:// | Estadísticas que se relacionan   |
-| ggregated | agregados | purl.org/ | con clases, grupos o categorías  |
-| data      |           | coar/reso | generales. Los datos se          |
-|           |           | urce_type | promedian, se suman o se derivan |
-|           |           | /ACF7-8YT | de otro modo de datos a nivel    |
-|           |           | 9]{.ul}]( | individual, y ya no es posible   |
-|           |           | http://pu | distinguir las características   |
-|           |           | rl.org/co | de los individuos dentro de esas |
-|           |           | ar/resour | clases, grupos o categorías.     |
-|           |           | ce_type/A |                                  |
-|           |           | CF7-8YT9) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| clinical  | ensayo    | [[h       | Datos resultantes de un estudio  |
-| trial     | clínico   | ttp://pur | de investigación en el que uno o |
-| data      |           | l.org/coa | más sujetos humanos se asignan   |
-|           |           | r/resourc | prospectivamente a una o más     |
-|           |           | e_type/c_ | intervenciones (que pueden       |
-|           |           | cb28]{.ul | incluir placebo u otro control)  |
-|           |           | }](http:/ | para evaluar los efectos de esas |
-|           |           | /purl.org | intervenciones en los resultados |
-|           |           | /coar/res | biomédicos o conductuales        |
-|           |           | ource_typ | relacionados con la salud.       |
-|           |           | e/c_cb28) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| compiled  | datos     | [[http:// | Los datos recopilados o reunidos |
-| data      | c         | purl.org/ | a partir de fuentes múltiples, a |
-|           | ompilados | coar/reso | menudo heterogéneas, que tienen  |
-|           |           | urce_type | uno o más puntos de referencia   |
-|           |           | /FXF3-D3G | en común, y al menos una de las  |
-|           |           | 7]{.ul}]( | fuentes se produjo originalmente |
-|           |           | http://pu | para otros fines.                |
-|           |           | rl.org/co |                                  |
-|           |           | ar/resour |                                  |
-|           |           | ce_type/F |                                  |
-|           |           | XF3-D3G7) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| encoded   | datos     | [[http:// | Los datos cualitativos           |
-| data      | co        | purl.org/ | (textuales, video, audio o       |
-|           | dificados | coar/reso | imágenes fijas) originalmente    |
-|           |           | urce_type | producidos para otros propósitos |
-|           |           | /AM6W-6QA | en datos cuantitativos           |
-|           |           | W]{.ul}]( | (expresados en matrices unidad   |
-|           |           | http://pu | por variable) mediante el uso de |
-|           |           | rl.org/co | técnicas de codificación de      |
-|           |           | ar/resour | acuerdo con esquemas de          |
-|           |           | ce_type/A | categorización predefinidos.     |
-|           |           | M6W-6QAW) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| exp       | datos     | [[http:// | Datos resultantes del método de  |
-| erimental | exper     | purl.org/ | investigación experimental que   |
-| data      | imentales | coar/reso | implica la manipulación de       |
-|           |           | urce_type | algunas o todas las variables    |
-|           |           | /63NG-B46 | independientes incluidas en las  |
-|           |           | 5]{.ul}]( | hipótesis.                       |
-|           |           | http://pu |                                  |
-|           |           | rl.org/co |                                  |
-|           |           | ar/resour |                                  |
-|           |           | ce_type/6 |                                  |
-|           |           | 3NG-B465) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| genomic   | datos     | [[http:// | Los datos genómicos se refieren  |
-| data      | genómicos | purl.org/ | a los datos del genoma y del ADN |
-|           |           | coar/reso | de un organismo. Se utilizan en  |
-|           |           | urce_type | bioinformática para recolectar,  |
-|           |           | /A8F1-NPV | almacenar y procesar los genomas |
-|           |           | 9]{.ul}]( | de los seres vivos. Los datos    |
-|           |           | http://pu | genómicos son un término más     |
-|           |           | rl.org/co | extenso que los datos de         |
-|           |           | ar/resour | secuenciación. Sin embargo, los  |
-|           |           | ce_type/A | datos genómicos provienen        |
-|           |           | 8F1-NPV9) | principalmente de técnicas de    |
-|           |           |           | secuenciación. Puede incluir     |
-|           |           |           | datos sin secuenciación, como    |
-|           |           |           | datos de microarrays, datos de   |
-|           |           |           | paneles de PCR en tiempo real y  |
-|           |           |           | datos de estudios                |
-|           |           |           | farmacogenómicos.                |
-+-----------+-----------+-----------+----------------------------------+
-| g         | datos     | [[http:// | Los datos geoespaciales          |
-| eospatial | geoe      | purl.org/ | discretos generalmente se        |
-| data      | spaciales | coar/reso | representan utilizando datos     |
-|           |           | urce_type | vectoriales que consisten en     |
-|           |           | /2H0M-X76 | puntos, líneas y polígonos,      |
-|           |           | 1]{.ul}]( | mientras que los datos           |
-|           |           | http://pu | geoespaciales continuos          |
-|           |           | rl.org/co | generalmente se representan      |
-|           |           | ar/resour | mediante datos ráster, que       |
-|           |           | ce_type/2 | consisten en una cuadrícula de   |
-|           |           | H0M-X761) | celdas que cada una tiene su     |
-|           |           |           | propio valor.                    |
-+-----------+-----------+-----------+----------------------------------+
-| l         | cuaderno  | [[http:// | Un cuaderno de laboratorio es un |
-| aboratory | de        | purl.org/ | registro principal de la         |
-| notebook  | la        | coar/reso | investigación. Los               |
-|           | boratorio | urce_type | investigadores utilizan un       |
-|           |           | /H41Y-FW7 | cuaderno de laboratorio para     |
-|           |           | B]{.ul}]( | documentar sus hipótesis,        |
-|           |           | http://pu | experimentos y análisis o        |
-|           |           | rl.org/co | interpretación inicial de estos  |
-|           |           | ar/resour | experimentos.                    |
-|           |           | ce_type/H |                                  |
-|           |           | 41Y-FW7B) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| me        | datos de  | [[http:// | Datos que resultan de evaluar    |
-| asurement | medición  | purl.org/ | propiedades (o características)  |
-| and test  | y prueba  | coar/reso | específicas de seres, cosas,     |
-| data      |           | urce_type | fenómenos (y / o procesos)       |
-|           |           | /DD58-GFS | mediante la aplicación de        |
-|           |           | X]{.ul}]( | estándares preestablecidos y / o |
-|           |           | http://pu | instrumentos o técnicas          |
-|           |           | rl.org/co | especializadas.                  |
-|           |           | ar/resour |                                  |
-|           |           | ce_type/D |                                  |
-|           |           | D58-GFSX) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| obse      | datos     | [[http:// | Datos resultantes de la          |
-| rvational | observ    | purl.org/ | investigación observacional, que |
-| data      | acionales | coar/reso | implica recopilar observaciones  |
-|           |           | urce_type | a medida que ocurren (por        |
-|           |           | /FF4C-28R | ejemplo, observar                |
-|           |           | K]{.ul}]( | comportamientos, eventos,        |
-|           |           | http://pu | desarrollo de afecciones o       |
-|           |           | rl.org/co | enfermedades, etc.), sin         |
-|           |           | ar/resour | intentar manipular ninguna de    |
-|           |           | ce_type/F | las variables independientes.    |
-|           |           | F4C-28RK) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| recorded  | datos     | [[http:// | Datos registrados por medios     |
-| data      | re        | purl.org/ | mecánicos o electrónicos, en una |
-|           | gistrados | coar/reso | forma que permita recuperar y /  |
-|           |           | urce_type | o reproducir la información. Por |
-|           |           | /CQMR-7K6 | ejemplo, imágenes o sonidos en   |
-|           |           | 3]{.ul}]( | disco o cinta magnética.         |
-|           |           | http://pu |                                  |
-|           |           | rl.org/co |                                  |
-|           |           | ar/resour |                                  |
-|           |           | ce_type/C |                                  |
-|           |           | QMR-7K63) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| s         | datos de  | [[http:// | Datos que resultan del modelado  |
-| imulation | s         | purl.org/ | o la representación imitativa de |
-| data      | imulación | coar/reso | procesos, eventos o sistemas del |
-|           |           | urce_type | mundo real, a menudo utilizando  |
-|           |           | /W2XT-701 | programas de computadora.        |
-|           |           | 7]{.ul}]( |                                  |
-|           |           | http://pu |                                  |
-|           |           | rl.org/co |                                  |
-|           |           | ar/resour |                                  |
-|           |           | ce_type/W |                                  |
-|           |           | 2XT-7017) |                                  |
-+-----------+-----------+-----------+----------------------------------+
-| survey    | datos de  | [[http:// | Datos resultantes de una         |
-| data      | encuesta  | purl.org/ | encuesta, que se define como una |
-|           |           | coar/reso | investigación sobre las          |
-|           |           | urce_type | características de una           |
-|           |           | /NHD0-W6S | determinada población mediante   |
-|           |           | Y]{.ul}]( | la recolección de datos de una   |
-|           |           | http://pu | muestra de esa población y la    |
-|           |           | rl.org/co | estimación de sus                |
-|           |           | ar/resour | características mediante el uso  |
-|           |           | ce_type/N | sistemático de metodología       |
-|           |           | HD0-W6SY) | estadística. Se incluyen censos, |
-|           |           |           | encuestas por muestreo,          |
-|           |           |           | recopilación de datos de         |
-|           |           |           | registros administrativos y      |
-|           |           |           | actividades estadísticas         |
-|           |           |           | derivadas, así como              |
-|           |           |           | cuestionarios.                   |
-+-----------+-----------+-----------+----------------------------------+
+..
+
++-----------+-----------+----------------------------------------------+----------------------------------+
+|           |           |                                              |                                  |
+| Concepto  | Etiqueta  | URI                                          | Descripción                      |
+| Término   | en        | (resource                                    |                                  |
+| Preferido | español   | TypeCOAR)                                    |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+| (resource |           |                                              |                                  |
+| Type)     |           |                                              |                                  |
++===========+===========+==============================================+==================================+
+| dataset   | conjunto  | http://purl.org/coar/resource_type/c_ddb1    | Una colección de hechos y datos  |
+|           | de datos  |                                              | relacionados codificados en una  |
+|           |           |                                              | estructura definida.             |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| a         | datos     | http://purl.org/coar/resource_type/ACF7-8YT9 | Estadísticas que se relacionan   |
+| ggregated | agregados |                                              | con clases, grupos o categorías  |
+| data      |           |                                              | generales. Los datos se          |
+|           |           |                                              | promedian, se suman o se derivan |
+|           |           |                                              | de otro modo de datos a nivel    |
+|           |           |                                              | individual, y ya no es posible   |
+|           |           |                                              | distinguir las características   |
+|           |           |                                              | de los individuos dentro de esas |
+|           |           |                                              | clases, grupos o categorías.     |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| clinical  | ensayo    | http://purl.org/coar/resource_type/c_cb28    | Datos resultantes de un estudio  |
+| trial     | clínico   |                                              | de investigación en el que uno o |
+| data      |           |                                              | más sujetos humanos se asignan   |
+|           |           |                                              | prospectivamente a una o más     |
+|           |           |                                              | intervenciones (que pueden       |
+|           |           |                                              | incluir placebo u otro control)  |
+|           |           |                                              | para evaluar los efectos de esas |
+|           |           |                                              | intervenciones en los resultados |
+|           |           |                                              | biomédicos o conductuales        |
+|           |           |                                              | relacionados con la salud.       |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| compiled  | datos     | http://purl.org/coar/resource_type/FXF3-D3G7 | Los datos recopilados o reunidos |
+| data      | c         |                                              | a partir de fuentes múltiples, a |
+|           | ompilados |                                              | menudo heterogéneas, que tienen  |
+|           |           |                                              | uno o más puntos de referencia   |
+|           |           |                                              | en común, y al menos una de las  |
+|           |           |                                              | fuentes se produjo originalmente |
+|           |           |                                              | para otros fines.                |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| encoded   | datos     | http://purl.org/coar/resource_type/AM6W-6QAW | Los datos cualitativos           |
+| data      | co        |                                              | (textuales, video, audio o       |
+|           | dificados |                                              | imágenes fijas) originalmente    |
+|           |           |                                              | producidos para otros propósitos |
+|           |           |                                              | en datos cuantitativos           |
+|           |           |                                              | (expresados en matrices unidad   |
+|           |           |                                              | por variable) mediante el uso de |
+|           |           |                                              | técnicas de codificación de      |
+|           |           |                                              | acuerdo con esquemas de          |
+|           |           |                                              | categorización predefinidos.     |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| exp       | datos     | http://purl.org/coar/resource_type/63NG-B465 | Datos resultantes del método de  |
+| erimental | exper     |                                              | investigación experimental que   |
+| data      | imentales |                                              | implica la manipulación de       |
+|           |           |                                              | algunas o todas las variables    |
+|           |           |                                              | independientes incluidas en las  |
+|           |           |                                              | hipótesis.                       |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| genomic   | datos     | http://purl.org/coar/resource_type/A8F1-NPV9 | Los datos genómicos se refieren  |
+| data      | genómicos |                                              | a los datos del genoma y del ADN |
+|           |           |                                              | de un organismo. Se utilizan en  |
+|           |           |                                              | bioinformática para recolectar,  |
+|           |           |                                              | almacenar y procesar los genomas |
+|           |           |                                              | de los seres vivos. Los datos    |
+|           |           |                                              | genómicos son un término más     |
+|           |           |                                              | extenso que los datos de         |
+|           |           |                                              | secuenciación. Sin embargo, los  |
+|           |           |                                              | datos genómicos provienen        |
+|           |           |                                              | principalmente de técnicas de    |
+|           |           |                                              | secuenciación. Puede incluir     |
+|           |           |                                              | datos sin secuenciación, como    |
+|           |           |                                              | datos de microarrays, datos de   |
+|           |           |                                              | paneles de PCR en tiempo real y  |
+|           |           |                                              | datos de estudios                |
+|           |           |                                              | farmacogenómicos.                |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| g         | datos     | http://purl.org/coar/resource_type/2H0M-X761 | Los datos geoespaciales          |
+| eospatial | geoe      |                                              | discretos generalmente se        |
+| data      | spaciales |                                              | representan utilizando datos     |
+|           |           |                                              | vectoriales que consisten en     |
+|           |           |                                              | puntos, líneas y polígonos,      |
+|           |           |                                              | mientras que los datos           |
+|           |           |                                              | geoespaciales continuos          |
+|           |           |                                              | generalmente se representan      |
+|           |           |                                              | mediante datos ráster, que       |
+|           |           |                                              | consisten en una cuadrícula de   |
+|           |           |                                              | celdas que cada una tiene su     |
+|           |           |                                              | propio valor.                    |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| l         | cuaderno  | http://purl.org/coar/resource_type/H41Y-FW7B | Un cuaderno de laboratorio es un |
+| aboratory | de        |                                              | registro principal de la         |
+| notebook  | la        |                                              | investigación. Los               |
+|           | boratorio |                                              | investigadores utilizan un       |
+|           |           |                                              | cuaderno de laboratorio para     |
+|           |           |                                              | documentar sus hipótesis,        |
+|           |           |                                              | experimentos y análisis o        |
+|           |           |                                              | interpretación inicial de estos  |
+|           |           |                                              | experimentos.                    |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| me        | datos de  | http://purl.org/coar/resource_type/DD58-GFSX | Datos que resultan de evaluar    |
+| asurement | medición  |                                              | propiedades (o características)  |
+| and test  | y prueba  |                                              | específicas de seres, cosas,     |
+| data      |           |                                              | fenómenos (y / o procesos)       |
+|           |           |                                              | mediante la aplicación de        |
+|           |           |                                              | estándares preestablecidos y / o |
+|           |           |                                              | instrumentos o técnicas          |
+|           |           |                                              | especializadas.                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| obse      | datos     | http://purl.org/coar/resource_type/FF4C-28RK | Datos resultantes de la          |
+| rvational | observ    |                                              | investigación observacional, que |
+| data      | acionales |                                              | implica recopilar observaciones  |
+|           |           |                                              | a medida que ocurren (por        |
+|           |           |                                              | ejemplo, observar                |
+|           |           |                                              | comportamientos, eventos,        |
+|           |           |                                              | desarrollo de afecciones o       |
+|           |           |                                              | enfermedades, etc.), sin         |
+|           |           |                                              | intentar manipular ninguna de    |
+|           |           |                                              | las variables independientes.    |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| recorded  | datos     | http://purl.org/coar/resource_type/CQMR-7K63 | Datos registrados por medios     |
+| data      | re        |                                              | mecánicos o electrónicos, en una |
+|           | gistrados |                                              | forma que permita recuperar y /  |
+|           |           |                                              | o reproducir la información. Por |
+|           |           |                                              | ejemplo, imágenes o sonidos en   |
+|           |           |                                              | disco o cinta magnética.         |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| s         | datos de  | http://purl.org/coar/resource_type/W2XT-7017 | Datos que resultan del modelado  |
+|imulation  | s         |                                              | o la representación imitativa de |
+| data      |imulación  |                                              | procesos, eventos o sistemas del |
+|           |           |                                              | mundo real, a menudo utilizando  |
+|           |           |                                              | programas de computadora.        |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
+|           |           |                                              |                                  |
++-----------+-----------+----------------------------------------------+----------------------------------+
+| survey    | datos de  | http://purl.org/coar/resource_type/NHD0-W6SY | Datos resultantes de una         |
+| data      | encuesta  |                                              | encuesta, que se define como una |
+|           |           |                                              | investigación sobre las          |
+|           |           |                                              | características de una           |
+|           |           |                                              | determinada población mediante   |
+|           |           |                                              | la recolección de datos de una   |
+|           |           |                                              | muestra de esa población y la    |
+|           |           |                                              | estimación de sus                |
+|           |           |                                              | características mediante el uso  |
+|           |           |                                              | sistemático de metodología       |
+|           |           |                                              | estadística. Se incluyen censos, |
+|           |           |                                              | encuestas por muestreo,          |
+|           |           |                                              | recopilación de datos de         |
+|           |           |                                              | registros administrativos y      |
+|           |           |                                              | actividades estadísticas         |
+|           |           |                                              | derivadas, así como              |
+|           |           |                                              | cuestionarios.                   |
++-----------+-----------+----------------------------------------------+----------------------------------+
+
+..
 
 **3.10.8. Equivalencias Dublin Core**
 
