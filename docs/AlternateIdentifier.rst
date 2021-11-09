@@ -42,7 +42,7 @@ Repetible (R): 0-n veces
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.11.6. Propiedades, atributos y especificadores.xlsx>`
 
 
-**3.11.7. Forma de descripción recomendada**
+**3.11.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   **Identificador Alternativo:** Identificador del recurso, puede ser una cadena alfanumérica que sea única dentro de su dominio o emisión.
 
