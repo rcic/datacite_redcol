@@ -24,7 +24,7 @@ Repetible (R): 0-n
 
 Propiedad Principal Versión (version)(R, 0-n): Utilice un número de versión o la etiqueta del término de vocabulario como valor
 
-**3.15.7. Forma de descripción recomendada**
+**3.15.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Registre un nuevo identificador para un cambio de versión importante.
 
