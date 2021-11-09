@@ -132,7 +132,7 @@ Repetible (R) 0-n veces.
 
         -   *Atributo Apellido (familyName)(O,0-1)*
 
-*3.20.7. Forma de descripción recomendada*
+*3.20.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
 
 -   Utilice este campo para describir detalles específicos de publicaciones seriadas que previamente se codificaban en un campo de descripción con descriptionType= "*SeriesInformation*"
 
