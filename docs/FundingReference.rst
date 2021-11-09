@@ -54,7 +54,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.19.6. Propiedades, atributos 
 
     -   *Atributo: ID del Proyecto de Investigación (arwardID) (O, 0-1):* Este atributo permite especificar un identificador normalizado asignado al proyecto de investigación.
 
-*3.19.7. Forma de descripción recomendada*
+*3.19.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
 
 -   Para nombres de entidades utilizar el nombre completo tal y como se ha registrado legalmente con su sigla correspondiente de tal forma que la sintaxis sea: "Nombre de la Entidad" + "-" + "Sigla".
 
