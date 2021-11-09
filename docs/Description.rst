@@ -41,7 +41,7 @@ Repetible (R): 0-n
    
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.17.6. Propiedades, atributos y especificadores.xlsx>`
 
-*3.17.7. Forma de descripción recomendada*
+*3.17.7.Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
 
 Revise la forma adecuada para ingresar la información la descripción con
 su debida puntuación:
