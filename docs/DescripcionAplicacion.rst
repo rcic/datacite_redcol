@@ -1,4 +1,4 @@
-.. _DescripcionAplicacion:
+.. _DescripcionAplicacion.rst:
 
 Descripción general del perfil de aplicación
 ===========
