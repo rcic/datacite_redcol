@@ -29,7 +29,7 @@ Repetible (R) 0-n veces
 
     -   **SubPropiedad tamaño (size) (O, 0-n):** Describa el tamaño asociado según la forma de medida utilizada (Bytes, MegaBytes, Centímetros, Metros, Cantidad de filas, etc..)
 
-**3.13.7. Forma de descripción recomendada**
+**3.13.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Revise la forma adecuada para ingresar el tamaño / extensión del recurso con su debida puntuación:
 
