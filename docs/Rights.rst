@@ -105,7 +105,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.16.7. Forma de descripción r
 ..
 +---------------------------------------------+
 |.. image:: _static/image16_2.png             |
-|   :scale: 100%                               |
+|   :scale: 10%                               |
 |   :name: img_dataverse16_2                  |
 +---------------------------------------------+
 ..
