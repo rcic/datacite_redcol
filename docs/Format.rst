@@ -29,7 +29,7 @@ Repetible (R) : 0-n veces
 
     -   **SubPropiedad Formato (format) (R, 1-n):** Use la Manifestación física o digital del recurso como un valor.
 
-**3.14.7. Forma de descripción recomendada**
+**3.14.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   El campo formato del recurso de información está íntimamente ligado con el contenido y la extensión de los nombres de los archivos adjuntos.
 
