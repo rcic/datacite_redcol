@@ -1,4 +1,4 @@
-.. _Bibliografia:
+.. _Bibliografia.rst:
 
 Bibliografía
 ===========
