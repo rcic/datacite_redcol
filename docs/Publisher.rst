@@ -27,7 +27,7 @@ Repetible (R): 0-n veces
 
 -   **Propiedad Principal Editor (publisher) (MA, 0-n):** Texto libre. Utilice el nombre del editor como un valor.
 
-**3.4.7. Forma de descripción recomendada**
+**3.4.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   En el caso de que sea una publicación universitaria, es importante colocar el nombre de la facultad, departamento, área o grupo que corresponda después del nombre de la Universidad. En el caso de identificar un nivel jerárquico utilice como separador el símbolo punto, si son editores diferentes, registre en un nuevo campo. Se recomienda evitar el uso de acrónimos o abreviaturas para la designación de una institución.
 
