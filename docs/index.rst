@@ -19,10 +19,10 @@ Red Colombiana de Información Científica - http://redcol.minciencias.gov.co/
    :maxdepth: 1
 
    
-   Presentacion.rst
-   ModeloInvestigacion.rst
-   DescripcionAplicacion.rst
-   Bibliografia.rst
+   Presentacion
+   ModeloInvestigacion
+   DescripcionAplicacion
+   Bibliografia
    
    
       
