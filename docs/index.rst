@@ -20,7 +20,7 @@ Red Colombiana de Información Científica - http://redcol.minciencias.gov.co/
 
    
    Presentacion.rst
-   ModeloInvestigacion.rst
+   ModeloInvestigacion
    DescripcionAplicacion.rst
    Bibliografia.rst
    
