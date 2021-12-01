@@ -226,14 +226,14 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'OpenAIREGuidelines.tex', u'Directrices para repositorios institucionales de investigación de la Red Colombiana de Información Científica (RedCol) 2020',
+  (master_doc, 'OpenAIREGuidelines.tex', u'Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica',
    u'', 'manual', True),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
-latex_logo = '_static/piedepagina.png'
+latex_logo = '_static/RedCol-Logo-Provisional.png'
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
 # latex_toplevel_sectioning = 'part'
