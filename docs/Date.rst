@@ -3,7 +3,7 @@
 Date (Fecha)(R)
 ===========
 
-3.8.1. Nombre según el esquema de metadatos utilizado
+**3.8.1. Nombre según el esquema de metadatos utilizado**
 
 **datacite:date**
 
