@@ -71,7 +71,7 @@ dc:identifier
 
 -   **Ejemplo XML**
 
-.. image:: _static/image4.png
+.. image:: _static/image4.jpg
    :scale: 35%
    :name: img_header
 
