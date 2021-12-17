@@ -130,7 +130,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 
 .. image:: _static/image6.png
    :scale: 100%
-   :name: img_header
+   :name: img_xml6
 
 -   **Ejemplo XML (Autores Corporativos)**
 
