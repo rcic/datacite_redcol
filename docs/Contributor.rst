@@ -108,7 +108,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_IdentificadorNombre.xlsx>
   
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_equivalenciaDublin.xlsx>`
 
-3.7.9. Ejemplos (XML y DATAVERSE)
+**3.7.9. Ejemplos (XML y DATAVERSE)**
 
 -   **Ejemplo XML**
 
