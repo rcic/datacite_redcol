@@ -172,10 +172,10 @@ Se recomienda utilizar términos tomados de un esquema de clasificación estánd
 |                                                                       |
 | **\</subjects>**                                                      |
 +-----------------------------------------------------------------------+
-| .. image:: _static/image16.png                                        |
-|  :scale: 35%                                                          |
-|  :name: img_termino                                                   |
-|                                                                       |
+|\<subjects>                                                            |
+| > <subjects xml:lang="es-US" schemeURI=https://http//dewey.info/      |
+| > subjectScheme="dewey">000 computer science</subject>                |
+|\</subject>                                                            |
 +-----------------------------------------------------------------------+
 | \<subjects>                                                           |
 |                                                                       |
