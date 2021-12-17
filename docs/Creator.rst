@@ -52,7 +52,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 
 -   **SubPropiedad: Identificador de Nombre (nameIdentifier) (O, 0-n)**: Esta propiedad de uso opcional, incluye el texto asociado que permite identificar de manera unívoca una persona natural o corporativa a partir del uso de diversos esquemas de identificación. Se debe tener en cuenta los siguientes tipos de identificadores existentes y su codificación normalizada en los atributos de esta propiedad (nameIdentifierScheme), según el vocabulario controlado propuesto (Uso Opcional):
 
-    -   **Valores permitidos (vocabularios controlado**
+    -   **Valores permitidos (vocabularios controlados)**
 
 ..
                 
