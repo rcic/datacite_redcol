@@ -13,5 +13,5 @@ En este caso, se deben registrar dos fechas relacionadas:
 
 
 .. image:: _static/imagen3.jpg
-   :scale: 10%
+   :scale: 35%
    :name: img_derechos
