@@ -29,7 +29,7 @@ Repetible (R) según los distintos contextos de aplicación de la tipología doc
 
 **3.10.6. Propiedades, atributos y especificadores**
 
--   **Propiedad Principal Tipo de recurso de datos (resourceType) (M,1-n):** Utilice una etiqueta de texto libre para identificar el tipo de recurso como valor. Aunque se puede utilizar una etiqueta en cualquier idioma, se recomienda utilizar las etiquetas preferidas (Preferred Labels) establecidas en el vocabulario de tipologías **COAR versión 3.0**[^12]**.**
+-   **Propiedad Principal Tipo de recurso de datos (resourceType) (M,1-n):** Utilice una etiqueta de texto libre para identificar el tipo de recurso como valor. Aunque se puede utilizar una etiqueta en cualquier idioma, se recomienda utilizar las etiquetas preferidas (Preferred Labels) establecidas en el vocabulario de tipologías **COAR versión 3.0 2021b).**
 
     -   **Atributo Tipología y Naturaleza del contenido DataCite (resourceTypeGeneral) (M,1):** Este atributo permite especificar el tipo de contenido asociado a la tipología documental descrita del recurso de información. Se debe tener en cuenta los siguientes tipos de contenido y su codificación normalizada según el vocabulario controlado propuesto por DataCite.
 
