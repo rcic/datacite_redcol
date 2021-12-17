@@ -173,8 +173,8 @@ Se recomienda utilizar términos tomados de un esquema de clasificación estánd
 | **\</subjects>**                                                      |
 +-----------------------------------------------------------------------+
 |\<subjects>                                                            |
-| > <subjects xml:lang="es-US" schemeURI=https://http//dewey.info/      |
-| > subjectScheme="dewey">000 computer science</subject>                |
+|  <subjects xml:lang="es-US" schemeURI=https://http//dewey.info/       |
+|  subjectScheme="dewey">000 computer science</subject>                 |
 |\</subject>                                                            |
 +-----------------------------------------------------------------------+
 | \<subjects>                                                           |
