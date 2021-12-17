@@ -70,7 +70,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_tipoColaboracion.xlsx>`
 
 
 .. image:: _static/image22.png                                        
-  :scale: 35%                                                          
+  :scale: 70%                                                          
   :name: tbl_4 
 
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_IdentificadorNombre.xlsx>`
