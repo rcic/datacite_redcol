@@ -8,8 +8,7 @@ Directrices de Metadatos para Repositorios de Datos de Investigación de la Red 
 
 ..
 
-Red Colombiana de Información Científica - http://redcol.minciencias.gov.co/ 
-=====================================================================================
+
 
 ..
 
