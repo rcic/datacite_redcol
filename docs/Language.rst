@@ -45,7 +45,7 @@ dc.language
 -   **Ejemplo XML**
 
 .. image:: _static/image32.png
-   :scale: 35%
+   :scale: 100%
    :name: img_ejmlXml3
 
 -   **Ejemplo Dataverse**
