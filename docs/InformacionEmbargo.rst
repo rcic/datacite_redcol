@@ -11,9 +11,7 @@ En este caso, se deben registrar dos fechas relacionadas:
 
 -   Fecha de finalización(Available): fecha \"Disponible\" para indicar el final de un período de embargo.
 
-```diff
-<dates>
-+<date dateType = "Accepted"> 2011-12-01 </date>
--<date dateType = "Available"> 2011-12-01 
-</dates>
-```
+
+.. image:: _static/imagen3.png
+   :scale: 100%
+   :name: img_derechos
