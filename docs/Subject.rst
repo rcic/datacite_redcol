@@ -158,7 +158,7 @@ Se recomienda utilizar términos tomados de un esquema de clasificación estánd
 -   **Ejemplo XML**
 
 +-----------------------------------------------------------------------+
-| **\<subjects>**                                                       |
+| \<subjects>                                                           |
 |                                                                       |
 | > **\<subject xml:lang=\"en\"                                         |
 | > schemeURI=\"https://lccn.loc.gov/sh85062931\"                       |
@@ -170,10 +170,10 @@ Se recomienda utilizar términos tomados de un esquema de clasificación estánd
 | >                                                                     |
 | > **\<subject xml:lang=\"en\"\>Ponhook Lake (N.S.)\</subject>**       |
 |                                                                       |
-| **\</subjects>**                                                      |
+| \</subjects>                                                          |
 +-----------------------------------------------------------------------+
 |\<subjects>                                                            |
-|  <subjects xml:lang="es-US" schemeURI=https://http//dewey.info/ \n    |
+|  <subjects xml:lang="es-US" schemeURI=https://http//dewey.info/       |
 |  subjectScheme="dewey">000 computer science</subject>                 |
 |\</subject>                                                            |
 +-----------------------------------------------------------------------+
