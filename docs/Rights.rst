@@ -12,7 +12,7 @@ Rights (Derechos de acceso) (MA)
 
 **3.16.3. Definición y alcance de la propiedad**
 
-Se describen las condiciones de acceso al recurso según su contenido así como información sobre el tipo de acceso o derecho que va a tener el recurso. Si los metadatos describen más de un recurso, por ejemplo, texto completo y material complementario, se debe proporcionar como mínimo la información de los derechos de acceso del recurso principal.
+Se describen las condiciones de acceso al recurso según su contenido, así como información sobre el tipo de acceso o derecho que va a tener el recurso. Si los metadatos describen más de un recurso, por ejemplo, texto completo y material complementario, se debe proporcionar como mínimo la información de los derechos de acceso del recurso principal.
 
 Generalmente los derechos de acceso se representan mediante una licencia asociada la cual deberá contener los derechos de autor y de propiedad intelectual definidos por la institución, de igual forma derechos de uso y reutilización del recurso.
 
@@ -26,9 +26,9 @@ Repetible (R): 0-n veces
 
 **3.16.6. Propiedades, atributos y especificadores**
 
--   **Propiedad Principal Lista de Derechos de Acceso (rightsList) (MA, 0-n):** Describa cualquier información de derechos para este recurso.La propiedad puede repetirse para registrar características complejas de derechos.
+-   **Propiedad Principal Lista de Derechos de Acceso (rightsList) (MA, 0-n):** Describa cualquier información de derechos para este recurso. La propiedad puede repetirse para registrar características complejas de derechos.
 
--   **SubPropiedad Derechos de Acceso (rights)(MA, 1-n):** Proporcione una declaración de gestión de derechos para el recurso o haga referencia a un servicio que proporcione dicha información. Incluya información sobre el embargo si corresponde.
+-   **SubPropiedad Derechos de Acceso (rights) (MA, 1-n):** Proporcione una declaración de gestión de derechos para el recurso o haga referencia a un servicio que proporcione dicha información. Incluya información sobre el embargo si corresponde.
 
     -   **Atributo URI (rightsURI) (R, 0-1):** La URI proporciona la ubicación donde se puede leer la licencia. En el caso de utilizar licencias del tipo "Creative Commons", el tipo de licencia se puede reconocer directamente en el nombre de la URL relacionada.
 
