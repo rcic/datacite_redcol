@@ -3,7 +3,7 @@
 Derechos de acceso e información de licencia
 ===========
 
-Respecto a la gestión de los campos asociados con licencias y derechos de acceso, se recomienda utilizar la mayor cantidad de información en los respectivos campos para permitir una mejor experiencia de usuario al declarar los derechos de acceso claros y explícitos en el sistema de información ó repositorio de datos de investigación.
+Respecto a la gestión de los campos asociados con licencias y derechos de acceso, se recomienda utilizar la mayor cantidad de información en los respectivos campos para permitir una mejor experiencia de usuario al declarar los derechos de acceso claros y explícitos en el sistema de información o repositorio de datos de investigación.
 
 Se recomienda utilizar cómo mínimo los campos de:
 
