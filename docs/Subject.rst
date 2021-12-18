@@ -153,22 +153,22 @@ Se recomienda utilizar términos tomados de un esquema de clasificación estánd
 
 -   dc.subject.unesco
 
-3.6.9. Ejemplos (XML y DATAVERSE)
+**3.6.9. Ejemplos (XML y DATAVERSE)**
 
 -   **Ejemplo XML**
 
 +-----------------------------------------------------------------------+
 | \<subjects>                                                           |
 |                                                                       |
-| > **\<subject xml:lang=\"en\"                                         |
+| > \<subject xml:lang=\"en\"                                           |
 | > schemeURI=\"https://lccn.loc.gov/sh85062931\"                       |
-| > subjectScheme=\"LCCN\"\>Temperature\</subject>**                    |
+| > subjectScheme=\"LCCN\"\>Temperature\</subject>                      |
 | >                                                                     |
-| > **\<subject xml:lang=\"en\"                                         |
+| > \<subject xml:lang=\"en\"                                           |
 | > schemeURI=\"https://lccn.loc.gov/sh85133712\"                       |
-| > subjectScheme=\"LCCN\"\>Humidity\</subject>**                       |
+| > subjectScheme=\"LCCN\"\>Humidity\</subject>                         |
 | >                                                                     |
-| > **\<subject xml:lang=\"en\"\>Ponhook Lake (N.S.)\</subject>**       |
+| > \<subject xml:lang=\"en\"\>Ponhook Lake (N.S.)\</subject>           |
 |                                                                       |
 | \</subjects>                                                          |
 +-----------------------------------------------------------------------+
