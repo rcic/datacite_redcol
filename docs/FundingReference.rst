@@ -3,27 +3,27 @@
 Referencia de Financiación (FundingReference) (O)
 ===========
 
-*3.19.1. Nombre según el esquema de metadatos utilizado*
+**3.19.1. Nombre según el esquema de metadatos utilizado**
 
 *datacite:fundingReference*
 
-*3.19.2. Etiqueta normalizada (Idioma Español*)
+**3.19.2. Etiqueta normalizada (Idioma Español)**
 
 Referencia de financiación, organización financiadora del proyecto.
 
-*3.19.3. Definición y alcance de la propiedad*
+**3.19.3. Definición y alcance de la propiedad**
 
 Contiene información de la Institución o Entidad relacionada con el apoyo financiero o la cofinanciación del proyecto y del producto de investigación que se está registrando.
 
-*3.19.4. Niveles de persistencia (M/MA/R/O)*
+**3.19.4. Niveles de persistencia (M/MA/R/O)**
 
 Recomendado (R)
 
-*3.19.5. Niveles de ocurrencia (R / NR)*
+**3.19.5. Niveles de ocurrencia (R / NR)**
 
 Repetible (R): 0-n
 
-*3.19.6. Propiedades, atributos y especificadores*
+**3.19.6. Propiedades, atributos y especificadores**
 
 -   *Propiedad Principal Referencias de Financiación (fundingReferences) (MA, 0-n):* Entidad que agrupa todas las entidades que financian proyectos de investigación.
 
@@ -54,7 +54,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.19.6. Propiedades, atributos 
 
     -   *Atributo: ID del Proyecto de Investigación (arwardID) (O, 0-1):* Este atributo permite especificar un identificador normalizado asignado al proyecto de investigación.
 
-*3.19.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
+**3.19.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Para nombres de entidades utilizar el nombre completo tal y como se ha registrado legalmente con su sigla correspondiente de tal forma que la sintaxis sea: "Nombre de la Entidad" + "-" + "Sigla".
 
@@ -62,13 +62,13 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.19.6. Propiedades, atributos 
 
 -   Se debe tener claridad de la diferencia entre una entidad patrocinadora (*sponsor) y entidad financiadora (funder*). Mientras que la primera es aquella organización que asume la responsabilidad legal de la conducción general del proyecto, la segunda es la organización que proporciona los fondos para la ejecución del proyecto. Una organización puede ser tanto patrocinadora como financiadora.
 
-*3.19.8. Equivalencias Dublin Core*
+**3.19.8. Equivalencias Dublin Core**
 
 -   dc.description.sponsorship
 
 -   dc.description.funder
 
-*3.19.9. Ejemplos (XML y DATAVERSE)*
+**3.19.9. Ejemplos (XML y DATAVERSE)**
 
 -   *Ejemplo XML*
 ..
