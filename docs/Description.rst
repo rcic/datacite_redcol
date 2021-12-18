@@ -54,7 +54,7 @@ su debida puntuación:
 
 -   *Comentarios (Comments):* Coloque los comentarios generados sobre el recurso omitiendo datos de la entidad que lo generó y fechas de generación.
 
--   *Tabla de Contenidos (TableOfContents):* Coloque el índice del recurso de información omitiendo números de página y caracteres sin valor semántico (puntos, guiones tabuladores, espacios, etc..)
+-   *Tabla de Contenidos (TableOfContents):* Coloque el índice del recurso de información omitiendo números de página y caracteres sin valor semántico (puntos, guiones tabuladores, espacios, etc.).
 
 -   *Métodos (Methods):* Incluya la documentación completa sobre los métodos de la Ciencia Abierta (OpenScience)
 
