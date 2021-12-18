@@ -29,7 +29,7 @@ Para fechas de publicación: No Repetible (R): 1 ocurrencia
 
 **3.5.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
-Fecha de publicación: Escriba únicamente los cuatro dígitos numéricos (AAAA) asociados al año de publicación ó de disponibilidad de los datos.
+Fecha de publicación: Escriba únicamente los cuatro dígitos numéricos (AAAA) asociados al año de publicación o de disponibilidad de los datos.
 
 **3.5.8. Equivalencias Dublin Core**
 
