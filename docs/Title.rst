@@ -29,7 +29,7 @@ Repetible (R): 1-n veces.
 
     -   **SubPropiedad Título (title) (M, 1-n):** Utilice el nombre del título como valor
 
-        -   **Atributo IDIOMA (xml:lang) (O, 0-1):** Este atributo especifica el idioma asociado al tipo de título que se describe. Se debe tener en cuenta su codificación normalizada según el vocabulario propuesto por el estándar ISO 639-3 utilizando carácteres en UTF-8 (https://iso639-3.sil.org/code_tables/download_tables)
+        -   **Atributo IDIOMA (xml:lang) (O, 0-1):** Este atributo especifica el idioma asociado al tipo de título que se describe. Se debe tener en cuenta su codificación normalizada según el vocabulario propuesto por el estándar ISO 639-3 utilizando caracteres en UTF-8 (https://iso639-3.sil.org/code_tables/download_tables)
 
         -   **Atributo Tipo de Título (titleType) (O, 0-1):** Este atributo permite especificar el tipo de título que se describe en el campo de metadatos. Se debe tener en cuenta los siguientes tipos de título y su codificación normalizada según el vocabulario controlado propuesto:
 
