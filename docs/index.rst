@@ -18,10 +18,10 @@ Directrices de Metadatos para Repositorios de Datos de Investigación de la Red 
    :maxdepth: 1
 
    
-   Presentacion
-   ModeloInvestigacion
-   DescripcionAplicacion
-   Bibliografia
+   Presentacion.rst
+   ModeloInvestigacion.rst
+   DescripcionAplicacion.rst
+   Bibliografia.rst
    
    
       
