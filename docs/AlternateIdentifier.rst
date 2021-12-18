@@ -79,7 +79,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.11.6. Propiedades, atributos 
 ..
                              
 +-----------------------------------------------------------------------+
-| .. image:: _static/3.11.9. Ejemplos (XML y DATAVERSE-EjemploXML.jpg   |
+| .. image:: _static/image1001.jpg                                      |
 |   :scale: 35%                                                         |
 |   :name: ejemplo_xml3                                                 |                                
 +-----------------------------------------------------------------------+
