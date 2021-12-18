@@ -20,4 +20,4 @@ Se contempla el uso del protocolo OAI-PMH para realizar el intercambio de metada
 ..
 
 
-Adicionalmente, se debe tener en cuenta que en los últimos años han surgido nuevos protocolos y componentes que pueden perfectamente reemplazar el uso del protocolo OAI-PMH, entre ellos se tienen: ResourceSync y REST-FULL (API REST).
+En los últimos años han surgido nuevos protocolos y componentes que pueden perfectamente reemplazar el uso del protocolo OAI-PMH, entre ellos se tienen: ResourceSync y REST-FULL (API REST).
