@@ -35,7 +35,7 @@ Fecha de publicación: Escriba únicamente los cuatro dígitos numéricos (AAAA)
 
 dc.date.issued
 
-3.5.9. Ejemplos (XML y DATAVERSE)
+**3.5.9. Ejemplos (XML y DATAVERSE)**
 
 -   Ejemplo XML
 
