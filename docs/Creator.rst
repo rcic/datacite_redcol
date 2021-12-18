@@ -100,7 +100,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 -   **Atributo URI del esquema del identificador (schemeURI) (R, 0-1, si es utilizada la propiedad nameIdentifierScheme):** Este atributo permite especificar la URI del nombre del esquema identificador utilizado para describir al autor en el campo de metadatos. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad nameIdentifier.
 
 
--   **SubPropiedad: Afiliación institucional (affiliation) (O, 0-n):** Esta propiedad de uso opcional, incluye el texto asociado a las distintas afiliación institucionales a las que pertenece el autor.
+-   **SubPropiedad: Afiliación institucional (affiliation) (O, 0-n):** Esta propiedad de uso opcional, incluye el texto asociado a las distintas afiliaciones institucionales a las que pertenece el autor.
 
     -   **Atributo Identificador de la organización  (affiliationIdentifier) (O,0-n):** Identifica de forma única  la afiliación institucional del autor.
 
