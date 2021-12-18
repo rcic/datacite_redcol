@@ -14,11 +14,11 @@ Elementos relacionados
 **3.20.3. Definición y alcance de la propiedad**
 
 Esta propiedad contiene la descripción ampliada de los recursos
-relacionados con el recursos que se está describiendo. Esta propiedad,
+relacionados con el recurso que se está describiendo. Esta propiedad,
 se puede usar para describir todo tipo de recursos donde la propiedad
 *relatedIdentifier* no se puede usar porque el recurso relacionado no
 tiene un identificador (por ejemplo, documentos de trabajo, literatura
-gris, etc..).
+gris, etc.).
 
 **3.20.4. Niveles de persistencia (M/MA/R/O)**
 
@@ -88,7 +88,7 @@ Repetible (R) 0-n veces.
 
 -   *SubPropiedad Volumen (volume)(O,0-1): Especifica el volumen de un recurso continuo relacionado*
 
--   *Subpropiedad Ejemplar (issue)(O,0-1): Especifica el ejemplar de unrecurso continuo relacionado*
+-   *Subpropiedad Ejemplar (issue)(O,0-1): Especifica el ejemplar de un recurso continuo relacionado*
 
 -   *Subpropiedad Número (number)(O,0-1): Especifica el número de un recurso continuo relacionado*
 
