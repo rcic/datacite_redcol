@@ -55,7 +55,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.16.7. Forma de descripción r
 ..
 +-------------------------------------+--------------------------------------------+
 |Identificador de la Licencia (rights)| URI de la Licencia (rightsURI)             |
-+-------------------------------------+--------------------------------------------+
++=====================================+============================================+
 | embargoed access                    | http://purl.org/coar/access_right/c_f1cf   |
 +-------------------------------------+--------------------------------------------+
 | metadata only access                | http://purl.org/coar/access_right/c_14cb   |
@@ -89,13 +89,13 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.16.7. Forma de descripción r
 |</rightsList>                                                                                                |
 +-------------------------------------------------------------------------------------------------------------+
 |<rightsList>                                                                                                 |
-|<rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>                                   |
-|<rights rightsURI="http://purl.org/coar/access_right/c_abf2">open access</rights>                            |
-|<rights xml:lang="es-CO" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX"                |
-|rightsIdentifier="CC-BY-ND-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons    |
-|Attribution No Derivatives 4.0 International</rights>                                                        |
-|<rights xml:lang="en" rightsURI="https://archaeologydataservice.ac.uk/advice/termsOfUseAndAccess">Terms of   | 
-|Use and Access to ADS Resources</rights>                                                                     |
+|   <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>                                |
+|   <rights rightsURI="http://purl.org/coar/access_right/c_abf2">open access</rights>                         |
+|   <rights xml:lang="es-CO" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX"             |
+|   rightsIdentifier="CC-BY-ND-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons |
+|   Attribution No Derivatives 4.0 International</rights>                                                     |
+|   <rights xml:lang="en" rightsURI="https://archaeologydataservice.ac.uk/advice/termsOfUseAndAccess">Terms of| 
+|   Use and Access to ADS Resources</rights>                                                                  |
 |</rightsList>                                                                                                |
 +-------------------------------------------------------------------------------------------------------------+
 ..
