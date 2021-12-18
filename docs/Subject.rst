@@ -68,7 +68,7 @@ Repetible (R): 0-n veces
         |                         | de la Biblioteca Nacional de España   |                                           |
         +-------------------------+---------------------------------------+-------------------------------------------+
         |  LEMB                   | Listado de encabezamiento de materias |                                           |
-        |                         | para Biblioteca Luis Angel Arango     |                                           |
+        |                         | para Biblioteca Luis Ángel Arango     |                                           |
         +-------------------------+---------------------------------------+-------------------------------------------+
         |  MESH                   | Lista de términos en temas            |                                           |
         |                         | médicos                               |                                           |
