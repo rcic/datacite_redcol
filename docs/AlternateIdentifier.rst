@@ -77,16 +77,9 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.11.6. Propiedades, atributos 
 -   Ejemplo XML
 
 ..
+                             
 +-----------------------------------------------------------------------+
-| .. image:: _static/image39.png                                        |
-|   :scale: 35%                                                         |
-|   :name: ejemplo_xml1                                                 |                                
-+-----------------------------------------------------------------------+
-| .. image:: _static/image40.png                                        |
-|   :scale: 35%                                                         |
-|   :name: ejemplo_xml2                                                 |                                
-+-----------------------------------------------------------------------+
-| .. image:: _static/image41.png                                        |
+| .. image:: _static/3.11.9. Ejemplos (XML y DATAVERSE-EjemploXML.jpg   |
 |   :scale: 35%                                                         |
 |   :name: ejemplo_xml3                                                 |                                
 +-----------------------------------------------------------------------+
