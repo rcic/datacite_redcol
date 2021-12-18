@@ -43,7 +43,7 @@ Repetible (R): 0-n veces. Repita este campo para describir todas las entidades r
 
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_tipoColaboracion.xlsx>`
 
--   **SubPropiedad: Nombre Completo del Colaborador (contributorName) (M, 1):** Esta propiedad incluye el texto asociado al colaborador del recurso que debe ser descrito en cualquiera de los formas de descripción propuestas para el campo authorName.
+-   **SubPropiedad: Nombre Completo del Colaborador (contributorName) (M, 1):** Esta propiedad incluye el texto asociado al colaborador del recurso que debe ser descrito en cualquiera de las formas de descripción propuestas para el campo authorName.
 
     -   **Atributo: Tipo de Colaborador (nameType) (O, 0-1):** Este atributo permite especificar el tipo de colaborador que se describe en el campo de metadatos. Se debe tener en cuenta los siguientes tipos de colaboradores y su codificación normalizada según el vocabulario controlado propuesto:
 
