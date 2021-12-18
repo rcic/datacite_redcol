@@ -35,7 +35,7 @@ Fechas asociadas al recurso
 
 -   **Propiedad Principal Fechas (dates)(R,0-n):** Entidad que agrupa todas las fechas relacionadas con el recurso durante su ciclo de vida
 
-    -   **SubPropiedad Fecha (date) (M, 1-n):** Entidad que identifica cada uno de las fechas relacionadas con el recurso durante su ciclo de vida.
+    -   **SubPropiedad Fecha (date) (M, 1-n):** Entidad que identifica cada una de las fechas relacionadas con el recurso durante su ciclo de vida.
 
         -   **Atributo: Tipo de Fecha (dateType) (M, 1):** En el tipo de fecha elija del vocabulario de tipo de fecha y utilice el término controlado para indicar el tipo de fecha asociado al recurso según el vocabulario propuesto:
 
