@@ -3,29 +3,29 @@
 Description (Descripción)(MA)
 ===========
 
-*3.17. Description (Descripción)(MA)*
+**3.17. Description (Descripción)(MA)**
 
-*3.17.1. Nombre según el esquema de metadatos utilizado*
+**3.17.1. Nombre según el esquema de metadatos utilizado**
 
 *datacite:description*
 
-*3.17.2. Etiqueta normalizada (Idioma Español)*
+**3.17.2. Etiqueta normalizada (Idioma Español)**
 
 Descripción
 
-*3.17.3. Definición y alcance de la propiedad*
+**3.17.3. Definición y alcance de la propiedad**
 
 Información general o específica del recurso utilizado para la descripción textual. En la descripción se puede incluir resumen, tabla de contenido, representación gráfica del contenido o un texto libre que describa el contenido del recurso.
 
-*3.17.4. Niveles de persistencia (M/MA/R/O)*
+**3.17.4. Niveles de persistencia (M/MA/R/O)**
 
 Recomendado (R)
 
-*3.17.5. Niveles de ocurrencia (R / NR)*
+**3.17.5. Niveles de ocurrencia (R / NR)**
 
 Repetible (R): 0-n
 
-*3.17.6. Propiedades, atributos y especificadores*
+**3.17.6. Propiedades, atributos y especificadores**
 
 -   *Propiedad Principal Descripciones (descriptions) (R,0-1):* Use la descripción textual como un valor.
 
@@ -41,7 +41,7 @@ Repetible (R): 0-n
    
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.17.6. Propiedades, atributos y especificadores.xlsx>`
 
-*3.17.7.Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
+**3.17.7.Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 Revise la forma adecuada para ingresar la información la descripción con
 su debida puntuación:
@@ -58,7 +58,7 @@ su debida puntuación:
 
 -   *Métodos (Methods):* Incluya la documentación completa sobre los métodos de la Ciencia Abierta (OpenScience)
 
-*3.17.8. Equivalencias Dublin Core*
+**3.17.8. Equivalencias Dublin Core**
 
 -   dc.description
 
@@ -84,7 +84,7 @@ su debida puntuación:
 
 -   dc.description.other
 
-*3.17.9. Ejemplos (XML y DATAVERSE)*
+**3.17.9. Ejemplos (XML y DATAVERSE)**
 
 -   *Ejemplo XML*
 
