@@ -3,15 +3,15 @@
 Elementos Relacionados (RelatedItem) (O)
 ===========
 
-*3.20.1. Nombre según el esquema de metadatos utilizado*
+**3.20.1. Nombre según el esquema de metadatos utilizado**
 
 *datacite:relatedItem*
 
-*3.20.2. Etiqueta normalizada (Idioma Español)*
+**3.20.2. Etiqueta normalizada (Idioma Español)**
 
 Elementos relacionados
 
-*3.20.3. Definición y alcance de la propiedad*
+**3.20.3. Definición y alcance de la propiedad**
 
 Esta propiedad contiene la descripción ampliada de los recursos
 relacionados con el recursos que se está describiendo. Esta propiedad,
@@ -20,15 +20,15 @@ se puede usar para describir todo tipo de recursos donde la propiedad
 tiene un identificador (por ejemplo, documentos de trabajo, literatura
 gris, etc..).
 
-*3.20.4. Niveles de persistencia (M/MA/R/O)*
+**3.20.4. Niveles de persistencia (M/MA/R/O)**
 
 Opcional (O)
 
-*3.20.5. Niveles de ocurrencia (R / NR)*
+**3.20.5. Niveles de ocurrencia (R / NR)**
 
 Repetible (R) 0-n veces.
 
-*3.20.6. Propiedades, atributos y especificadores*
+**3.20.6. Propiedades, atributos y especificadores**
 
 -   *Propiedad Principal Elementos relacionados (relatedItems) (O,0-n):* Descripción de los distintos elementos relacionados
 
@@ -71,7 +71,7 @@ Repetible (R) 0-n veces.
   ..
   +----------------------------+------------------------------------------+
   |Vocabulario Normalizado     |    Descripción                           |
-  +----------------------------+------------------------------------------+
+  +============================+==========================================+
   |AlternativeTitle            |    Título Alternativo / Variantes del    |
   |                            |    Título                                |
   +----------------------------+------------------------------------------+
@@ -97,7 +97,7 @@ Repetible (R) 0-n veces.
   ..
   +----------------------------+
   |Vocabulario Normalizado     |
-  +----------------------------+
+  +============================+
   |Article                     |
   |                            |
   +----------------------------+
@@ -132,7 +132,7 @@ Repetible (R) 0-n veces.
 
         -   *Atributo Apellido (familyName)(O,0-1)*
 
-*3.20.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
+**3.20.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Utilice este campo para describir detalles específicos de publicaciones seriadas que previamente se codificaban en un campo de descripción con descriptionType= "*SeriesInformation*"
 
@@ -140,7 +140,7 @@ Repetible (R) 0-n veces.
 
 -   El atributo *relatedItemType, utiliza el mismo vocabulario controlado de tipologías documentales asociadas a la naturaleza del contenido de la propiedad **resourceType* y su atributo *resourceTypeGeneral*
 
-*3.20.8. Equivalencias Dublin Core*
+**3.20.8. Equivalencias Dublin Core**
 
 -   dc.relation
 
@@ -152,7 +152,7 @@ Repetible (R) 0-n veces.
 
 -   dc.relation.ispartofconference
 
-*3.20.9. Ejemplos (XML y DATAVERSE)*
+**3.20.9. Ejemplos (XML y DATAVERSE)**
 
 -   Ejemplo XML
 ..
