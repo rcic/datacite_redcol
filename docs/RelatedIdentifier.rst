@@ -3,17 +3,17 @@
 RelatedIdentifier (Identificador relacionado)(MA)
 ===========
 
-*3.12. RelatedIdentifier (Identificador relacionado)(MA)*
+**3.12. RelatedIdentifier (Identificador relacionado)(MA)**
 
-*3.12.1. Nombre según el esquema de metadatos utilizado*
+**3.12.1. Nombre según el esquema de metadatos utilizado**
 
 *datacite:relatedIdentifier*
 
-*3.12.2. Etiqueta normalizada (Idioma Español)*
+**3.12.2. Etiqueta normalizada (Idioma Español)**
 
 Identificador Relacionado
 
-*3.12.3. Definición y alcance de la propiedad*
+**3.12.3. Definición y alcance de la propiedad**
 
 -   Este campo contiene uno o varios identificadores de recursos relacionados con el recurso que se está describiendo acompañado de una propiedad de relación adjunta según corresponda.
 
@@ -23,21 +23,21 @@ Identificador Relacionado
 
 -   OpenAIRE permite el uso de todos los tipos de relación de DataCite.
 
-*3.12.4. Niveles de persistencia (M/MA/R/O)*
+**3.12.4. Niveles de persistencia (M/MA/R/O)**
 
 Recomendado (R)
 
-*3.12.5. Niveles de ocurrencia (R / NR)*
+**3.12.5. Niveles de ocurrencia (R / NR)**
 
 Repetible (R) 0-n veces
 
-*3.12.6. Propiedades, atributos y especificadores*
+**3.12.6. Propiedades, atributos y especificadores**
 
 -   *Propiedad Principal Identificadores Relacionados (relatedIdentifiers) (R, 0-n):* Describe uno o varios identificadores normalizados acompañados de un tipo de relación establecida.
 
-    -   *SubPropiedad Identificador Relacionado (relatedIdentifier) (MA,1-n, si está definida la propiedad relatedIdentifiers ):* Esta propiedad permite especificar el valor del identificador relacionado que se le ha otorgado al recurso.
+    -   SubPropiedad Identificador Relacionado (relatedIdentifier) (MA,1-n, si está definida la propiedad relatedIdentifiers): Esta propiedad permite especificar el valor del identificador relacionado que se le ha otorgado al recurso.
 
-        -   *Atributo: Tipo de identificador relacionado (relatedIdentifierType) (MA, 1 si la propiedad relatedIdentifier es utilizada):* Este atributo permite especificar el tipo de identificador relacionado al recurso. Se debe tener en cuenta los siguientes tipos de identificadores y su codificación normalizada según el vocabulario controlado propuesto:
+        -   Atributo: Tipo de identificador relacionado (relatedIdentifierType) (MA, 1 si la propiedad relatedIdentifier es utilizada): Este atributo permite especificar el tipo de identificador relacionado al recurso. Se debe tener en cuenta los siguientes tipos de identificadores y su codificación normalizada según el vocabulario controlado propuesto:
 
 .. image:: _static/image12_1.png
    :scale: 35%
@@ -102,9 +102,9 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
 
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - resourceTypeGeneral.xlsx>`
 
-*3.12.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
+**3.12.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
-*3.12.8. Equivalencias Dublin Core*
+**3.12.8. Equivalencias Dublin Core**
 
 -   dc.relation
 
@@ -172,20 +172,13 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
 
 -   dc.relation.requires
 
-*3.12.9. Ejemplos (XML y DATAVERSE)*
+**3.12.9. Ejemplos (XML y DATAVERSE)**
 
 -   Ejemplo XML
 ..
+                           
 +-----------------------------------------------------------------------+
-| .. image:: _static/image12_12.png                                     |
-|   :scale: 35%                                                         |
-|   :name: ejemplo_xml1                                                 |                                
-+-----------------------------------------------------------------------+
-| .. image:: _static/image12_13.png                                     |
-|   :scale: 35%                                                         |
-|   :name: ejemplo_xml2                                                 |                                
-+-----------------------------------------------------------------------+
-| .. image:: _static/image12_14.png                                     |
+| .. image:: _static/image1002.jpg                                      |
 |   :scale: 35%                                                         |
 |   :name: ejemplo_xml3                                                 |                                
 +-----------------------------------------------------------------------+
