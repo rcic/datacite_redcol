@@ -3,29 +3,29 @@
 Geolocation(Ubicación geográfica)(O)
 ===========
 
-*3.18. Geolocation(Ubicación geográfica)(O)*
+**3.18. Geolocation(Ubicación geográfica)(O)**
 
-*3.18.1. Nombre según el esquema de metadatos utilizado*
+**3.18.1. Nombre según el esquema de metadatos utilizado**
 
 *datacite:geoLocation*
 
-*3.18.2. Etiqueta normalizada (Idioma Español)*
+**3.18.2. Etiqueta normalizada (Idioma Español)**
 
 Ubicación geográfica
 
-*3.18.3. Definición y alcance de la propiedad*
+**3.18.3. Definición y alcance de la propiedad**
 
 Este campo se utiliza para describir los lugares geográficos donde se llevaron a cabo las investigaciones o el lugar de referencia dentro del recurso (Región espacial o lugar con nombre donde se recopilaron los datos o sobre los cuales se enfocaron los datos.) ó lugar de publicación del recurso.
 
-*3.18.4. Niveles de persistencia (M/MA/R/O)*
+**3.18.4. Niveles de persistencia (M/MA/R/O)**
 
 Opcional (O)
 
-*3.18.5. Niveles de ocurrencia (R / NR)*
+**3.18.5. Niveles de ocurrencia (R / NR)**
 
 Repetible (R): 0-n veces. Repita el campo si el recurso incluye ubicaciones geográficas diferentes.
 
-*3.18.6. Propiedades, atributos y especificadores*
+**3.18.6. Propiedades, atributos y especificadores**
 
 -   *Propiedad Principal Ubicaciones Geográficas (geoLocations) (O, 0-n):* Describa todas las posibles regiones espaciales o lugares con nombre donde se recopilaron los datos o sobre los cuales se enfocaron los datos.
 
@@ -63,19 +63,19 @@ Repetible (R): 0-n veces. Repita el campo si el recurso incluye ubicaciones geog
 
         -   *SubPropiedad: Punto Latitud (pointLatitude) (M, 1):* Dimensión latitudinal del punto.
 
-*3.18.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)*
+**3.18.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
 -   Cuando describa coordenadas geográficas, se recomienda utilizar las coordenadas codificadas según el modelo WGS 84 (Sistema geodésico mundial). Este modelo usa solo números decimales para las coordenadas. Las longitudes son -180 a 180 (0 es Greenwich, los números negativos son al oeste, los números positivos son al este), las latitudes son -90 a 90 (0 es el ecuador, los números negativos son al sur, los números positivos al norte).
 
 -   Un cuadro (box/geoLocationBox) está definido por dos puntos geográficos. Esquina inferior izquierda (normalmente sur oeste), esquina superior derecha (normalmente noreste). Cada punto está definido por su longitud y latitud.
 
-*3.18.8. Equivalencias Dublin Core*
+**3.18.8. Equivalencias Dublin Core**
 
 -   dc.coverage
 
 -   dc.coverage.spatial
 
-*3.18.9. Ejemplos (XML y DATAVERSE)*
+**3.18.9. Ejemplos (XML y DATAVERSE)**
 
 -   *Ejemplo XML*
 ..
