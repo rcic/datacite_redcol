@@ -27,7 +27,7 @@ Repetible (R) 0-n veces
 
 -   **Propiedad Principal Tamaños (sizes) (O, 0-n):** Use la información del tamaño como valor de cada una de las propiedades asociadas al recurso.
 
-    -   **SubPropiedad tamaño (size) (O, 0-n):** Describa el tamaño asociado según la forma de medida utilizada (Bytes, MegaBytes, Centímetros, Metros, Cantidad de filas, etc..)
+    -   **SubPropiedad tamaño (size) (O, 0-n):** Describa el tamaño asociado según la forma de medida utilizada (Bytes, MegaBytes, Centímetros, Metros, Cantidad de filas, etc.)
 
 **3.13.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
