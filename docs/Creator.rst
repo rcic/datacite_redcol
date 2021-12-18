@@ -104,9 +104,9 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 
     -   **Atributo Identificador de la organización  (affiliationIdentifier) (O,0-n):** Identifica de forma única  la afiliación institucional del autor.
 
-    -   **Atributo Nombre del esquema del identificador (affiliationIdentifierScheme) (MA, 1, si es utilizada la propiedad affiliationIdentifier):** Este atributo permite especificar el nombre del esquema identificador utilizado por la afiliación institucional del autor. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad **nameIdentifier** asociado específicamente para organizaciones/instituciones (ISNI, ROR,etc..)
+    -   **Atributo Nombre del esquema del identificador (affiliationIdentifierScheme) (MA, 1, si es utilizada la propiedad affiliationIdentifier):** Este atributo permite especificar el nombre del esquema identificador utilizado por la afiliación institucional del autor. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad **nameIdentifier** asociado específicamente para organizaciones/instituciones (ISNI, ROR,etc.)
 
-    -   **Atributo URI del esquema del identificador (SchemeURI) (R, 0-1, si es utilizada la propiedad affiliationIdentifierScheme):** Este atributo permite especificar la URI del nombre del esquema identificador utilizado por la afiliación institucional del autor. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad **nameIdentifier** asociado específicamente para organizaciones/instituciones (ISNI, ROR,etc..)
+    -   **Atributo URI del esquema del identificador (SchemeURI) (R, 0-1, si es utilizada la propiedad affiliationIdentifierScheme):** Este atributo permite especificar la URI del nombre del esquema identificador utilizado por la afiliación institucional del autor. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad **nameIdentifier** asociado específicamente para organizaciones/instituciones (ISNI, ROR,etc.)
 
 **3.2.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
 
