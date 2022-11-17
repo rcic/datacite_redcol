@@ -16,19 +16,19 @@ Para el análisis de cada uno de las propiedades de metadatos que son utilizados
 
 -**Niveles de persistencia (M/MA/R/O)**: Son las propiedades de existencia de los metadatos definidas así:
 
- -**Obligatorio = Mandatory (M)**: La propiedad siempre debe estar presente en los metadatos. No se permite un valor vacío para la propiedad.
+  **Obligatorio = Mandatory (M)**: La propiedad siempre debe estar presente en los metadatos. No se permite un valor vacío para la propiedad.
  
- -**Obligatorio si es aplicable = Mandatory if Applicable (MA)**: Cuando se puede obtener el valor de la propiedad, debe estar presente en los metadatos.
+  **Obligatorio si es aplicable = Mandatory if Applicable (MA)**: Cuando se puede obtener el valor de la propiedad, debe estar presente en los metadatos.
  
- -**Recomendado = Recommended (R)**: Aunque su uso no es obligatorio, se recomienda el uso de la propiedad.
+  **Recomendado = Recommended (R)**: Aunque su uso no es obligatorio, se recomienda el uso de la propiedad.
    
- -**Opcional = Optional (O)**: No es importante si la propiedad se usa o no, pero si se usa puede proporcionar información complementaria sobre el recurso.
+  **Opcional = Optional (O)**: No es importante si la propiedad se usa o no, pero si se usa puede proporcionar información complementaria sobre el recurso.
    
 **Niveles de ocurrencia (R / NR)**: Se especifica la repetibilidad o no repetibilidad de cada propiedad según su naturaleza.
 
-   **Repetible (R)**: La propiedad de metadatos puede utilizarse 1 o más veces (1-n)
+  **Repetible (R)**: La propiedad de metadatos puede utilizarse 1 o más veces (1-n)
    
-   **No repetible (NR)**: La propiedad de metadatos debe utilizarse solamente una vez. (1)
+  **No repetible (NR)**: La propiedad de metadatos debe utilizarse solamente una vez. (1)
    
 **Propiedades, atributos y especificadores**: Este apartado muestra las diversas formas de representar las propiedades a partir de su especificidad y sus características sintácticas.
 
