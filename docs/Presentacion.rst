@@ -9,4 +9,3 @@ Presentación de las Directrices
 
    Introduccion
    AlcanceMetadatos
-   NormatividadInternacional
