@@ -43,3 +43,25 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
     
  **Productos resultados de la creación o investigación - creación en artes, arquitectura y diseño (AAD)**: Obras, diseños y procesos de nuevo conocimiento, provenientes de la creación en artes, arquitectura y diseño resultantes de procesos de creación.
  
+**Productos resultados de actividades de desarrollo tecnológico e innovación**
+
+   **Productos tecnológicos certiﬁcados o validados: Son aquellos registrados en las entidades que para tal ﬁn están establecidas.**
+   
+   	**Diseño industrial (DI)**: Es toda forma externa o apariencia estética de elementos funcionales o decorativos que sirven de patrón para su producción en la industria, manufactura o artesanía.
+
+	**Esquema de trazado de circuito integrado (ECI)**: Son dispositivos en los que ciertos elementos con funciones eléctricas, como transistores, resistencias, condensadores, diodos, etc., están montados en su sustrato común como silicona pura. Estos componentes están conectados de manera que el circuito integrado puede controlar la corriente eléctrica y, de esta manera, rectiﬁcarla, ampliarla, etc.
+
+	**Software (SF)**: Suma total de los programas de cómputo, procedimientos, reglas, documentación técnica y de usuarios, y datos asociados, que forma parte de las operaciones de un sistema de cómputo, cuyo propósito es el de apoyar el procedimiento de información.
+
+	**Planta piloto (PP)**: Construcción y utilización de una planta piloto que forma parte de la I+D, siempre y cuando el objetivo principal sea adquirir una experiencia y obtener datos técnicos o de otro tipo que puedan utilizarse: evaluación de hipótesis, elaboración de nuevas fórmulas de productos, establecimiento de nuevas especiﬁcaciones de producto terminado, diseño de equipo y estructuras especiales y redacción de instrucciones de funcionamiento o manuales de procesos.
+
+	**Prototipo industrial (PI)**: Modelo original construido, que posee todas las características técnicas y de funcionamiento del nuevo producto. Este producto cuenta con un periodo de prueba, si los resultados no llegan a ser satisfactorios y pueden utilizarse en nuevos trabajos de desarrollo.
+
+	**Signos distintivos (SD)**: Son todos aquellos símbolos, ﬁguras, vocablos o expresiones que se utilizan en las organizaciones para diferenciar los productos, servicios y procesos que son el resultado de la creación, investigación, desarrollos tecnológicos e innovación.
+
+	**Productos nutraceúticos (PN)**: Productos de origen natural con propiedades biológicas activas de uso en el ámbito alimenticio, farmacéutico y cosmético.
+
+	**Colección cientíﬁca (CC)**: Conjunto de organismos, fósiles, minerales, lenguas o partes de estos, organizados y categorizados para proporcionar información de utilidad de investigación cientíﬁca.
+
+	**Nuevo registro cientíﬁco (NRC)**: Nuevo registro de productos de procesos de ciencia, tecnología e innovación en sistemas de información cientíﬁcos. Pueden ser sustancias, redescubrimientos biológicos, nuevas unidades taxonómicas, geográﬁcos, paleontológicos o lingüísticos.
+	
