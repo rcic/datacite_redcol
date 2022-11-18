@@ -7,9 +7,9 @@ En el caso que los recursos descritos se encuentren bajo período de embargo (re
 
 En este caso, se deben registrar dos fechas relacionadas:
 
--   Fecha de inicio (Accepted): fecha \"Aceptada\" para indicar el inicio de un período de embargo.
+-   Fecha de inicio (**Accepted**): fecha \"Aceptada\" para indicar el inicio de un período de embargo.
 
--   Fecha de finalización(Available): fecha \"Disponible\" para indicar el final de un período de embargo.
+-   Fecha de finalización(**Available**): fecha \"Disponible\" para indicar el final de un período de embargo.
 
 
 .. image:: _static/imagen3.jpg
