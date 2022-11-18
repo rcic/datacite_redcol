@@ -26,3 +26,9 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
   **Libros resultado de investigación (LIB)**: Publicación original e inédita, cuyo contenido es el resultado de un proceso de investigación, evaluado por dos o más pares académicos con aportes signiﬁcativos al conocimiento en su área.
 
   **Capítulos en libro resultado de investigación (CAP_LIB)**: Publicación original e inédita, cuyo contenido es el resultado de un proceso de investigación y que forma parte de un libro de colaboración conjunta.
+
+  **Productos tecnológicos patentados o en proceso de concesión de la patente**: La patente es un título de propiedad otorgado por el gobierno de un país, que da a su titular el derecho a impedir temporalmente a otros la fabricación, venta o utilización comercial.
+
+   **Patente de invención (PA)**: Derecho exclusivo que conﬁere al estado sobre una invención.
+
+   **Patente de modelo de utilidad (MA)**: Derecho exclusivo que conﬁere el estado para proteger toda nueva forma, conﬁguración o disposición de elementos.
