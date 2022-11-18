@@ -17,7 +17,13 @@ Hay tres elementos claves que se deben tener en cuenta como parte importante del
    :numbered:
    :maxdepth: 1
    
-   EstandaresInvestigacion
+   FormatoMetadatos
+   ContenidoMetadatos
+   CompatibilidadRecolectores
+   EstructuraPerﬁlAplicacion
+   
+   
+   
    FormatoInteroperabilidad
    ProtocolosInteroperabilidad
    IdentificadoresPersistentes
