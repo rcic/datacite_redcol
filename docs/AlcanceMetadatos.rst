@@ -75,3 +75,28 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 
 			**Start-up**: Una empresa emergente surgida con base en la investigación, innovación y el desarrollo tecnológico cuyo origen es académico o empresarial.
 
+		**Empresas creativas y culturales (ICC)**: La cultura como un motor de desarrollo, capaz de liderar el crecimiento de la economía creativa y en particular el de las industrias culturales y creativas.
+
+		**Innovación generada en la gestión empresarial (IG)**: Son métodos, productos y herramientas aplicadas en las empresas ya sea en el ámbito organizacional o comercial, que constituyen o se convierten en un elemento novedoso que genera beneﬁcios tangibles a la empresa.
+
+		**Innovación en procedimiento y servicio (IPP)**: Se reﬁere a procedimientos signiﬁcativamente mejorados en todos los sectores de la economía (no protegidos por patentes o en proceso de protección), incluidos los que son únicamente para la propia empresa.
+
+	**Regulaciones, normas, reglamentos o legislaciones (RNL)**: Aquellas que han sido emitidas por una entidad competente, adaptadas por una comunidad especíﬁca y cuya generación se apoyó en la actividad cientíﬁca o tecnológica.
+
+		**Norma técnica (RNT)**: Documento establecido por consenso y aprobado por un organismo reconocido, que suministra, para uso común y repetido, reglas, directrices y características para las actividades o sus resultados, encaminados al logro del grado óptimo de orden de un contexto dado.
+
+		**Reglamento técnico (RTE)**: Reglamento de carácter obligatorio, expedido por la autoridad competente, con fundamento en la ley, que suministra requisitos técnicos, bien sea directamente o mediante referencia o incorporación del contenido de una norma nacional, regional o internacional, una especiﬁcación técnica o un código de un buen procedimiento.
+
+		**Guía de Práctica Clínica (RNP)**: Documento informativo que incluye recomendaciones para optimizar el cuidado del paciente, realizada con base en una revisión sistemática de la evidencia y en la evaluación de los beneﬁcios y daños de distintas opciones de la atención en salud.
+
+		**Protocolo de Atención a Usuario (PAU)**: Manual de servicio al ciudadano que busca brindarle un mejor servicio y teniendo en cuenta el derecho al que todas las personas tienen de presentar peticiones, quejas, reclamos, sugerencias, etc, de manera respetuosa a las autoridades por motivos de interés general o particular y a obtener pronta respuesta, consideramos pertinente deﬁnir algunos conceptos de interés, que los ayudarán a orientarlas de acuerdo a lo que requiere presentar ante la entidad.
+
+		**Manuales y Modelos de atención diferencial a Víctimas (MADV)**: Documento con la deﬁnición de protocolos para el reconocimiento de las poblaciones por sus características particulares que están en el derecho de recibir atención tratamiento especial de ayuda humanitaria, atención, asistencia y reparación integral.
+
+		**Protocolo de Vigilancia Epidemiológica (PVE)**: Documento en el que se establecen los conceptos, deﬁniciones y procedimientos estandarizados que deben aplicar a cada una de las instancias.
+
+		**Actos legislativos (AL)**: Es una norma expedida por el Congreso de la República que tiene por objeto modiﬁcar, reformar, adicionar o derogar los textos constitucionales. Se espera que los investigadores o grupos de investigación desarrollen un insumo que sirve de sustentación y aprobación del acto legislativo.
+
+		**Proyecto de Ley (RNPL)**: Es una propuesta de legislación presentada ante el Senado de la República que contiene una exposición de motivos y que es el resultado del trabajo de investigación.
+		
+		
