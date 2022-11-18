@@ -7,7 +7,7 @@ Modelo de interoperabilidad para la gestión de datos de investigación
    :numbered:
    :maxdepth: 1
    
-   EstándaresMetadatos
+   EstandaresMetadatos
    FormatoInteroperabilidad
    ProtocolosInteroperabilidad
    IdentificadoresPersistentes
