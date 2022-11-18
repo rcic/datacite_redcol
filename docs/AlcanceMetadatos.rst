@@ -206,8 +206,8 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 		| 		          | Nueva raza animal			            |
                 +-------------------------+-------------------------------------------------+
 		| Productos resultados de | Obra de creación efímera			    |
-                + creación e investiga-   +-------------------------------------------------+
-		| -ción creación en       | Obra de creación permanente			    |
+                + creación e investigación+-------------------------------------------------+
+		| creación en             | Obra de creación permanente			    |
                 + artes, arquitectura y   +-------------------------------------------------+
 		| diseño		  | Obra de creación procesual			    |
                 +-------------------------+-------------------------------------------------+
@@ -217,45 +217,45 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 **Productos resultados de actividades de desarrollo tecnológico e innovación**
    ..
                 
-                +-------------------------+-------------------------------------------------------+
-                | 				      		                                  |
-                +=========================+=======================================================+
-                | Producto tecnológico    | Diseño industrial    		                  |
-                + certiﬁcado o validado	  +-------------------------------------------------------+
-                | 	                  | Esquema de circuito integrado	                  |
-                +			  +-------------------------------------------------------+
-                | 		          | Planta piloto				          |
-                +			  +-------------------------------------------------------+
-                | 			  | Prototipo industrial                                  |
-                + 			  +-------------------------------------------------------+
-		| 			  | Signos distintivos		                          |
-                + 			  +-------------------------------------------------------+
-		|                         | Software                                              |
-                +-------------------------+-------------------------------------------------------+
-		| Producto empresarial    | Empresa de base tecnológica		                  |
-                + 			  +-------------------------------------------------------+
-                | 	                  | Industrias creativas y culturales                     |
-                +			  +-------------------------------------------------------+
-                | 		          | Innovación generada en la gestión empresarial         |
-                +			  +-------------------------------------------------------+
-		| 			  | Innovación en procedimientos (procesos y servicios)   |
-                + 			  +-------------------------------------------------------+
-		| 			  | Secreto empresarial		                          |
-                +-------------------------+-------------------------------------------------------+
-		| Regulaciones, normas,   | Guía de Práctica Clínica (GPC)                        |
-                + reglamentos legisla-    +-------------------------------------------------------+
-		| -ciones                 | Norma técnica                                         |
-                +                         +-------------------------------------------------------+
-		|                         | Proyecto de Ley                                       |
-                +			  +-------------------------------------------------------+
-		|                         | Reglamento técnico                                    |
-                +-------------------------+-------------------------------------------------------+
-		| Consultorías e informes | Consultoría cientíﬁcas-tecnología                     |
-                + técnicos finales        +-------------------------------------------------------+
-		|                         | Consultoría, arquitectura y diseño                    |
-                + 			  +-------------------------------------------------------+
-		|    			  | Informe técnico ﬁnal                                  |
-                +-------------------------+-------------------------------------------------------+
+                +-------------------------+---------------------------------------------------------+
+                | 				      		                                    |
+                +===========================+=======================================================+
+                | Producto tecnológico      | Diseño industrial    		                    |
+                + certiﬁcado o validado	    +-------------------------------------------------------+
+                | 	                    | Esquema de circuito integrado	                    |
+                +			    +-------------------------------------------------------+
+                | 		            | Planta piloto				            |
+                +			    +-------------------------------------------------------+
+                | 			    | Prototipo industrial                                  |
+                + 			    +-------------------------------------------------------+
+		| 			    | Signos distintivos		                    |
+                + 			    +-------------------------------------------------------+
+		|                           | Software                                              |
+                +---------------------------+-------------------------------------------------------+
+		| Producto empresarial      | Empresa de base tecnológica		            |
+                + 			    +-------------------------------------------------------+
+                | 	                    | Industrias creativas y culturales                     |
+                +			    +-------------------------------------------------------+
+                | 		            | Innovación generada en la gestión empresarial         |
+                +			    +-------------------------------------------------------+
+		| 			    | Innovación en procedimientos (procesos y servicios)   |
+                + 			    +-------------------------------------------------------+
+		| 			    | Secreto empresarial	                            |
+                +---------------------------+-------------------------------------------------------+
+		| Regulaciones, normas,     | Guía de Práctica Clínica (GPC)                        |
+                + reglamentos legislaciones +-------------------------------------------------------+
+		|                           | Norma técnica                                         |
+                +                           +-------------------------------------------------------+
+		|                           | Proyecto de Ley                                       |
+                +			    +-------------------------------------------------------+
+		|                           | Reglamento técnico                                    |
+                +---------------------------+-------------------------------------------------------+
+		| Consultorías e informes   | Consultoría cientíﬁcas-tecnología                     |
+                + técnicos finales          +-------------------------------------------------------+
+		|                           | Consultoría, arquitectura y diseño                    |
+                + 			    +-------------------------------------------------------+
+		|    			    | Informe técnico ﬁnal                                  |
+                +---------------------------+-------------------------------------------------------+
                 
         ..
 
