@@ -139,3 +139,33 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 
 		**Eventos artísticos, de arquitectura o de diseño con componentes de apropiación (ECA)**: Son actividades que se organizan para establecer vínculos de comunicación con comunidades de diverso origen con el propósito desarrollar procesos de apropiación de las obras o productos de la creación o la investigación creación, en las que se pretende que la ciudadanía o los asistentes asuman una posición crítica sobre los alcances e impactos de las obras o productos.
 
+		**Documento de trabajo (WP)**: Los documentos de trabajo son documentos preliminares de carácter técnico o cientíﬁco. Usualmente los autores elaboran documentos de trabajo para compartir ideas acerca de un tema o para recibir realimentación previa a una presentación formal con la comunidad cientíﬁca o para publicar en una revista cientíﬁca.
+
+		**Nueva Secuencia Genética (NSG)**: El conjunto de información molecular que haya sido publicados en una revista cientíﬁca especializada y en una base de datos o repositorio reconocido y que sea de acceso al público.
+
+		**Boletín divulgativo de resultado de investigación (BOL)**: Es una publicación cuyo propósito es compilar y presentar trabajos sobre asuntos cientíﬁcos y académicos con ﬁnes divulgativos y, que usualmente es de tipo institucional.
+
+		**Edición de revista cientíﬁca o de libros resultado de investigación (ERL)**: Esta actividad será contemplada si alguno de los integrantes del grupo de investigación es editor de una revista o libro de divulgación cientíﬁca.
+
+		**Informe ﬁnales de investigación (IFI)**: Es un documento que presenta los resultados ﬁnales de investigación en los cuales se presentan los datos y organizados y clasiﬁcados que fueron analizados y trabajados durante la investigación.
+				
+		**Consultoría cientíﬁcas-tecnologías (CON_CT)**: Se entenderá como consultoría cientíﬁca y tecnológica, estudios requeridos para la ejecución de un proyecto de inversión o para el diseño de planes y políticas de ciencia o tecnología, a estudios de diagnóstico, prefactibilidad y factibilidad para programas o proyectos cientíﬁcos o tecnológicos, a la evaluación de proyectos de ciencia o tecnología, así como el diseño de sistemas de información y servicios de procesamiento de datos de ciencia o tecnología y las asesorías técnicas y de coordinación de proyectos y programas de ciencia y tecnología.
+
+		**Consultoría en arte, arquitectura y diseño (CON_AAD)**: Los contratos de consultoría en arte, arquitectura y diseño son obligaciones que se contraen por miembros de las comunidades académicas de AAD con Instituciones de Educación Superior para: (i) ejecución de proyectos de inversión o para el diseño de planes y políticas culturales; (ii) estudios de diagnóstico, de prefactibilidad, factibilidad; (iii) programas o proyectos creativos y de desarrollo cultural y urbanístico; (iv) evaluación de proyectos culturales, artísticos y urbanísticos; (v) diseño de sistemas de información para el sector cultural y la asesoría técnica; (vi) coordinación de proyectos y programas de recuperación y preservación del patrimonio cultural y arquitectónico.		
+		
+**Productos de actividades relacionadas con la Formación de Recurso Humano en CTeI**
+
+	**Tesis de Doctorado (TD)**: Tesis con distinción o aprobadas con su respectivo diploma y acta de grado.
+
+	**Trabajo de grado de Maestría (TM)**: Trabajo de grado con distinción o aprobadas con su respectivo diploma y acta de grado. 
+
+	**Trabajo de grado de Pregrado (TP)**: Trabajo de grado con distinción o aprobadas con su respectivo diploma y acta de grado.
+
+	**Proyectos de Investigación, Desarrollo e Innovación ID+I - Creación, e Investigación, Desarrollo e Innovación (PID)**: Capacidad de gestión de un grupo de investigación, desarrollo tecnológico o innovación de sus integrantes. Los recursos procederán de la misma entidad que avale o presente el grupo de investigación.
+
+		**Proyecto ejecutado con investigadores en empresas, industria y Estado**: Se consideran como resultados de actividades de formación, aquellos proyectos desarrollados en sectores no académicos y que implican la formación de recurso humano en la metodología de la investigación.
+
+		**Proyecto ejecutado con joven investigador**: Por considerar que las becaspasantías de jóvenes investigadores son espacios de formación, se tienen en cuenta los proyectos de investigación donde se encuentre vinculado uno o más jóvenes investigadores.
+
+		**Proyecto de Investigación-Creación o de Creación (PIC)**: Se consideran como resultado de actividades de creación, que implican aportes a la cultura o al comportamiento de las comunidades participantes.
+
