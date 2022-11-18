@@ -182,3 +182,71 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 		**Apoyo a creación de cursos de Maestría o de Especialidades Clínicas (con énfasis en investigación)**: El apoyo del grupo de investigación en la creación de un curso académico para un programa de maestría acreditado, debe estar soportado en una resolución expedida por la institución académica a la cual pertenece el programa.
 
 	**Acompañamientos y asesorías de línea temática del Programa Ondas (APO)**: Productos relacionados con el apoyo o asesoría de líneas de investigación temáticas avaladas por el programa Ondas del Ministerio de Ciencia, Tecnología e Innovación.
+
+**Productos resultados de actividades de generación de nuevo conocimiento**
+   ..
+                
+                +-------------------------+-------------------------------------------------+
+                | 						                            |
+                +=========================+=================================================+
+                |Publicaciones            | Artículos de investigación 		            |
+                + 			  +-------------------------------------------------+
+                | 	                  | Libro resultado de investigación 	            |
+                +			  +-------------------------------------------------+
+                | 		          | Capítulo Libro resultado de investigación       |
+                +-------------------------+-------------------------------------------------+
+                | Productos tecnológicos  |   Patentes                                      |
+                + patentados o en proceso +-------------------------------------------------+
+		| de concesión de la  ente|  Patente de modelo de utilidad                  |
+                + patente		  +				                    +
+		|                         |                                                 |
+                +-------------------------+-------------------------------------------------+
+                | Variedades vegetales 	  | Variedades vegetales		            |
+                + y animales	 	  +-------------------------------------------------+
+		| 		          | Nueva raza animal			            |
+                +-------------------------+-------------------------------------------------+
+		| Productos resultados de | Obra de creación efímera			    |
+                + creación e investiga-   +-------------------------------------------------+
+		| -ción creación en       | Obra de creación permanente			    |
+                + artes, arquitectura y   +-------------------------------------------------+
+		| diseño		  | Obra de creación procesual			    |
+                +-------------------------+-------------------------------------------------+
+		 	
+        ..
+  
+**Productos resultados de actividades de desarrollo tecnológico e innovación**
+   ..
+                
+                +-------------------------+-------------------------------------------------+
+                | 						                            |
+                +=========================+=================================================+
+                | Producto tecnológico    | Diseño industrial    		            |
+                + certiﬁcado o validado	  +-------------------------------------------------+
+                | 	                  | Esquema de circuito integrado	            |
+                +			  +-------------------------------------------------+
+                | 		          | Planta piloto				    |
+                +			  +-------------------------------------------------+
+                | 			  | Prototipo industrial                            |
+                + 			  +-------------------------------------------------+
+		| 			  | Signos distintivos		                    |
+                + 			  +-------------------------------------------------+
+		|                         | Software                                        |
+                +-------------------------+-------------------------------------------------+
+		| Producto empresarial    | Empresa de base tecnológica		            |
+                + 			  +-------------------------------------------------+
+                | 	                  | Industrias creativas y culturales               |
+                +			  +-------------------------------------------------+
+                | 		          | Innovación generada en la gestión empresarial   |
+                +			  +-------------------------------------------------------+
+		| 			  | Innovación en procedimientos (procesos y servicios)   |
+                + 			  +-------------------------------------------------------+
+		| 			  | Secreto empresarial		                    |
+                + 			  +-------------------------------------------------+
+		|                         | Software                                        |
+                +-------------------------+-------------------------------------------------+
+                
+        ..
+
+ 
+              
+
