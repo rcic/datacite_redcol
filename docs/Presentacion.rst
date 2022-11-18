@@ -18,3 +18,4 @@ Este conjunto de directrices creadas por la Red Colombiana de Información Cient
 
    Introduccion
    AlcanceMetadatos
+   NormatividadInternacional
