@@ -3,7 +3,7 @@
 Alcance de las directrices de metadatos
 ===========
 
-Las instituciones pueden contar con diferentes infraestructuras de recursos para depositar su producción cientíﬁca: Sistemas de información de investigación, Repositorios institucionales,Bibliotecas Digitales, y Sistemas de publicación monográﬁcos/seriados (sistemas de acceso abierto para sus libros y revistas). Estas directrices pretenden generar lineamientos para exponer los datos de la producción cientíﬁca ajustadas a la infraestructura establecida por las instituciones y se fundamentan en estándares internacionales de calidad de datos tales como Directrices Driver, OpenAIRE Guidelines for Literature Repository Managers (Versiones 3.0 y 4.0), manual de metadatos y políticas de cosecha 2015 de la Red Federada de Repositorios de Acceso Abierto a la Ciencia de Latinoamérica LA Referencia, entre otros. 
+Las instituciones pueden contar con diferentes infraestructuras de recursos para depositar su producción cientíﬁca: Sistemas de información de investigación, Repositorios institucionales, Bibliotecas Digitales, y Sistemas de publicación monográﬁcos/seriados (sistemas de acceso abierto para sus libros y revistas). Estas directrices pretenden generar lineamientos para exponer los datos de la producción cientíﬁca ajustadas a la infraestructura establecida por las instituciones y se fundamentan en estándares internacionales de calidad de datos tales como Directrices Driver, OpenAIRE Guidelines for Literature Repository Managers (Versiones 3.0 y 4.0), manual de metadatos y políticas de cosecha 2015 de la Red Federada de Repositorios de Acceso Abierto a la Ciencia de Latinoamérica LA Referencia, entre otros. 
 
 Se propone que las directrices puedan ser utilizadas en diferentes fases, realizar ajustes y actualizaciones permanentes, a partir de los productos que son reconocidos como resultados de las actividades de grupo de investigación que se clasiﬁcan en cuatro (4) grandes tipos, según el “Modelo de Medición de Grupos de Investigación, Desarrollo Tecnológico o de Innovación y de Reconocimiento de Investigadores del Sistema Nacional de Ciencia, Tecnología e Innovación” (Colciencias, 2018) así:
 
@@ -65,3 +65,13 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 
 	**Nuevo registro cientíﬁco (NRC)**: Nuevo registro de productos de procesos de ciencia, tecnología e innovación en sistemas de información cientíﬁcos. Pueden ser sustancias, redescubrimientos biológicos, nuevas unidades taxonómicas, geográﬁcos, paleontológicos o lingüísticos.
 	
+	**Productos Empresariales**: Se integran productos que impactan directamente las actividades que desarrollan las empresas.
+
+		**Secreto empresarial(SE)**: Cualquier información no divulgada que una persona natural o jurídica legítimamente posea, que pueda usarse en alguna actividad productiva, industrial o comercial, y que sea susceptible de transmitirse a un tercero.
+
+		**Empresas de base tecnológica (EBT)**: 
+
+			**Spin-off**: Una empresa que surgió con base en la creatividad, la investigación y el desarrollo tecnológico cuyo origen es académico o empresarial y en la cual la universidad tiene participación.
+
+			**Start-up**: Una empresa emergente surgida con base en la investigación, innovación y el desarrollo tecnológico cuyo origen es académico o empresarial.
+
