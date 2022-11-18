@@ -256,9 +256,59 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
                 + 			    +-------------------------------------------------------+
 		|    			    | Informe técnico ﬁnal                                  |
                 +---------------------------+-------------------------------------------------------+
+		|Registros de Acuerdos de licencia para explotación de obras de Artes, Arquitectura |
+		+y Diseño protegidas por derechos de autor.					    +	
+		|										    |	
+                +---------------------------+-------------------------------------------------------+
                 
         ..
 
- 
-              
+ **Productos resultados de actividades de apropiación social del conocimiento**
+   ..
+                
+                +-------------------------+-------------------------------------------------------------+
+                | 				                                                        |
+                +==============================+========================================================+
+                | Participación ciudadana      | Participación ciudadana en proyectos de CTI            |
+                + en CTeI        	       +--------------------------------------------------------+
+                | 	                       | Espacios de participación ciudadana en CTI             |
+                +------------------------------+--------------------------------------------------------+
+                | Estrategias pedagógicas para el fomento de la CTeI y la creación	                |
+                +------------------------------+--------------------------------------------------------+
+		| Estrategias de comunicación del conocimiento					        |
+                +------------------------------+--------------------------+-----------------------------+
+		| Circulación de conocimiento  | Generación de contenidos | Libros, artículos, manuales |
+		+ especializado		       +			  + de difusión	         	+
+		|			       |			  |				|
+		+			       +			  +-----------------------------+
+            	|			       |			  | Contenido multimedia        |
+            	+      			       +                          +-----------------------------+
+		|			       |			  |Contenidos virtuales	        |
+		+			       +--------------------------+-----------------------------+
+		|			       |Evento cientíﬁco	  				|	
+		+			       +--------------------------+-----------------------------+
+		|			       |Red de conocimiento especializado			|	
+		+			       +--------------------------+-----------------------------+
+		|			       |Talleres de Creación					|	
+		+			       +--------------------------+-----------------------------+
+		|			       |Documento de trabajo (Working paper)			|	
+		+			       +--------------------------+-----------------------------+
+		|			       |Boletín divulgativo de resultado de investigación	|	
+		+			       +--------------------------+-----------------------------+
+		|			       |Edición de revista cientíﬁca o de Libro Resultado de    |
+		+			       + investigación 						+
+		|			       |							|
+		+			       +--------------------------+-----------------------------+
+		|			       | Informe final de investigación				|	
+		+------------------------------+--------------------------+-----------------------------+
+		| Reconocimientos nacionales o internacionales por procesos de apropiación social       |
+		+ del conocimiento					                                +	
+		|										        |	
+                +------------------------------+--------------------------------------------------------+
+                
+        ..
+		
+		
+		
+	              
 
