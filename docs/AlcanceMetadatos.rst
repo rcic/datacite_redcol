@@ -99,4 +99,43 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 
 		**Proyecto de Ley (RNPL)**: Es una propuesta de legislación presentada ante el Senado de la República que contiene una exposición de motivos y que es el resultado del trabajo de investigación.
 		
+	**Consultorías cientíﬁco-tecnológicas e informes técnicos ﬁnales**: Servicio profesional o método para presentar asesoramiento y ayuda práctica por un grupo de investigadores o expertos en las diversas disciplinas.
+	
+		**Concepto técnico (CT)**: Son conceptos caliﬁcados emitidos por el grupo de investigación o alguno de sus integrantes, producto de su trayectoria y especialidad técnica que sirven para la toma de decisiones.
 		
+		**Informes técnicos (INF)**: Resultado de estudios para el diseño de planes y políticas de ciencia o tecnología; de estudios de diagnóstico; de programas o proyectos cientíﬁcos o tecnológicos, así como el diseño de sistemas de información y servicios de procesamiento de datos de ciencia.
+		
+	**Acuerdo de licencia para la explotación de obras protegidas por derecho de autor (MR)**: Producto proveniente de actividad registrada de creación o de investigación de creación avalado por un grupo de investigación con de registro ante la Dirección Nacional de Derechos de Autor, susceptible de ser replicado, comercializado o industrializado.
+
+**Productos resultados de actividades de apropiación social del conocimiento**
+
+	**Participación ciudadana en CTeI**: Productos que evidencian actividad del grupo de investigación en procesos que involucren la participación ciudadana.
+
+		**Participación ciudadana en CTel (PPC)**: Desarrollo de proyectos o programas de investigación a largo plazo, que involucren participación activa de comunidades y de grupos de ciudadanos entorno a la deﬁnición del problema.
+
+		**Espacios de participación ciudadana en CTel (EPC)**: Participación del grupo de investigación en espacios o eventos de discusión nacionales, regionales o locales en los que se cuenten con la participación activa de las comunidades y ciudadanos.
+
+	**Estrategias pedagógicas para el fomento de la CTeI**: Se reconocerán como productos aquellos que evidencien procesos de intercambio y transferencia del conocimiento entre los grupos de investigación, ciudadanos y comunidades para la formación de capacidades y el fomento de la cultura cientíﬁca y creativa.
+
+		**Programa/Estrategia pedagógica para el fomento a la CTel (EPA)**: Diseño ejecución de estrategias pedagógicas y didácticas que faciliten el aprendizaje, la aplicación y uso de la ciencia, tecnología e innovación en diferentes grupos sociales.
+
+		**Alianzas con centros dedicados a la apropiación social del conocimiento**: Formulación de proyectos conjuntos con centros dedicados a la apropiación social del conocimiento (museos de ciencia, centros interactivos, casas de ciencia, jardines botánicos, bibliotecas, entre otros) con el ﬁn de crear experiencias que despierten el interés por el conocimiento cientíﬁco - tecnológico artístico que fomenten una cultura cientíﬁca y creativa.
+		
+	**Comunicación social del conocimiento**: Se reconocerán productos comunicativos que permitan comprender las ventajas y desventajas de las investigaciones, desarrollos tecnológicos y procesos de innovación.
+	
+		**Estrategia de comunicación del conocimiento (PPC)**: Diseño e implementación de estrategias que involucren, de manera crítica y reﬂexiva con relación de los procesos de investigación.
+
+		**Generación de contenido impresos, radiales, audiovisuales,multimedia, virtuales y Creative Commons (GC)**: Generación de contenidos a través de alianzas con diferentes medios masivos, alternativos o comunitarios.
+
+		**Generación de contenidos de audio**: Archivos digitales que contienen registro acústico de sonidos ambientales, fonéticos o musicales. Asociado con una identidad y avalado por el Registro Nacional de Colecciones (RNC).
+		
+	**Circulación de conocimiento especializado:** Se reconocerán los procesos que generen la circulación del conocimiento especializado entre comunidades de expertos, evidenciando las ventajas y potencialidades de la CTel, así como los riesgos y limitaciones.
+
+		**Evento cientíﬁco con componente de apropiación (EC)**: Participación en eventos cientíﬁcos, tecnológicos y de innovación, como congresos, seminarios, foros, conversatorios, talleres, entre otros.
+
+		**Participación en redes de conocimiento (RC)**: Estructura organizacional que articula diferentes instancias con capacidades en CTel.
+
+		**Talleres de creación (TC)**: Son laboratorios especializados en desarrollo de iniciativas creativas que potencian las aptitudes del creador y le permite encontrar diversos caminos.
+
+		**Eventos artísticos, de arquitectura o de diseño con componentes de apropiación (ECA)**: Son actividades que se organizan para establecer vínculos de comunicación con comunidades de diverso origen con el propósito desarrollar procesos de apropiación de las obras o productos de la creación o la investigación creación, en las que se pretende que la ciudadanía o los asistentes asuman una posición crítica sobre los alcances e impactos de las obras o productos.
+
