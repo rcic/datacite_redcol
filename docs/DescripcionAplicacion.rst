@@ -6,15 +6,15 @@ El esquema de metadatos DataCite, incorpora un modelo de descripción que vá m�
 
 Para el análisis de cada uno de las propiedades de metadatos que son utilizados por este conjunto de directrices, se tuvo en cuenta los siguientes componentes de evaluación:
 
--**Nombre de la propiedad principal**: Describe el nombre normalizado de la propiedad
+ **Nombre de la propiedad principal**: Describe el nombre normalizado de la propiedad
 
--**Nombre según el esquema de metadatos utilizado**: Determina el modelo de metadatos aplicado para la definición y utilización de la propiedad.
+ **Nombre según el esquema de metadatos utilizado**: Determina el modelo de metadatos aplicado para la definición y utilización de la propiedad.
 
--**Etiqueta normalizada (Idioma Español**): Nombre de la propiedad de metadatos en idioma español.
+ **Etiqueta normalizada (Idioma Español**): Nombre de la propiedad de metadatos en idioma español.
 
--**Definición y alcance de la propiedad**: Se exponen con precisión los conceptos de las propiedades/subpropiedades/atributos y se determina de forma clara y sencilla los objetivos que se quieren alcanzar en cada uno.
+ **Definición y alcance de la propiedad**: Se exponen con precisión los conceptos de las propiedades/subpropiedades/atributos y se determina de forma clara y sencilla los objetivos que se quieren alcanzar en cada uno.
 
--**Niveles de persistencia (M/MA/R/O)**: Son las propiedades de existencia de los metadatos definidas así:
+ **Niveles de persistencia (M/MA/R/O)**: Son las propiedades de existencia de los metadatos definidas así:
 
   **Obligatorio = Mandatory (M)**: La propiedad siempre debe estar presente en los metadatos. No se permite un valor vacío para la propiedad.
  
@@ -37,7 +37,6 @@ Para el análisis de cada uno de las propiedades de metadatos que son utilizados
 **Equivalencias Dublin Core**: Aquí se describen la relación de la propiedad con los campos del esquema de metadatos Dublin Core según el tipo de contenido referenciado al describir el recurso
 
 **Ejemplos (XML y DATAVERSE)**: Se describen ejemplos de la forma correcta para la descripción de la propiedad, adicionalmente se muestran ayudas de despliegue de los archivos XML durante transacciones interoperabilidad (Protocolo OAI-PMH). Adicionalmente presenta un modelo de aplicación en el sistema Dataverse.
-
 
 
 .. toctree::
