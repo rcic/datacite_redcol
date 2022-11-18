@@ -169,3 +169,16 @@ Los productos de investigación reconocidos en cada tipo según el modelo de med
 
 		**Proyecto de Investigación-Creación o de Creación (PIC)**: Se consideran como resultado de actividades de creación, que implican aportes a la cultura o al comportamiento de las comunidades participantes.
 
+	**Proyecto de extensión y responsabilidad social en CTel (PE)**: Diseño y desarrollo de proyectos y programas de extensión en CTel o proyectos y programas de extensión que tengan componentes de responsabilidad social.
+
+	**Apoyo a creación de programas y cursos de formación de investigadores (AP)**:Programas y cursos de posgrado que se gestionen dentro de las actividades del grupo de investigación.
+
+		**Apoyo a creación de programas de Doctorado**: Este apoyo debe estar soportado en una resolución expedida por la institución académica a la cual pertenece el programa.
+
+		**Apoyo a creación de programas de Maestría**: Este apoyo debe estar soportado en una resolución expedida por la institución académica a la cual pertenece el programa.
+
+		**Apoyo a creación de cursos de Doctorado**: El apoyo del grupo de investigación en la creación de un curso académico para un programa doctoral acreditado, debe estar soportado en una resolución expedida por la institución académica a la cual pertenece el programa.
+
+		**Apoyo a creación de cursos de Maestría o de Especialidades Clínicas (con énfasis en investigación)**: El apoyo del grupo de investigación en la creación de un curso académico para un programa de maestría acreditado, debe estar soportado en una resolución expedida por la institución académica a la cual pertenece el programa.
+
+	**Acompañamientos y asesorías de línea temática del Programa Ondas (APO)**: Productos relacionados con el apoyo o asesoría de líneas de investigación temáticas avaladas por el programa Ondas del Ministerio de Ciencia, Tecnología e Innovación.
