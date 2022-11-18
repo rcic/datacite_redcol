@@ -58,10 +58,9 @@ Una sola ocurrencia. No repetible (NR).
 ..
   
 
-**3.1.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.1.7. Forma de Descripción Normalizada**
 
-Por defecto, el formato debe ser consistente con un identificador del
-tipo DOI: \"10.1234/id\"
+Por defecto, el formato debe ser consistente con un identificador del tipo DOI: \"10.1234/id\"
 
 **3.1.8. Equivalencias Dublin Core**
 
