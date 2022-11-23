@@ -27,9 +27,9 @@ Una sola ocurrencia. No repetible (NR).
 -   **Propiedad Principal "identifier" (Identificador)**
 
     -   **Atributo "identifierType" ( tipo de identificador) (M,1):** Este atributo permite especificar el tipo de identificador que se le ha otorgado al recurso. Se debe tener en cuenta los siguientes tipos de identificadores y su codificación normalizada según el vocabulario controlado propuesto
+    
 
         -   **Valores permitidos (vocabularios controlados)**
-
 ..
 +----------------------------------------+
 | Valores de lista controlados (DataCite)|
@@ -58,7 +58,7 @@ Una sola ocurrencia. No repetible (NR).
 ..
   
 
-**3.1.7. Forma de Descripción Normalizada**
+**3.1.7. Forma de descripción recomendada**
 
 Por defecto, el formato debe ser consistente con un identificador del tipo DOI: \"10.1234/id\"
 
