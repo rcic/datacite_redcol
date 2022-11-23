@@ -27,7 +27,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 
 -   **Propiedad Principal Autores "creators" (M, 1-n):** Entidad que agrupa todos los autores del recurso
 
-    -   **Subpropiedad Autor "creator" (M, 1-n)::** Entidad que identifica cada uno de los autores del recurso.
+    -   **Subpropiedad Autor "creator" (M, 1-n):** Entidad que identifica cada uno de los autores del recurso.
 
         -   **SubPropiedad: Nombre Completo del Autor (creatorName) (M, 1):** Esta propiedad incluye el texto asociado al autor del recurso en cualquiera de las formas de descripción propuestas.
 
@@ -108,7 +108,7 @@ Repetible (R): **1-n veces**. Repita este campo para describir todas las entidad
 
     -   **Atributo URI del esquema del identificador (SchemeURI) (R, 0-1, si es utilizada la propiedad affiliationIdentifierScheme):** Este atributo permite especificar la URI del nombre del esquema identificador utilizado por la afiliación institucional del autor. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad **nameIdentifier** asociado específicamente para organizaciones/instituciones (ISNI, ROR,etc.)
 
-**3.2.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.2.7. Forma de descripción recomendada**
 
 -   Para nombres personales utilizar el formato invertido de tal forma que la sintaxis sea: "Apellido" + ", " + "Nombre".
 
