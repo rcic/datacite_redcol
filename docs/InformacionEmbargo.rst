@@ -3,7 +3,7 @@
 Información sobre fechas de embargo
 ===========
 
-En el caso que los recursos descritos se encuentren bajo período de embargo (restringido su acceso público durante un periodo de tiempo determinado), se deben registrar la fecha de disponibilidad de este con el compromiso de proporcionar acceso al recurso de manera irrestricta a partir del momento de su liberación.
+En el caso que los recursos descritos se encuentren bajo período de embargo (restringido su acceso público durante un periodo de tiempo determinado), se deben registrar la fecha de disponibilidad de este, con el compromiso de proporcionar acceso al recurso de manera irrestricta a partir del momento de su liberación.
 
 En este caso, se deben registrar dos fechas relacionadas:
 
