@@ -29,17 +29,17 @@ Repetible (R) según los distintos contextos de aplicación de la tipología doc
 
 **3.10.6. Propiedades, atributos y especificadores**
 
--   **Propiedad Principal Tipo de recurso de datos (resourceType) (M,1-n):** Utilice una etiqueta de texto libre para identificar el tipo de recurso como valor. Aunque se puede utilizar una etiqueta en cualquier idioma, se recomienda utilizar las etiquetas preferidas (Preferred Labels) establecidas en el vocabulario de tipologías **COAR versión 3.0 2021b).**
+-   **Propiedad Principal Tipo de recurso de datos (resourceType) (M,1-n):** Utilice una etiqueta de texto libre para identificar el tipo de recurso como valor. Aunque se puede utilizar una etiqueta en cualquier idioma, se recomienda utilizar las etiquetas preferidas (Preferred Labels) establecidas en el vocabulario de tipologías **COAR versión 3.0** (2021b).
 
     -   **Atributo Tipología y Naturaleza del contenido DataCite (resourceTypeGeneral) (M,1):** Este atributo permite especificar el tipo de contenido asociado a la tipología documental descrita del recurso de información. Se debe tener en cuenta los siguientes tipos de contenido y su codificación normalizada según el vocabulario controlado propuesto por DataCite.
 
     -   **Atributo URI del identificador de la tipología COAR (resourceTypeCOAR)(R,1):** Este atributo permite especificar la URI asociada a la tipología documental normalizada según el **vocabulario de tipologías** **COAR versión 3.0,** en especial las tipologías adaptadas para datos de investigación (dataset).
 
-**3.10.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.10.7. Forma de descripción recomendada**
 
 -   Revise la forma adecuada para seleccionar el tipo de recurso, se recomienda utilizar los vocabularios de tipologías documentales de COAR y de Tipologías de DataCite.
 
-    -   **Tipología y Naturaleza del Contenido del Recurso:** Se debe seleccionar el tipo de contenido del recurso según vocabulario controlado provisto por DataCite (**resourceTypeGeneral**):
+     -**Tipología y Naturaleza del Contenido del Recurso:** Se debe seleccionar el tipo de contenido del recurso según vocabulario controlado provisto por DataCite (**resourceTypeGeneral**):
 
 .. image:: _static/image34.png
    :scale: 35%
@@ -251,11 +251,11 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.10. ResourceType 3.10.7. Form
 
 **3.10.8. Equivalencias Dublin Core**
 
--   dc.type
+    -   dc.type
 
--   dc.type.coar
+    -   dc.type.coar
 
--   dc.type.content
+    -   dc.type.content
 
 **3.10.9. Ejemplos (XML y DATAVERSE)**
 
