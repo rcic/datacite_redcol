@@ -13,7 +13,7 @@ Año de Publicación
 
 **3.5.3. Definición y alcance de la propiedad**
 
-En esa propiedad se indica el año (AAAA) en el que los datos se pusieron se pondrán a disposición del público.
+En esa propiedad se indica el año (AAAA) en el que los datos se pusieron o se pondrán a disposición del público.
 
 **3.5.4. Niveles de persistencia (M/MA/R/O)**
 
@@ -27,9 +27,9 @@ Para fechas de publicación: No Repetible (R): 1 ocurrencia
 
 -   Propiedad Principal Año de publicación (publicationYear) **(M, 1)**
 
-**3.5.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.5.7. Forma de descripción recomendada**
 
-Fecha de publicación: Escriba únicamente los cuatro dígitos numéricos (AAAA) asociados al año de publicación o de disponibilidad de los datos.
+Fecha de publicación: Escriba únicamente los cuatro dígitos numéricos (AAAA) asociados al año de publicación ó de disponibilidad de los datos.
 
 **3.5.8. Equivalencias Dublin Core**
 
