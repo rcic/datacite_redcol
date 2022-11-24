@@ -42,7 +42,7 @@ Repetible (R): 0-n veces
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.11.6. Propiedades, atributos y especificadores.xlsx>`
 
 
-**3.11.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.11.7. Forma de descripción recomendada**
 
 -   **Identificador Alternativo:** Identificador del recurso, puede ser una cadena alfanumérica que sea única dentro de su dominio o emisión.
 
@@ -50,27 +50,27 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.11.6. Propiedades, atributos 
 
     -   Para el caso del PURL, coloque la URL completa.
 
-    -   para el Ingreso de DOI no incluya los datos de la URL (http://doi.org)
+    -   Para el Ingreso de DOI no incluya los datos de la URL (http://doi.org)
 
     -   Pueden utilizarse para identificadores locales (Signaturas, Códigos de barras, Números de inventarios etc)
 
 **3.11.8. Equivalencias Dublin Core**
 
--   dc.identifier
+    -   dc.identifier
 
--   dc.identifier.doi
+    -   dc.identifier.doi
 
--   dc.identifier.local
+    -   dc.identifier.local
 
--   dc.identifier.isbn
+    -   dc.identifier.isbn
 
--   dc.identifier.issn
+    -   dc.identifier.issn
 
--   dc.identifier.uri
+    -   dc.identifier.uri
 
--   dc.identifier.url
+    -   dc.identifier.url
 
--   dc.identifier.other
+    -   dc.identifier.other
 
 **3.11.9. Ejemplos (XML y DATAVERSE)**
 
