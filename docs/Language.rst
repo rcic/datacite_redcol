@@ -32,7 +32,7 @@ Repetible (R): 0-n veces
 -   Revise la forma adecuada para ingresar los códigos referentes al idioma. Existen múltiples vocabularios para normalizar los idiomas como se muestra a continuación:
 
 
-    - **ETF BCP 47:** Registro de subetiquetas de idioma de IANA. [[https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry]{.ul}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
+    - **ETF BCP 47:** Registro de subetiquetas de idioma de IANA. (https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 
     - **ISO 639-1**: http://www.sil.org/iso639-1/
 
