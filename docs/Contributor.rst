@@ -88,7 +88,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_IdentificadorNombre.xlsx>
 
     -   **Atributo URI del esquema del identificador (SchemeURI) (R, 0-1, si es utilizada la propiedad affiliationIdentifierScheme):** Este atributo permite especificar la URI del nombre del esquema identificador utilizado por la afiliación institucional del autor. Se debe tener en cuenta el vocabulario controlado propuesto en la propiedad **nameIdentifier** asociado específicamente para organizaciones/instituciones (ISNI, ROR,etc.)
 
-**3.7.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.7.7. Forma de descripción recomdendada**
 
 -   Para nombres personales utilizar el formato invertido de tal forma que la sintaxis sea: "Apellido" + ", " + "Nombre".
 
