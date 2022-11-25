@@ -176,23 +176,111 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
        -   **Atributo: Tipo de esquema de metadatos relacionado (schemeType) (O, 0-1):** Este atributo contiene el tipo de formato del esquema de metadatos que fue vinculado en el atributo anterior **schemeURI** (XSD,DDT, Turtle). Este atributo debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
        -   **Atributo: Tipo de contenidos en el recurso relacionado (resourceTypeGeneral) (O, 0-1):** Este campo describe el tipo de contenidos que se encuentran en el recurso relacionado. Se debe tener en cuenta los mismos tipos de contenidos de Tipología y Naturaleza del Contenido del Recurso indicados según el vocabulario controlado provisto por DataCite (**resourceTypeGeneral**):
+       
 
-.. image:: _static/image12_8.png
-   :scale: 35%
-   :name: table_atributocont
 
-.. image:: _static/image12_9.png
-   :scale: 35%
-   :name: table_atributocont
-
-.. image:: _static/image12_10.png
-   :scale: 35%
-   :name: table_atributocont
-
-.. image:: _static/image12_11.png
-   :scale: 35%
-   :name: table_atributocont
-
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |Vocabulario Normalizado  | **Descripción del atributo**                               | **Equivalencia Dublin Core**           |
+                    |                         |                                                            |                                        |
+                    +=========================+============================================================+========================================+
+                    |  Audiovisual            |Contenido Audiovisual/Multimedia. Una serie de              | MovingImage                            |
+                    |                         |representaciones visuales que imparten una                  |                                        |
+                    |                         |impresión de movimiento cuando se muestran en sucesión.     |                                        |                   
+                    |                         |Puede o no incluir sonido.                                  |                                        | 
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Book                   | Un medio para registrar información en forma de escritura  | Text                                   |
+                    |                         | o imágenes, generalmente compuesto por muchas páginas      |                                        |
+                    |                         | unidas y protegidas por una cubierta.                      |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  BookChapter            | Una de las principales divisiones de un libro.             | Text                                   |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Collection             |Contenido Colección. Una agregación de recursos, que puede  | Collection                             |
+                    |                         |abarcar colecciones de un tipo de recurso así como de tipos |                                        |
+                    |                         |mixtos. Una colección se describe como un grupo; Sus partes |                                        |                   
+                    |                         |también se pueden describir por separado.                   |                                        | 
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  ConferencePaper        |Artículo de ponencia escrito con el objetivo de ser aceptado| Text                                   |
+                    |                         |en una conferencia.                                         |                                        |  
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  ConferenceProceeding   |Colección de artículos académicos publicados en el contexto | Text                                   |
+                    |                         |de una conferencia académica                                |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  DataPaper              |Contenido Publicación de datos. Una publicación             | Text                                   |
+                    |                         |especializada con la intención de identificar y describir   |                                        |
+                    |                         |datos específicos, conjuntos de datos o recopilaciones de   |                                        |                   
+                    |                         |datos para facilitar el descubrimiento.                     |                                        | 
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Dataset                |Contenido Conjunto de datos. Datos codificados en una       | dataset                                |
+                    |                         |estructura definida.                                        |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Dissertation           |Un ensayo, tratado o tesis escrito, especialmente uno       | Text                                   |
+                    |                         |escrito por un candidato para el grado de Doctor            |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Event                  |Contenido Acontecimiento. Una ocurrencia no persistente,    | Event                                  |
+                    |                         |basada en el tiempo.                                        |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Image                  |Contenido Imagen. Una representación visual que no sea      | Image, StillImage                      |
+                    |                         |texto. En el vocabulario DC se representa como Image,       |                                        |
+                    |                         |StillImage                                                  |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  InteractiveResource    |Contenido Recurso interactivo. Un recurso que requiere la   | InteractiveResource                    |
+                    |                         |interacción del usuario para ser comprendido, ejecutado o   |                                        |
+                    |                         |experimentado.                                              |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Journal                |Una publicación académica que consta de artículos que se    | Text                                   |
+                    |                         |publican regularmente.                                      |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  JournalArticle         |Una composición escrita sobre un tema de interés, que forma | Text                                   |
+                    |                         |parte separada de una revista.                              |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Model                  |Contenido Modelo. Un modelo abstracto, conceptual, gráfico, | N/A                                    |
+                    |                         |matemático o de visualización que representa objetos        |                                        |
+                    |                         |empíricos, fenómenos o procesos físicos.                    |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  OutputManagementPlan   |Un documento formal que describe cómo se gestionarán los    | Text                                   |
+                    |                         |resultados de la investigación tanto durante un proyecto de |                                        |
+                    |                         |investigación como después de que se complete el proyecto.  |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+  
+                    | PeerReview              |Evaluación del trabajo científico, académico o profesional  | Text                                   |
+                    |                         |de otras personas que trabajan en el mismo campo.           |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  PhysicalObject         |Contenido Objeto físico. Un objeto o sustancia inanimada,   | PhysicalObject                         |
+                    |                         |tridimensional.                                             |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+                   
+                    | Preprint                | Una versión de un artículo académico o científico que      | Text                                   | 
+                    |                         |precede a la revisión formal por pares y la publicación     |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+  
+                    |  Report                 |Un documento que presenta información en un formato         | Text                                   |
+                    |                         |organizado para una audiencia y un propósito específicos.   |                                        |
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+                 
+                    | Service                 |Contenido Servicio. Un sistema organizado de aparatos,      | Text                                   | 
+                    |                         |aparatos, personal, etc., para suministrar algunas funciones|                                        |
+                    |                         |requeridas por los usuarios finales.                        |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Software               |Contenido Software. Un programa informático en código fuente| Software                               |
+                    |                         |(texto) o en forma compilada. Utilice este tipo de contenido|                                        |
+                    |                         |para todos los componentes de software relacionados.        |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    | Sound                   |Contenido Sonido. Un recurso destinado principalmente a ser |                                        |
+                    |                         |escuchado.                                                  |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Standard               |Un documento establecido por autoridad, costumbre o         | Text                                   |
+                    |                         |consentimiento general como modelo, ejemplo o punto de      |                                        |
+                    |                         |referencia.                                                 |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+ 
+                    | Text                    |Contenido Texto. Un recurso formado principalmente por      |                                        |
+                    |                         |palabras para la lectura                                    |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |  Workflow               |Contenido Flujo de Trabajo. Una serie estructurada de pasos | N/A                                    |
+                    |                         |que se pueden ejecutar para producir un resultado final, que|                                        |
+                    |                         |permite a los usuarios especificar y ejecutar su trabajo de |                                        |                   
+                    |                         |una manera más reproducible.                                |                                        | 
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+                    |Other                    |Otros contenidos. Contenido que no se puede describir en los|N/A                                     |            
+                    |                         |anteriores elementos.                                       |                                        |                   
+                    |                         |                                                            |                                        |                   
+                    +-------------------------+------------------------------------------------------------+----------------------------------------+
+           
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - resourceTypeGeneral.xlsx>`
 
 **3.12.7. Forma de Descripción recomendada**
