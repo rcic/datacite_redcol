@@ -38,7 +38,7 @@ Repetible (R): 0-n veces
 
     -   **Atributo URI del Esquema de la licencia (schemeURI)(O,0-1):** URI asociada al esquema indicado en el atributo **rightsIdentifierScheme** que puede ser legible por máquinas.
 
-**3.16.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.16.7. Forma de descripción recomendada**
 
 -   Use el título completo de una licencia e incluya la información de la versión si corresponde. Puede utilizarse para licencias de software.
 
