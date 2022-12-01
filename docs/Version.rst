@@ -3,7 +3,7 @@
 Version (Versión)(O)
 ===========
 
-**3.15.1. Nombre según el esquema de metadatos utilizado\
+**3.15.1. Nombre según el esquema de metadatos utilizado**
 
 **datacite:version**
 
