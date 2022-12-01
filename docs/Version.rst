@@ -4,7 +4,8 @@ Version (Versión)(O)
 ===========
 
 **3.15.1. Nombre según el esquema de metadatos utilizado\
-datacite:version**
+
+**datacite:version**
 
 **3.15.2. Etiqueta normalizada (Idioma Español)**
 
@@ -24,13 +25,13 @@ Repetible (R): 0-n
 
 Propiedad Principal Versión (version)(R, 0-n): Utilice un número de versión o la etiqueta del término de vocabulario como valor
 
-**3.15.7. Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.15.7. Forma de descripción recomendada**
 
 -   Registre un nuevo identificador para un cambio de versión importante.
 
 -   Los administradores individuales deben determinar cuáles son las versiones principales y las menores
 
--   Puede utilizarse junto con las propiedades **AlternateIdentifier (O**) y **RelatedIdentifier (MA)** para indicar varias actualizaciones de información.
+-   Puede utilizarse junto con las propiedades **AlternateIdentifier (O)** y **RelatedIdentifier (MA)** para indicar varias actualizaciones de información.
 
 -   Puede usarse junto con la propiedad **Descripción (MA)** para indicar la naturaleza y el rango de archivo / registro de la versión.
 
