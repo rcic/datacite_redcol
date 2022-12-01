@@ -3,8 +3,6 @@
 Description (Descripción)(MA)
 ===========
 
-**3.17. Description (Descripción)(MA)**
-
 **3.17.1. Nombre según el esquema de metadatos utilizado**
 
 *datacite:description*
@@ -27,62 +25,84 @@ Repetible (R): 0-n
 
 **3.17.6. Propiedades, atributos y especificadores**
 
--   *Propiedad Principal Descripciones (descriptions) (R,0-1):* Use la descripción textual como un valor.
+    -   **Propiedad Principal Descripciones (descriptions) (R,0-1):** Use la descripción textual como un valor.
 
--   *SubPropiedad Descripción (description) (R,1-n):* Incluya toda la información adicional que no encaja en ninguna de las otras categorías. Puede utilizarse para información técnica.
+    -   **SubPropiedad Descripción (description) (R,1-n):** Incluya toda la información adicional que no encaja en ninguna de las otras categorías. Puede utilizarse para información técnica.
 
-    -   *Atributo IDIOMA (xml:lang) (O, 0-1):* Este atributo especifica el idioma utilizado en la descripción. Se debe tener en cuenta su codificación normalizada según el vocabulario propuesto por el estándar ISO 639-3 utilizando carácteres en UTF-8 (https://iso639-3.sil.org/code_tables/download_tables)
+        -   **Atributo IDIOMA (xml:lang) (O, 0-1):** Este atributo especifica el idioma utilizado en la descripción. Se debe tener en cuenta su codificación normalizada según el vocabulario propuesto por el estándar ISO 639-3 utilizando carácteres en UTF-8 (https://iso639-3.sil.org/code_tables/download_tables)
 
-    -   *Atributo Tipo de Descripción (descriptionType) (MA, 1):* Este atributo permite especificar el tipo de descripción asociada al recurso. Se debe tener en cuenta los siguientes tipos de descripción y su codificación normalizada según el vocabulario controlado propuesto:
-
-.. image:: _static/image17_1.png
-   :scale: 35%
-   :name: table_atributodescrip
+        -   **Atributo Tipo de Descripción (descriptionType) (MA, 1):** Este atributo permite especificar el tipo de descripción asociada al recurso. Se debe tener en cuenta los siguientes tipos de descripción y su codificación normalizada según el vocabulario controlado propuesto:
+        
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+
+|  Vocabulario Normalizado            | Descripción del Atributo                                                        | Dominio de Vocabulario |
++=====================================+=================================================================================+========================+
+| Abstract                            | Una breve descripción del recurso y el contexto en el que se creó el recurso.   | datacite               |
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+
+| Comments                            | Comentarios y observaciones hechos al recurso                                   | redcol                 |
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+
+| Methods                             | La metodología empleada para el estudio o investigación.                        | datacite               |
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+
+| Notes                               | Notas asociadas al recurso                                                      | redcol                 | 
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+       
+| TableOfContents                     | Una lista de la tabla de contenidos.                                            | datacite               | 
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+ 
+| TechnicalInfo                       | Información detallada que puede estar asociada con el diseño, implementación,   | datacite               |
+|                                     | operación, uso y / o mantenimiento de un proceso o sistema.                     |                        |
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+
+|Provenance                           | Describir la historia de la custodia del recurso desde su creación, incluyendo  | redcol                 |     
+|                                     | los cambios que se le hicieron.                                                 |                        | 
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+ 
+| SeriesInformation                   | Información sobre una serie que se repite, como volumen, número, número.        | datacite               |
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+ 
+| Sponsorship                         | Información sobre agencias patrocinadoras                                       | datacite               |
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+ 
+| Other                               | Otro tipo de descripción                                                        | datacite               |
++-------------------------------------+---------------------------------------------------------------------------------+------------------------+ 
+    
    
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.17.6. Propiedades, atributos y especificadores.xlsx>`
 
-**3.17.7.Forma de Descripción Normalizada (RDA / RCAA2 / ISBD)**
+**3.17.7.Forma de descripción recomendada**
 
-Revise la forma adecuada para ingresar la información la descripción con
-su debida puntuación:
+Revise la forma adecuada para ingresar la información la descripción con su debida puntuación:
 
--   *Descripción General:* Texto libre que contiene una descripción general del recurso.
+    -   **Descripción General:** Texto libre que contiene una descripción general del recurso.
 
--   *Resumen (Abstract):* Describe el alcance de los contenidos, puede ser un sumario, un resumen, una reseña, una anotación o una frase que describe el recurso. Si la información es tomada textualmente del recurso, se coloca al final del resumen: (Apartes del texto).
+    -   **Resumen (Abstract):** Describe el alcance de los contenidos, puede ser un sumario, un resumen, una reseña, una anotación o una frase que describe el recurso. Si la información es tomada textualmente del recurso, se coloca al final del resumen: (Apartes del texto).
 
--   *Notas (Notes):* Coloque notas generales de interés al público relacionadas con el recurso.
+    -   **Notas (Notes):** Coloque notas generales de interés al público relacionadas con el recurso.
 
--   *Comentarios (Comments):* Coloque los comentarios generados sobre el recurso omitiendo datos de la entidad que lo generó y fechas de generación.
+    -   **Comentarios (Comments):** Coloque los comentarios generados sobre el recurso omitiendo datos de la entidad que lo generó y fechas de generación.
 
--   *Tabla de Contenidos (TableOfContents):* Coloque el índice del recurso de información omitiendo números de página y caracteres sin valor semántico (puntos, guiones tabuladores, espacios, etc.).
+    -   **Tabla de Contenidos (TableOfContents):** Coloque el índice del recurso de información omitiendo números de página y caracteres sin valor semántico (puntos, guiones tabuladores, espacios, etc.).
 
--   *Métodos (Methods):* Incluya la documentación completa sobre los métodos de la Ciencia Abierta (OpenScience)
+    -   **Métodos (Methods):** Incluya la documentación completa sobre los métodos de la Ciencia Abierta (OpenScience)
 
 **3.17.8. Equivalencias Dublin Core**
 
--   dc.description
+    -   dc.description
 
--   dc.description.abstract
+    -   dc.description.abstract
 
--   dc.description.comments
+    -   dc.description.comments
 
--   dc.description.methods
+    -   dc.description.methods
 
--   dc.description.notes
+    -   dc.description.notes
 
--   dc.description.tableofcontents
+    -   dc.description.tableofcontents
 
--   dc.description.technicalinfo
+    -   dc.description.technicalinfo
 
--   dc.description.provenance
+    -   dc.description.provenance
 
--   dc.description.seriesinformation
+    -   dc.description.seriesinformation
 
--   dc.description.sponsorship
+    -   dc.description.sponsorship
 
--   dc.description.scale
+    -   dc.description.scale
 
--   dc.description.other
+    -   dc.description.other
 
 **3.17.9. Ejemplos (XML y DATAVERSE)**
 
