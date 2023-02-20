@@ -6,7 +6,7 @@ Confederation of Open Access Repositories, COAR. (2018, julio 1). Controlled Voc
 
 Confederation of Open Access Repositories, COAR. (2021a, febrero 3). Controlled Vocabularies for Repositories: Access Rights 1.0. https://vocabularies.coar-repositories.org/access_rights/
 
-Confederation of Open Access Repositories, COAR. (2021b, julio 19). Controlled Vocabularies for Repositories: Resource Types. V3. https://vocabularies.coar-repositories.org/resource_types/3.0/
+Confederation of Open Access Repositories, COAR. (2021b, julio 19). Controlled Vocabularies for Repositories: Resource Types. V3. https://vocabularies.coar-repositories.org/version_types/ 
 
 DataCite Consortium. (2021). DataCite Metadata Schema V 4.4 [Website]. DataCite Schema. https://schema.datacite.org/
 
