@@ -3,7 +3,7 @@
    :name: img_header
 
 ########################################################################################################################
-Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica
+Directrices de Metadatos para Repositorios de Datos de Investigación del Ministerio de Ciencia, Tecnología e Innovación
 ########################################################################################################################
 
 ..
