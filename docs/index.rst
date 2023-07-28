@@ -26,6 +26,6 @@ Directrices de Metadatos para Repositorios de Datos de Investigación del Minist
    
       
 
-.. image:: _static/logominciencias.png
+.. image:: _static/logo-minciencias_2023.png
    :scale: 60%
    :name: img_footer
