@@ -77,5 +77,5 @@ dc:identifier
 -   **Ejemplo Dataverse**
 
 .. image:: _static/image5.png
-   :scale: 35%
+   :scale: 20%
    :name: img_header
