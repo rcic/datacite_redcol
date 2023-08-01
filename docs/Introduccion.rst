@@ -9,7 +9,7 @@ Los Repositorios de Datos de Investigación (RDI) son sistemas de información d
 
 Dichos sistemas toman como insumo los datos de investigación y los transforman en  objetos digitales compuestos y heterogéneos denominados DataSets que son representados como un contenedor que agrupa: Archivos de Datos(DataFiles), Documentación, Metadatos, Identificadores persistentes y Código/Scripts para su manipulación. “Los datasets se almacenan y gestionan en repositorios interoperables en red integrados en una infraestructura global de investigación, desarrollados conforme a estándares internacionales” (Grupo de Trabajo de “Depósito y Gestión de datos en Acceso Abierto” del proyecto RECOLECTA, 2012). 
 
-Los Repositorios de Datos de Investigación son implementados con base a tres principios fundamentales (administración, preservación y descubrimiento):
+Los Repositorios de Datos de Investigación son implementados con base a tres principios fundamentales:
 
 -   **Administración:** Incluye los componentes de adquisición, organización/clasificación, almacenamiento y publicación de Datos y DataSets.
 
