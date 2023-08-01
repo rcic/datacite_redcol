@@ -40,11 +40,11 @@ dc.date.issued
 -   Ejemplo XML
 
 .. image:: _static/image14.png
-   :scale: 35%
+   :scale: 20%
    :name: img_dublinCore
 
 -   Ejemplo Dataverse
 
 .. image:: _static/image15.png
-   :scale: 35%
+   :scale: 20%
    :name: img_Dataversee
