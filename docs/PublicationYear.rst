@@ -40,7 +40,6 @@ dc.date.issued
 -   Ejemplo XML
 
 .. image:: _static/image14.png
-   :scale: 20%
    :name: img_dublinCore
 
 -   Ejemplo Dataverse
