@@ -25,7 +25,7 @@ Repetible (R): 0-n veces. Repita el campo si el recurso incluye ubicaciones geog
 
 **3.18.6. Propiedades, atributos y especificadores**
 
-    -   **Propiedad Principal Ubicaciones Geográficas (geoLocations) (O, 0-n):** Describa todas las posibles regiones espaciales o lugares con nombre donde se recopilaron los datos o sobre los cuales se enfocaron los datos.
+    -   **Propiedad Principal Ubicaciones Geográficas (geoLocations) (O, 0-n):** Describa todas las posibles regiones espaciales o lugares con nombre dónde se recopilaron los datos o sobre los cuáles se enfocaron los datos.
 
     -   **SubPropiedad: Ubicación Geográfica (geoLocation) (O, 0-n):** Describa cada una de las posibles ubicaciones geográficas asociadas. Repita esta propiedad para indicar varias ubicaciones diferentes.
 
@@ -79,7 +79,6 @@ Repetible (R): 0-n veces. Repita el campo si el recurso incluye ubicaciones geog
 ..
 +-----------------------------------------------------------------------+
 | .. image:: _static/image18_1.png                                      |
-|   :scale: 35%                                                         |
 |   :name: ejemplo                                                      |                                
 +-----------------------------------------------------------------------+
 ..
@@ -87,7 +86,6 @@ Repetible (R): 0-n veces. Repita el campo si el recurso incluye ubicaciones geog
 ..
 +-----------------------------------------------------------------------+
 | .. image:: _static/image18_2.png                                      |
-|   :scale: 35%                                                         |
 |   :name: ejemplo                                                      |                                
 +-----------------------------------------------------------------------+
 ..
