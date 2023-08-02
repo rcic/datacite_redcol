@@ -113,9 +113,10 @@ Revise la forma adecuada para ingresar la información la descripción con su de
 
 
 -   *Ejemplo Dataverse*
-
-.. image:: _static/image17_3.png
-   :name: table_ejemplo
-
-.. image:: _static/image17_4.png
-   :name: table_ejemplo
++-------------------------------------+
+|.. image:: _static/image17_3.png     |
+|   :name: table_ejemplo              |
++-------------------------------------+
+|.. image:: _static/image17_4.png     |
+|   :name: table_ejemplo              |
++-------------------------------------+
