@@ -276,5 +276,4 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.10. ResourceType 3.10.7. Form
 -   **Ejemplo Dataverse**
 
 .. image:: _static/image36.png
-   :scale: 35%
    :name: table_tipologiaNat2
