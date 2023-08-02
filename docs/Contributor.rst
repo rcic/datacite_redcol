@@ -131,5 +131,4 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/table_equivalenciaDublin.xlsx>`
 -   **Ejemplo Dataverse (Distintos Roles de Colaboración- Personas)**
 
 .. image:: _static/image28.png
-   :scale: 10%
    :name: img_dataverse2
