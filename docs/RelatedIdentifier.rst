@@ -165,7 +165,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
   
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - relationType.xlsx>`
 
-       -   **Atributo: Esquema de metadatos relacionado (relatedMetadataScheme) (O, 0-1):** Este atributo permite establecer un esquema de metadatos utilizado para describir la relación del identificador. Debe ser únicamente utilizado, si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
+       -   **Atributo: Esquema de metadatos relacionado (relatedMetadataScheme) (O, 0-1):** Este atributo permite establecer un esquema de metadatos utilizado para describir la relación del identificador. Debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
        -   **Atributo: URI del esquema de metadatos relacionado (schemeURI) (O, 0-1):** Este atributo permite establecer la URI normalizada del esquema de metadatos utilizado, para describir la relación del identificador en un formato estándar (XSD,DDT, Turtle). Debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
