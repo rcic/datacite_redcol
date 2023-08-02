@@ -87,7 +87,6 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.19.6. Propiedades, atributos 
 ..
 +-----------------------------------------------------------------------+
 | .. image:: _static/image19_2.png                                      |
-|   :scale: 35%                                                         |
 |   :name: ejemplo_xml3                                                 |                                
 +-----------------------------------------------------------------------+
 ..
@@ -95,7 +94,6 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.19.6. Propiedades, atributos 
 ..
 +-----------------------------------------------------------------------+
 | .. image:: _static/image19_3.png                                      |
-|   :scale: 35%                                                         |
 |   :name: ejemplo_xml3                                                 |                                
 +-----------------------------------------------------------------------+
 ..
