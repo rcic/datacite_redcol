@@ -109,16 +109,13 @@ Revise la forma adecuada para ingresar la información la descripción con su de
 -   *Ejemplo XML*
 
 .. image:: _static/image17_2.png
-   :scale: 35%
    :name: table_ejemplo
 
 
 -   *Ejemplo Dataverse*
 
 .. image:: _static/image17_3.png
-   :scale: 35%
    :name: table_ejemplo
 
 .. image:: _static/image17_4.png
-   :scale: 35%
    :name: table_ejemplo
