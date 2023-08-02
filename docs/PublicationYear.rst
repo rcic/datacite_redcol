@@ -45,5 +45,4 @@ dc.date.issued
 -   Ejemplo Dataverse
 
 .. image:: _static/image15.png
-   :scale: 10%
    :name: img_Dataversee
