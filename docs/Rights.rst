@@ -45,7 +45,6 @@ Repetible (R): 0-n veces
 -   Para el ingreso de valores asociados a los atributos **rights, rightsURI,** **rightsIdentifier,** se recomienda utilizar los valores del listado de licencias SPDX ([[https://spdx.org/licenses/]{.ul}](https://spdx.org/licenses/)) y cuyos principales valores se muestran a continuación:
 
 .. image:: _static/image16_1.png
-   :scale: 35%
    :name: table_FormaRecomendada
    
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.16.7. Forma de descripción recomendada.xlsx>`
@@ -105,7 +104,6 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.16.7. Forma de descripción r
 ..
 +---------------------------------------------+
 |.. image:: _static/image16_2.png             |
-|   :scale: 35%                               |
 |   :name: img_dataverse16_2                  |
 +---------------------------------------------+
 ..
