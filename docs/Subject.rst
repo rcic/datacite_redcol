@@ -203,11 +203,9 @@ Se recomienda utilizar términos tomados de un esquema de clasificación estánd
 -   **Ejemplo Dataverse Término normalizado**
 
 .. image:: _static/image17.png
-   :scale: 35%
    :name: img_termino
 
 -   **Ejemplo DataVerse Término propuesto**
 
 .. image:: _static/image18.png
-   :scale: 35%
    :name: img_terminoP
