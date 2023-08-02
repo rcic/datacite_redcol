@@ -57,7 +57,6 @@ Propiedad Principal Versión (version)(R, 0-n): Utilice un número de versión o
 ..
 +---------------------------------------------+
 |.. image:: _static/image15_1.png             |
-|   :scale: 35%                               |
 |   :name: img_dataverse15                    |
 +---------------------------------------------+
 ..
