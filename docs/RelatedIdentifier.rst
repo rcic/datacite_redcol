@@ -150,6 +150,21 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
 
        -   **Atributo: Tipo de Relación (relationType) (MA, 1 si la propiedad relatedIdentifier es utilizada):** Este atributo permite describir la relación del recurso que se está describiendo (A) con otro recurso relacionado (B). Se debe tener en cuenta los siguientes tipos de relación y su codificación normalizada según el vocabulario controlado propuesto:
 
++---------------------------------+ 
+|                                 |  
+|.. image:: _static/image12_4.png | 
+|   :name: table_atributorela     |
++---------------------------------+
+|.. image:: _static/image12_5.png |
+|  :name: table_atributorela      |
++---------------------------------+
+|.. image:: _static/image12_6.png |
+|   :name: table_atributorela     |
++---------------------------------+
+|.. image:: _static/image12_7.png |
+|   :name: table_atributorela     |
++---------------------------------+
+
 .. image:: _static/image12_4.png
    :name: table_atributorela
 
@@ -161,7 +176,6 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
 
 .. image:: _static/image12_7.png
    :name: table_atributorela
-
   
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - relationType.xlsx>`
 
