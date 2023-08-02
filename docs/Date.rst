@@ -90,11 +90,9 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/8. Date 3.8.6. Propiedades, atr
 -   **Ejemplo XML**
 
 .. image:: _static/image30.png
-   :scale: 35%
    :name: img_ejmXml
 
 -   **Ejemplo Dataverse**
 
 .. image:: _static/image31.png
-   :scale: 35%
    :name: img_ejmlDataverse
