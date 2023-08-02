@@ -164,19 +164,7 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
 |.. image:: _static/image12_7.png |
 |   :name: table_atributorela     |
 +---------------------------------+
-
-.. image:: _static/image12_4.png
-   :name: table_atributorela
-
-.. image:: _static/image12_5.png
-   :name: table_atributorela
-
-.. image:: _static/image12_6.png
-   :name: table_atributorela
-
-.. image:: _static/image12_7.png
-   :name: table_atributorela
-  
+ 
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - relationType.xlsx>`
 
        -   **Atributo: Esquema de metadatos relacionado (relatedMetadataScheme) (O, 0-1):** Este atributo permite establecer un esquema de metadatos utilizado para describir la relación del identificador. Debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
