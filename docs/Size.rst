@@ -66,5 +66,4 @@ Repetible (R) 0-n veces
 -   Ejemplo Dataverse
 
 .. image:: _static/image13_1.png
-   :scale: 35%
    :name: img_dataverse13
