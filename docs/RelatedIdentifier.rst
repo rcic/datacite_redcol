@@ -151,27 +151,23 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
        -   **Atributo: Tipo de Relación (relationType) (MA, 1 si la propiedad relatedIdentifier es utilizada):** Este atributo permite describir la relación del recurso que se está describiendo (A) con otro recurso relacionado (B). Se debe tener en cuenta los siguientes tipos de relación y su codificación normalizada según el vocabulario controlado propuesto:
 
 .. image:: _static/image12_4.png
-   :scale: 35%
    :name: table_atributorela
 
 .. image:: _static/image12_5.png
-   :scale: 35%
    :name: table_atributorela
 
 .. image:: _static/image12_6.png
-   :scale: 35%
    :name: table_atributorela
 
 .. image:: _static/image12_7.png
-   :scale: 35%
    :name: table_atributorela
 
   
 Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos y especificadores - relationType.xlsx>`
 
-       -   **Atributo: Esquema de metadatos relacionado (relatedMetadataScheme) (O, 0-1):** Este atributo permite establecer un esquema de metadatos utilizado para describir la relación del identificador. Este atributo debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
+       -   **Atributo: Esquema de metadatos relacionado (relatedMetadataScheme) (O, 0-1):** Este atributo permite establecer un esquema de metadatos utilizado para describir la relación del identificador. Debe ser únicamente utilizado, si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
-       -   **Atributo: URI del esquema de metadatos relacionado (schemeURI) (O, 0-1):** Este atributo permite establecer la URI normalizada del esquema de metadatos utilizado para describir la relación del identificador en un formato estándar (XSD,DDT, Turtle). Este atributo debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
+       -   **Atributo: URI del esquema de metadatos relacionado (schemeURI) (O, 0-1):** Este atributo permite establecer la URI normalizada del esquema de metadatos utilizado, para describir la relación del identificador en un formato estándar (XSD,DDT, Turtle). Debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
        -   **Atributo: Tipo de esquema de metadatos relacionado (schemeType) (O, 0-1):** Este atributo contiene el tipo de formato del esquema de metadatos que fue vinculado en el atributo anterior **schemeURI** (XSD,DDT, Turtle). Este atributo debe ser únicamente utilizado si el atributo anterior **relationType** es utilizado y este contiene los valores (HasMetadata/IsMetadataFor).
 
@@ -360,7 +356,6 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
                            
 +-----------------------------------------------------------------------+
 | .. image:: _static/image1002.jpg                                      |
-|   :scale: 35%                                                         |
 |   :name: ejemplo_xml3                                                 |                                
 +-----------------------------------------------------------------------+
 ..
@@ -369,11 +364,9 @@ Descargar Tabla [#]_ :download:`xlsx <_Downloads/3.12.6. Propiedades, atributos 
 ..
 +-----------------------------------------------------------------------+
 | .. image:: _static/image12_15.png                                     |
-|   :scale: 35%                                                         |
 |   :name: ejemplo_xml2                                                 |                                
 +-----------------------------------------------------------------------+
 | .. image:: _static/image12_16.png                                     |
-|   :scale: 35%                                                         |
 |   :name: ejemplo_xml3                                                 |                                
 +-----------------------------------------------------------------------+
 ..
