@@ -1,2 +1,2 @@
 # Datacite_RedCol
-Directrices de metadatos para Repositorios de Datos de Investigación
+Directrices de Metadatos para Repositorios de Datos de Investigación del Ministerio de Ciencia, Tecnología e Innovación
