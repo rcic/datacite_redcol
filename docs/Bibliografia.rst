@@ -18,7 +18,7 @@ OpenAire. (2015). OpenAIRE Guidelines for Data Archives—OpenAIRE Guidelines do
 
 OpenAIRE. (2018). DRAFT: OpenAIRE Guidelines for Literature Repository Managers v4. https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/
 
-Red Colombiana de Información Científica, RedCol. (2020). Directrices para repositorios institucionales de investigación de la Red Colombiana de Información Científica—M701M02—1.0. https://redcol.readthedocs.io/es/latest/
+Red Colombiana de Información Científica. (2020). Directrices para repositorios institucionales de investigación de la Red Colombiana de Información Científica—M701M02—1.0. https://redcol.readthedocs.io/es/latest/
 
 Red Federada de Repositorios Institucionales de Publicaciones Científicas, LA Referencia. (2021). Proyecto Openaire. https://www.lareferencia.info/es/servicios/proyecto-openaire
 
