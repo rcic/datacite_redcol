@@ -57,7 +57,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica'
+project = u'Directrices de Metadatos para Repositorios de Datos de Investigación del Ministerio de Ciencia, Tecnología e Innovación'
 copyright = u'MinCiencias 2021'
 
 # The version info for the project you're documenting, acts as replacement for
