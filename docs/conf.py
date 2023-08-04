@@ -226,7 +226,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'OpenAIREGuidelines.tex', u'Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica',
+  (master_doc, 'OpenAIREGuidelines.tex', u'Directrices de Metadatos para Repositorios de Datos de Investigación del Ministerio de Ciencia, Tecnología e Innovación',
    u'', 'manual', True),
 ]
 
