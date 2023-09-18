@@ -9,7 +9,7 @@ Los Repositorios de Datos de Investigación (RDI) son sistemas de información d
 
 Dichos sistemas toman como insumo los datos de investigación y los transforman en  objetos digitales compuestos y heterogéneos denominados DataSets que son representados como un contenedor que agrupa: Archivos de Datos(DataFiles), Documentación, Metadatos, Identificadores persistentes y Código/Scripts para su manipulación. “Los datasets se almacenan y gestionan en repositorios interoperables en red integrados en una infraestructura global de investigación, desarrollados conforme a estándares internacionales” (Grupo de Trabajo de “Depósito y Gestión de datos en Acceso Abierto” del proyecto RECOLECTA, 2012). 
 
-Los Repositorios de Datos de Investigación son implementados con base a tres principios fundamentales:
+Los Repositorios de Datos de Investigación son implementados con base en tres principios fundamentales:
 
 -   **Administración:** Incluye los componentes de adquisición, organización/clasificación, almacenamiento y publicación de Datos y DataSets.
 
@@ -17,7 +17,7 @@ Los Repositorios de Datos de Investigación son implementados con base a tres pr
 
 -   **Descubrimiento:** Incluye los componentes de licenciamiento, búsqueda, recuperación, acceso, visibilidad e impacto.
 
-La utilización de metadatos normalizados son un componente fundamental en la gestión de los repositorios de datos de investigación, permiten establecer un marco común de descripción de los recursos que puedan ser entendidos y procesados por máquinas y humanos y de esta forma garantizar la reutilización de los datos y promover su validación, verificación, reproducción y certificación. 
+Los metadatos normalizados son un componente fundamental en la gestión de los repositorios de datos de investigación, permiten establecer un marco común de descripción de los recursos que puedan ser entendidos y procesados por máquinas y humanos y de esta forma garantizar la reutilización de los datos y promover su validación, verificación, reproducción y certificación. 
 
 Con este fin, se desarrollaron las “Directrices de Metadatos para Repositorios de Datos de Investigación de la Red Colombiana de Información Científica  (RedCol)”, buscado ofrecer a los administradores de los repositorios de datos de investigación, una guía detallada sobre los estándares, elementos de descripción y alcance de los campos de metadatos para su configuración e implementación.
 
